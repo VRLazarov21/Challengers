@@ -1,20 +1,29 @@
 #include <iostream>
-#include <windows.h>
 using namespace std;
 
-int main() {
-	HANDLE hcolor= GetStdHandle(STD_OUTPUT_HANDLE);
-	SetConsoleTextAttribute(hcolor, 1);
-	string menu[7][1] = {
-		"------------------",
-		"|                |",
-		"|      MENU      |",
-		"|                |",
-		"|     1-TABLE    |",
-		"|                |",
-		"|________________|"
-	};
-	for (int i = 0, v = 0; i < 7 && v < 1; i++) {
-		cout << menu[i][v] << endl;
-	}
+void menu(){
+    string MenuArr[8][1]{
+        "___________________",
+        "|                 |",
+        "|       MENU      |",
+        "|                 |",
+        "|     Elements    |",
+        "|      Colors     |",
+        "|       Exit      |",
+        "|_________________|"
+    };
+    string InputChouse;
+    cout << "Your chouse :";
+    cin >> InputChouse;
+    cout << endl;
+    while(InputChouse!="" && InputChouse!="Elements" && InputChouse!="Colors" && InputChouse!="Exit"){
+        cout << "Error" << endl;
+        cout << "Your chouse :";
+        cin >> InputChouse;
+        cout << endl;
+    }
+}
+
+int main(){
+    menu();
 }
