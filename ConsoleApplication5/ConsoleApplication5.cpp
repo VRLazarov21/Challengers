@@ -947,8 +947,8 @@ int main()
 
         SetConsoleTextAttribute(hc, 2);
         cout << "Positive aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
+        cout << "1. Lighting: Krypton is sometimes used in certain types of high-intensity discharge (HID) lamps and fluorescent lamps. It can enhance the efficiency and brightness of these lamps, contributing to improved lighting in various industrial and commercial settings." << endl << endl;
+        cout << "2. Laser Technology: Krypton is used in some types of gas lasers, particularly krypton fluoride (KrF) lasers. These lasers have applications in areas like lithography for semiconductor manufacturing and scientific research. The development and use of krypton-based lasers can support advancements in technology and research." << endl << endl;
         cout << "3. " << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
@@ -956,9 +956,9 @@ int main()
 
         SetConsoleTextAttribute(hc, 4);
         cout << "Negative aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Resource Scarcity: Krypton is a rare and relatively expensive noble gas. Its limited availability can make it costly for specific industrial applications, affecting their economic viability." << endl << endl;
+        cout << "2. Energy Consumption: The production and use of krypton in lighting and laser technologies can be energy-intensive, contributing to higher energy costs and potential environmental concerns." << endl << endl;
+        cout << "3. Economic Niche: Krypton's applications are relatively niche, and its contribution to the overall economy is limited compared to other more commonly used gases and materials." << endl << endl;
         SetConsoleTextAttribute(hc, 7);
         break;
 
@@ -968,7 +968,7 @@ int main()
 
         SetConsoleTextAttribute(hc, 2);
         cout << "Positive aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
+        cout << "1. Scientific Research: Rubidium is used in atomic physics and research applications, particularly in the development of atomic clocks and studies of quantum mechanics. These scientific advancements contribute to our understanding of fundamental physics and technology, which can have indirect economic benefits in terms of technological innovation." << endl << endl;
         cout << "2. " << endl << endl;
         cout << "3. " << endl << endl;
 
@@ -977,8 +977,8 @@ int main()
 
         SetConsoleTextAttribute(hc, 4);
         cout << "Negative aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
+        cout << "1. Resource Scarcity: Rubidium is relatively rare and expensive compared to more abundant elements. Its limited availability can make it costly for research and specialized technology applications, potentially increasing the cost of equipment that uses rubidium." << endl << endl;
+        cout << "2. Niche Applications: Rubidium's applications are highly specialized and limited to scientific research, atomic clocks, and certain technology sectors. Its contribution to the broader economy is minimal compared to other more commonly used materials and resources." << endl << endl;
         cout << "3. " << endl << endl;
         SetConsoleTextAttribute(hc, 7);
         break;
@@ -989,7 +989,7 @@ int main()
 
         SetConsoleTextAttribute(hc, 2);
         cout << "Positive aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
+        cout << "1. Fireworks and Pyrotechnics: Strontium compounds, particularly strontium nitrate and strontium carbonate, are used to produce red flames in fireworks and pyrotechnics. Strontium-based fireworks create visually appealing displays during celebrations and events, contributing to the entertainment industry." << endl << endl;
         cout << "2. " << endl << endl;
         cout << "3. " << endl << endl;
 
@@ -998,8 +998,8 @@ int main()
 
         SetConsoleTextAttribute(hc, 4);
         cout << "Negative aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
+        cout << "1. Resource Scarcity: Strontium is not as abundant as some other elements, and its availability can be limited. This scarcity can affect the cost of strontium compounds used in fireworks and other applications, potentially impacting the cost of producing fireworks." << endl << endl;
+        cout << "2. Niche Applications: Strontium's applications are specialized and limited to fireworks, pyrotechnics, and some minor roles in the glass and ceramic industries. Its contribution to the broader economy is relatively small compared to more commonly used materials and resources." << endl << endl;
         cout << "3. " << endl << endl;
         SetConsoleTextAttribute(hc, 7);
         break;
@@ -1010,8 +1010,8 @@ int main()
 
         SetConsoleTextAttribute(hc, 2);
         cout << "Positive aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
+        cout << "1. High-Tech Manufacturing: Yttrium is used in various high-tech applications, particularly in the manufacturing of phosphors for color television tubes and LEDs. It is essential for producing red phosphors used in display technologies, which contribute to the consumer electronics and entertainment industries." << endl << endl;
+        cout << "2. Laser Technology: Yttrium-aluminum-garnet (YAG) crystals are used in solid-state lasers, which have applications in medical devices, industrial cutting and welding, and scientific research. The development and use of YAG lasers support advancements in technology and research." << endl << endl;
         cout << "3. " << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
@@ -1019,9 +1019,9 @@ int main()
 
         SetConsoleTextAttribute(hc, 4);
         cout << "Negative aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Resource Scarcity: Yttrium is a rare earth element, and its availability is limited. The cost of yttrium can be relatively high due to its rarity, which can affect the affordability of products that rely on yttrium." << endl << endl;
+        cout << "2. Environmental Concerns: The extraction and processing of rare earth elements, including yttrium, can have environmental impacts, including habitat disruption and potential water pollution. Sustainable mining practices and environmental protections are essential to mitigate these effects." << endl << endl;
+        cout << "3. Occupational Health and Safety: The handling and processing of yttrium and its compounds can pose safety hazards to workers in industries that use these substances. Proper safety measures and regulations are necessary to minimize health risks and associated costs." << endl << endl;
         SetConsoleTextAttribute(hc, 7);
         break;
 
@@ -1031,18 +1031,18 @@ int main()
 
         SetConsoleTextAttribute(hc, 2);
         cout << "Positive aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Nuclear Industry: Zirconium is primarily used in the nuclear industry for the construction of fuel rods and cladding materials in nuclear reactors. It has excellent resistance to corrosion and high temperatures, making it a vital material for ensuring the safe operation of nuclear power plants. The growth of the nuclear energy sector contributes to economic activity in this industry." << endl << endl;
+        cout << "2. Aerospace and Defense: Zirconium-based alloys are used in the aerospace and defense industries for applications such as aircraft components, gas turbine engines, and missile systems. Zirconium's strength and heat resistance contribute to the performance and reliability of aerospace and defense systems." << endl << endl;
+        cout << "3. Chemical Industry: Zirconium compounds are used as catalysts in various chemical processes and in the production of ceramics and refractories. These applications support economic activity in the chemical and materials sectors." << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
         cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
 
         SetConsoleTextAttribute(hc, 4);
         cout << "Negative aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Resource Availability: While zirconium is relatively abundant in the Earth's crust, obtaining high-purity zirconium can be challenging. The refining and processing of zirconium can be resource-intensive, which can affect its availability and market price." << endl << endl;
+        cout << "2. Occupational Health and Safety: The handling and processing of zirconium and its compounds can pose safety hazards to workers in industries that use these substances. Proper safety measures and regulations are necessary to minimize health risks and associated costs." << endl << endl;
+        cout << "3. Environmental Impact: The production and processing of zirconium-containing materials may have environmental consequences. Efforts to minimize environmental impacts and promote responsible mining and production practices are important." << endl << endl;
         SetConsoleTextAttribute(hc, 7);
         break;
 
@@ -1052,18 +1052,18 @@ int main()
 
         SetConsoleTextAttribute(hc, 2);
         cout << "Positive aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Steel and Alloy Production: Niobium is primarily used as an alloying element in the production of high-strength, low-alloy (HSLA) steel. HSLA steel is used in various applications, including automotive manufacturing, construction, and infrastructure projects. The use of niobium in steel production contributes to economic growth in these sectors." << endl << endl;
+        cout << "2. Aerospace and Defense: Niobium-containing superalloys are used in the aerospace and defense industries for applications such as aircraft engines, gas turbines, and rocket engines. Niobium's high-temperature resistance and strength enhance the performance and reliability of aerospace and defense systems." << endl << endl;
+        cout << "3. Electronics: Niobium is used in the production of capacitors and superconductors. Superconducting materials have applications in various electronic devices and medical equipment. The growth of the electronics and medical technology industries contributes to economic activity in these sectors." << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
         cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
 
         SetConsoleTextAttribute(hc, 4);
         cout << "Negative aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Resource Availability: While niobium is relatively abundant, obtaining high-purity niobium can be challenging. The refining and processing of niobium can be resource-intensive, affecting its availability and market price." << endl << endl;
+        cout << "2. Occupational Health and Safety: The handling and processing of niobium and its compounds can pose safety hazards to workers in industries that use these materials. Proper safety measures and regulations are necessary to minimize health risks and associated costs." << endl << endl;
+        cout << "3. Environmental Impact: The production and processing of niobium-containing materials may have environmental consequences. Efforts to minimize environmental impacts and promote responsible mining and production practices are important." << endl << endl;
         SetConsoleTextAttribute(hc, 7);
         break;
 
@@ -1073,18 +1073,18 @@ int main()
 
         SetConsoleTextAttribute(hc, 2);
         cout << "Positive aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Steel and Alloy Production: Molybdenum is a crucial alloying element in the production of high-strength, low-alloy (HSLA) steel and stainless steel. HSLA steel is used in applications such as automotive manufacturing, construction, and infrastructure projects, while stainless steel is widely used in the manufacturing of consumer goods, cookware, and industrial equipment. The use of molybdenum in steel and alloy production contributes to economic growth in these sectors." << endl << endl;
+        cout << "2. Aerospace and Defense: Molybdenum-containing superalloys are used in the aerospace and defense industries for applications such as aircraft engines, gas turbines, and missile systems. Molybdenum's high-temperature resistance and strength enhance the performance and reliability of aerospace and defense systems." << endl << endl;
+        cout << "3. Chemical Industry: Molybdenum compounds are used as catalysts in various chemical processes, including the production of petrochemicals, plastics, and pharmaceuticals. These applications support economic activity in the chemical sector." << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
         cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
 
         SetConsoleTextAttribute(hc, 4);
         cout << "Negative aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Resource Availability: While molybdenum is relatively abundant, obtaining high-purity molybdenum can be challenging. The refining and processing of molybdenum can be resource-intensive, affecting its availability and market price." << endl << endl;
+        cout << "2. Occupational Health and Safety: The handling and processing of molybdenum and its compounds can pose safety hazards to workers in industries that use these materials. Proper safety measures and regulations are necessary to minimize health risks and associated costs." << endl << endl;
+        cout << "3. Environmental Impact: The production and processing of molybdenum-containing materials may have environmental consequences. Efforts to minimize environmental impacts and promote responsible mining and production practices are important." << endl << endl;
         SetConsoleTextAttribute(hc, 7);
         break;
 
@@ -1094,7 +1094,7 @@ int main()
 
         SetConsoleTextAttribute(hc, 2);
         cout << "Positive aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
+        cout << "1. Medical Imaging: Technetium-99m, a radioactive isotope of technetium, is used in nuclear medicine for diagnostic imaging procedures, such as single-photon emission computed tomography (SPECT) scans. It plays a crucial role in the field of medical imaging, helping to diagnose and monitor various medical conditions." << endl << endl;
         cout << "2. " << endl << endl;
         cout << "3. " << endl << endl;
 
@@ -1103,9 +1103,9 @@ int main()
 
         SetConsoleTextAttribute(hc, 4);
         cout << "Negative aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Radioactive Waste Management: Technetium-99m has a relatively short half-life, but it still produces radioactive waste that must be safely managed and disposed of. The handling and storage of radioactive materials can be costly and pose environmental and safety challenges." << endl << endl;
+        cout << "2. Resource Scarcity: Technetium is a man-made element, primarily produced in nuclear reactors or particle accelerators. The production process can be complex and costly, and the availability of technetium is limited." << endl << endl;
+        cout << "3. Nuclear Proliferation Concerns: The production and use of radioactive isotopes, including technetium-99m, are subject to strict regulations and controls to prevent their misuse in nuclear weapons or other illicit activities. These regulations can increase compliance costs for industries using technetium." << endl << endl;
         SetConsoleTextAttribute(hc, 7);
         break;
 
@@ -1115,18 +1115,18 @@ int main()
 
         SetConsoleTextAttribute(hc, 2);
         cout << "Positive aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Electronics: Ruthenium is used in the production of electrical contacts and resistors due to its high-temperature resistance and excellent conductivity. These components are essential in various electronic devices and equipment, contributing to the electronics industry." << endl << endl;
+        cout << "2. Catalysis: Ruthenium compounds serve as catalysts in chemical processes, including the production of chemicals, fuels, and pharmaceuticals. These catalytic applications support economic activity in the chemical industry." << endl << endl;
+        cout << "3. Solar Energy: Ruthenium complexes are used in the development of dye-sensitized solar cells, a type of next-generation photovoltaic technology. The growth of renewable energy sources, such as dye-sensitized solar cells, contributes to economic activity in the energy sector." << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
         cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
 
         SetConsoleTextAttribute(hc, 4);
         cout << "Negative aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Resource Scarcity: Ruthenium is a rare and expensive metal, and its availability is limited. The cost of ruthenium can be relatively high, affecting its affordability for various industrial applications." << endl << endl;
+        cout << "2. Occupational Health and Safety: The handling and processing of ruthenium and its compounds can pose safety hazards to workers in industries that use these materials. Proper safety measures and regulations are necessary to minimize health risks and associated costs." << endl << endl;
+        cout << "3. Environmental Impact: The production and processing of ruthenium-containing materials may have environmental consequences. Efforts to minimize environmental impacts and promote responsible mining and production practices are important." << endl << endl;
         SetConsoleTextAttribute(hc, 7);
         break;
 
@@ -1136,18 +1136,18 @@ int main()
 
         SetConsoleTextAttribute(hc, 2);
         cout << "Positive aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Automotive Industry: Rhodium is a crucial component in catalytic converters, which are used in vehicles to reduce emissions of harmful pollutants, such as nitrogen oxides (NOx) and carbon monoxide (CO). The automotive industry relies on rhodium to comply with stringent environmental regulations. As environmental standards become more stringent worldwide, the demand for rhodium in catalytic converters continues to grow, supporting the automotive sector." << endl << endl;
+        cout << "2. Jewelry Industry: Rhodium is used to electroplate white gold and platinum jewelry, giving it a reflective and corrosion-resistant finish. The jewelry industry benefits from rhodium's aesthetic properties, as it enhances the appearance and durability of precious metal jewelry." << endl << endl;
+        cout << "3. Electronics: Rhodium is used in electrical connectors, particularly in high-frequency applications, due to its excellent electrical conductivity. This contributes to the electronics industry, particularly in the manufacturing of high-performance electronic devices." << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
         cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
 
         SetConsoleTextAttribute(hc, 4);
         cout << "Negative aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Resource Scarcity: Rhodium is one of the rarest and most expensive elements in the Earth's crust. Its limited availability can result in significant market price volatility, which can affect industries that rely on rhodium." << endl << endl;
+        cout << "2. Environmental Concerns: The extraction and processing of rhodium-containing materials may have environmental consequences. Additionally, the mining of platinum group metals, including rhodium, can have environmental impacts. Efforts to minimize these impacts and promote responsible mining practices are important." << endl << endl;
+        cout << "3. Occupational Health and Safety: The handling and processing of rhodium and its compounds can pose safety hazards to workers in industries that use these materials. Proper safety measures and regulations are necessary to minimize health risks and associated costs." << endl << endl;
         SetConsoleTextAttribute(hc, 7);
         break;
 
