@@ -1682,8 +1682,8 @@ int main()
 
         SetConsoleTextAttribute(hc, 2);
         cout << "Positive aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
+        cout << "1. Medical Applications: Lutetium-177, a radioactive isotope of lutetium, has applications in targeted radionuclide therapy for certain types of cancer. Lutetium compounds are used in radiopharmaceuticals for medical imaging and therapeutic purposes." << endl << endl;
+        cout << "2. Scientific Research: Lutetium is used in scientific research, particularly in studies involving the development of new materials, catalysts, and certain high-tech applications." << endl << endl;
         cout << "3. " << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
@@ -1691,9 +1691,9 @@ int main()
 
         SetConsoleTextAttribute(hc, 4);
         cout << "Negative aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Resource Scarcity: Lutetium is a rare-earth element, and its availability can be limited. The extraction and production of lutetium may contribute to resource scarcity and potential geopolitical considerations." << endl << endl;
+        cout << "2. Occupational Health and Safety: The handling and processing of lutetium and its compounds, especially in medical and industrial settings, can pose safety hazards to workers. Proper safety measures and regulations are necessary to minimize health risks." << endl << endl;
+        cout << "3. Environmental Impact: The mining and processing of lutetium-containing minerals can have environmental consequences. Sustainable mining practices and efforts to minimize environmental impacts are important considerations." << endl << endl;
         SetConsoleTextAttribute(hc, 7);
         break;
 
@@ -1703,8 +1703,8 @@ int main()
 
         SetConsoleTextAttribute(hc, 2);
         cout << "Positive aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
+        cout << "1. Nuclear Reactors: Hafnium has applications in nuclear reactors, where it can be used as a neutron absorber in control rods. Hafnium-based control rods are utilized in some reactor designs to regulate the rate of nuclear reactions." << endl << endl;
+        cout << "2. Semiconductor Manufacturing: Hafnium compounds, particularly hafnium oxide, are used in the manufacturing of semiconductors. Hafnium-based materials contribute to the development of advanced electronic devices." << endl << endl;
         cout << "3. " << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
@@ -1712,9 +1712,9 @@ int main()
 
         SetConsoleTextAttribute(hc, 4);
         cout << "Negative aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Resource Scarcity: Hafnium is relatively scarce, and its availability can be limited. The extraction and production of hafnium may contribute to resource scarcity and potential geopolitical considerations." << endl << endl;
+        cout << "2. Occupational Health and Safety: The handling and processing of hafnium and its compounds, especially in industries such as nuclear and semiconductor manufacturing, can pose safety hazards to workers. Proper safety measures and regulations are necessary to minimize health risks." << endl << endl;
+        cout << "3. Environmental Impact: The mining and processing of hafnium-containing minerals can have environmental consequences. Sustainable mining practices and efforts to minimize environmental impacts are important considerations." << endl << endl;
         SetConsoleTextAttribute(hc, 7);
         break;
 
@@ -1724,18 +1724,18 @@ int main()
 
         SetConsoleTextAttribute(hc, 2);
         cout << "Positive aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Electronics Manufacturing: Tantalum is a crucial component in the production of capacitors, which are widely used in electronic devices such as smartphones, laptops, and other consumer electronics. Tantalum capacitors are known for their high capacitance and stability, contributing to the miniaturization and performance of electronic devices." << endl << endl;
+        cout << "2. Aerospace and Defense: Tantalum is used in certain aerospace and defense applications, such as turbine blades, missile components, and high-temperature alloys. Its high melting point and corrosion resistance make it valuable in these demanding environments." << endl << endl;
+        cout << "3. Medical Devices: Tantalum has applications in the medical industry, particularly in the production of implants and medical devices. Its biocompatibility and resistance to corrosion make it suitable for use in various medical applications." << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
         cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
 
         SetConsoleTextAttribute(hc, 4);
         cout << "Negative aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Resource Availability: Tantalum resources are limited, and the extraction process can be associated with geopolitical and ethical concerns. Some tantalum mining operations are located in regions with social and political instability, leading to challenges related to fair labor practices and environmental regulations." << endl << endl;
+        cout << "2. Conflict Minerals: Tantalum is classified as a ""conflict mineral"" when sourced from regions involved in armed conflict, contributing to concerns about human rights abuses and the financing of armed groups. Efforts have been made to establish responsible sourcing practices to avoid the use of conflict minerals." << endl << endl;
+        cout << "3. Environmental Impact: The mining and processing of tantalum ore can have environmental consequences, including deforestation, soil erosion, and water pollution. Sustainable mining practices and efforts to reduce the environmental impact are important considerations." << endl << endl;
         SetConsoleTextAttribute(hc, 7);
         break;
 
@@ -1745,18 +1745,18 @@ int main()
 
         SetConsoleTextAttribute(hc, 2);
         cout << "Positive aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Industrial Applications: Tungsten is widely used in various industrial applications, including the production of cemented carbides, cutting tools, and wear-resistant materials. Its hardness and durability make it valuable in industries such as mining, construction, and metalworking." << endl << endl;
+        cout << "2. Electronics and Technology: Tungsten is used in the production of electronic devices, such as lightbulb filaments and electrical contacts. It is also used in the aerospace and defense industries for the production of components like jet engine parts and missiles." << endl << endl;
+        cout << "3. Medical Applications: Tungsten alloys are used in medical imaging and radiation therapy equipment. Its high density makes it suitable for shielding against radiation in X-ray machines and other medical devices." << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
         cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
 
         SetConsoleTextAttribute(hc, 4);
         cout << "Negative aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Resource Availability: Tungsten resources are limited, and the extraction process can be associated with environmental challenges. Mining activities may contribute to deforestation, soil erosion, and habitat disruption." << endl << endl;
+        cout << "2. Occupational Health and Safety: Tungsten mining and processing can pose risks to the health and safety of workers. Exposure to tungsten dust and compounds may lead to respiratory issues and other health concerns. Proper safety measures and regulations are necessary to minimize these risks." << endl << endl;
+        cout << "3. Environmental Impact: The mining and processing of tungsten ore can have environmental consequences, including soil and water pollution. Sustainable mining practices and efforts to reduce the environmental impact are important considerations." << endl << endl;
         SetConsoleTextAttribute(hc, 7);
         break;
 
@@ -1766,18 +1766,18 @@ int main()
 
         SetConsoleTextAttribute(hc, 2);
         cout << "Positive aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Aerospace and Defense: Rhenium is used in the production of superalloys, which are crucial for high-temperature applications in jet engines, turbine blades, and certain aerospace components. Its ability to withstand extreme temperatures contributes to the efficiency and performance of aerospace technologies." << endl << endl;
+        cout << "2. Catalysts: Rhenium is used as a catalyst in the production of high-octane gasoline. It improves the efficiency of certain catalytic processes, contributing to the petroleum refining industry." << endl << endl;
+        cout << "3. Medical Imaging: Rhenium-188, a radioactive isotope of rhenium, has applications in nuclear medicine for therapeutic purposes, such as cancer treatment. It is used in radiopharmaceuticals for targeted radiation therapy." << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
         cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
 
         SetConsoleTextAttribute(hc, 4);
         cout << "Negative aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Resource Scarcity: Rhenium is relatively scarce, and its availability can be limited. The extraction and production of rhenium may contribute to resource scarcity and potential geopolitical considerations." << endl << endl;
+        cout << "2. Occupational Health and Safety: The handling and processing of rhenium and its compounds, especially in industrial settings, can pose safety hazards to workers. Proper safety measures and regulations are necessary to minimize health risks." << endl << endl;
+        cout << "3. Environmental Impact: The mining and processing of rhenium-containing minerals can have environmental consequences, including soil and water pollution. Sustainable mining practices and efforts to minimize environmental impacts are important considerations." << endl << endl;
         SetConsoleTextAttribute(hc, 7);
         break;
 
@@ -1787,8 +1787,8 @@ int main()
 
         SetConsoleTextAttribute(hc, 2);
         cout << "Positive aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
+        cout << "1. Electronics and Technology: Osmium has applications in certain electronic components, particularly in the production of specialized electrical contacts and switches. Its hardness and durability make it suitable for specific technological applications." << endl << endl;
+        cout << "2. Catalysis: Osmium compounds are used as catalysts in some chemical processes, contributing to increased efficiency and reduced environmental impact in the chemical industry." << endl << endl;
         cout << "3. " << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
@@ -1796,9 +1796,9 @@ int main()
 
         SetConsoleTextAttribute(hc, 4);
         cout << "Negative aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Resource Scarcity: Osmium is one of the rarest elements on Earth, and its availability is extremely limited. The extraction and production of osmium may contribute to resource scarcity and potential geopolitical considerations." << endl << endl;
+        cout << "2. Occupational Health and Safety: The handling and processing of osmium and its compounds, especially in industrial settings, can pose safety hazards to workers. Proper safety measures and regulations are necessary to minimize health risks." << endl << endl;
+        cout << "3. Environmental Impact: The mining and processing of osmium-containing minerals can have environmental consequences, including soil and water pollution. Sustainable mining practices and efforts to minimize environmental impacts are important considerations." << endl << endl;
         SetConsoleTextAttribute(hc, 7);
         break;
 
@@ -1808,18 +1808,18 @@ int main()
 
         SetConsoleTextAttribute(hc, 2);
         cout << "Positive aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Electronics and Technology: Iridium is used in certain electronic components, particularly in the production of electrical contacts and spark plugs. Its high melting point and resistance to corrosion make it suitable for specific technological applications." << endl << endl;
+        cout << "2. Catalysis: Iridium compounds serve as catalysts in various chemical processes, contributing to increased efficiency and reduced environmental impact in the chemical and pharmaceutical industries." << endl << endl;
+        cout << "3. Space Exploration: Iridium is used in certain spacecraft components and instruments due to its resistance to extreme temperatures and harsh conditions. It has been used in satellite technologies, enhancing communication and navigation systems." << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
         cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
 
         SetConsoleTextAttribute(hc, 4);
         cout << "Negative aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Resource Scarcity: Iridium is one of the rarest elements on Earth, and its availability is limited. The extraction and production of iridium may contribute to resource scarcity and potential geopolitical considerations." << endl << endl;
+        cout << "2. Occupational Health and Safety: The handling and processing of iridium and its compounds, especially in industrial settings, can pose safety hazards to workers. Proper safety measures and regulations are necessary to minimize health risks." << endl << endl;
+        cout << "3. Environmental Impact: The mining and processing of iridium-containing minerals can have environmental consequences, including soil and water pollution. Sustainable mining practices and efforts to minimize environmental impacts are important considerations." << endl << endl;
         SetConsoleTextAttribute(hc, 7);
         break;
 
@@ -1829,18 +1829,18 @@ int main()
 
         SetConsoleTextAttribute(hc, 2);
         cout << "Positive aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Automotive Industry: Platinum is a crucial component in catalytic converters used in vehicles to reduce harmful emissions. The automotive industry relies on platinum to meet emissions standards, contributing to air quality improvement." << endl << endl;
+        cout << "2. Jewelry and Luxury Goods: Platinum is highly valued for its rarity and durability, making it a sought-after material for jewelry and luxury goods. Its use in high-end products contributes to the jewelry and luxury goods markets." << endl << endl;
+        cout << "3. Electronics: Platinum is used in certain electronic components and devices, including hard disk drives and certain sensors, contributing to the manufacturing of advanced electronic technologies." << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
         cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
 
         SetConsoleTextAttribute(hc, 4);
         cout << "Negative aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Resource Scarcity: Platinum is relatively scarce, and its extraction can have environmental consequences. Mining activities may lead to habitat disruption, soil erosion, and water pollution." << endl << endl;
+        cout << "2. Occupational Health and Safety: The mining and processing of platinum can pose risks to the health and safety of workers. Exposure to platinum dust and compounds may lead to respiratory issues and other health concerns. Proper safety measures and regulations are necessary to minimize these risks." << endl << endl;
+        cout << "3. Environmental Impact: The mining and processing of platinum-containing minerals can have environmental consequences, including deforestation, soil and water pollution, and ecosystem disruption. Sustainable mining practices are essential to mitigate these impacts." << endl << endl;
         SetConsoleTextAttribute(hc, 7);
         break;
 
@@ -1850,18 +1850,18 @@ int main()
 
         SetConsoleTextAttribute(hc, 2);
         cout << "Positive aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Jewelry and Luxury Goods: Gold is highly valued for its rarity, beauty, and durability, making it a sought-after material for jewelry and luxury goods. Its use in high-end products contributes significantly to the jewelry and luxury goods markets." << endl << endl;
+        cout << "2. Investment: Gold is often considered a safe-haven asset and a hedge against inflation. Many individuals and institutional investors allocate funds to gold as a store of value, especially during times of economic uncertainty." << endl << endl;
+        cout << "3. Electronics: Gold is an excellent conductor of electricity and is used in the production of electronic components, such as connectors, switches, and circuit boards. Its use in electronics contributes to the manufacturing of a wide range of devices." << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
         cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
 
         SetConsoleTextAttribute(hc, 4);
         cout << "Negative aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Resource Extraction: The mining of gold can have significant environmental and social impacts. Large-scale mining operations may lead to deforestation, habitat destruction, soil erosion, and water pollution. The use of toxic chemicals, such as cyanide, in the extraction process poses environmental risks." << endl << endl;
+        cout << "2. Labor Practices: Gold mining can be associated with poor labor practices, including unsafe working conditions, inadequate wages, and exploitation of labor in some regions. Social and ethical concerns related to mining practices are important considerations." << endl << endl;
+        cout << "3. Conflict Gold: In some regions, gold mining has been linked to conflict financing. ""Conflict gold"" refers to gold sourced from areas where armed conflict and human rights abuses occur. Efforts have been made to establish responsible sourcing practices to avoid the use of conflict gold." << endl << endl;
         SetConsoleTextAttribute(hc, 7);
         break;
 
