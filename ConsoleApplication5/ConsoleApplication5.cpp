@@ -1871,8 +1871,8 @@ int main()
 
         SetConsoleTextAttribute(hc, 2);
         cout << "Positive aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
+        cout << "1. Electronics and Industrial Applications: Mercury has historically been used in various industrial processes and electronic devices, including switches, thermometers, and certain types of batteries. Its unique properties, such as electrical conductivity and fluidity, made it valuable for specific applications." << endl << endl;
+        cout << "2. Artisanal and Small-Scale Gold Mining (ASGM): Mercury has been used in ASGM as a means of extracting gold from ore. The amalgamation process, which involves mixing mercury with gold-containing materials, has been a common method in some regions." << endl << endl;
         cout << "3. " << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
@@ -1880,9 +1880,9 @@ int main()
 
         SetConsoleTextAttribute(hc, 4);
         cout << "Negative aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Environmental Contamination: Mercury is a potent neurotoxin, and its use and release into the environment can lead to contamination of air, water, and soil. Once released, mercury can transform into methylmercury, a highly toxic form that bioaccumulates in aquatic ecosystems, posing risks to human and environmental health." << endl << endl;
+        cout << "2. Human Health Concerns: Exposure to mercury, especially in its methylmercury form, can have severe health impacts on humans, including neurological and developmental issues. This is particularly concerning in ASGM, where miners and nearby communities may be exposed to mercury through inhalation, ingestion, or dermal contact." << endl << endl;
+        cout << "3. Ecosystem Disruption: Mercury pollution can lead to ecosystem disruption, especially in aquatic environments. It can negatively impact fish and other aquatic organisms, affecting entire food chains. This has implications for fisheries and the livelihoods of communities dependent on aquatic resources." << endl << endl;
         SetConsoleTextAttribute(hc, 7);
         break;
 
@@ -1892,8 +1892,8 @@ int main()
 
         SetConsoleTextAttribute(hc, 2);
         cout << "Positive aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
+        cout << "1. Electronics and Optics: Thallium compounds have been used in the electronics and optics industries. Thallium-based materials, such as thallium bromide and thallium iodide, have been employed in infrared detectors and certain optical systems." << endl << endl;
+        cout << "2. Medical Imaging: Thallium-201, a radioactive isotope of thallium, has been used in nuclear medicine for imaging purposes, particularly in heart imaging studies to assess blood flow to the heart muscle." << endl << endl;
         cout << "3. " << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
@@ -1901,9 +1901,9 @@ int main()
 
         SetConsoleTextAttribute(hc, 4);
         cout << "Negative aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Toxicity: Thallium is highly toxic to humans and can pose serious health risks. Exposure to thallium can occur through inhalation, ingestion, or skin contact. Acute and chronic thallium poisoning can lead to a range of health issues, including neurological damage, gastrointestinal problems, and organ failure." << endl << endl;
+        cout << "2. Environmental Contamination: The improper disposal of thallium-containing waste or the release of thallium into the environment, whether through industrial processes or other means, can lead to environmental contamination. Thallium is persistent and can accumulate in soil and water, impacting ecosystems." << endl << endl;
+        cout << "3. Occupational Health and Safety: Workers involved in industries that use or produce thallium-containing materials may face occupational health risks. Proper safety measures and regulations are necessary to minimize the risk of thallium exposure in the workplace." << endl << endl;
         SetConsoleTextAttribute(hc, 7);
         break;
 
@@ -1913,8 +1913,8 @@ int main()
 
         SetConsoleTextAttribute(hc, 2);
         cout << "Positive aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
+        cout << "1. Battery Manufacturing: Lead-acid batteries are a significant application of lead and are widely used for various purposes, including automotive batteries for vehicles, backup power supplies, and renewable energy storage. The battery industry contributes to economic activity and provides energy storage solutions." << endl << endl;
+        cout << "2. Construction: Lead is used in construction materials, particularly in roofing, pipes, and certain alloys. Its properties, such as corrosion resistance and malleability, make it suitable for certain construction applications." << endl << endl;
         cout << "3. " << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
@@ -1922,9 +1922,9 @@ int main()
 
         SetConsoleTextAttribute(hc, 4);
         cout << "Negative aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Toxicity: Lead is highly toxic to humans, especially to children, and can cause severe health issues, including developmental delays, cognitive impairment, and neurological damage. Exposure to lead can occur through various sources, including lead-based paints, contaminated water, and lead-containing products." << endl << endl;
+        cout << "2. Environmental Contamination: Improper disposal of lead-containing waste and emissions from industrial processes can lead to environmental contamination. Lead can persist in soil and water, posing risks to ecosystems and wildlife." << endl << endl;
+        cout << "3. Occupational Health and Safety: Workers involved in industries that use or process lead, such as battery manufacturing or construction, may face occupational health risks. Proper safety measures and regulations are necessary to minimize the risk of lead exposure in the workplace." << endl << endl;
         SetConsoleTextAttribute(hc, 7);
         break;
 
@@ -1934,8 +1934,8 @@ int main()
 
         SetConsoleTextAttribute(hc, 2);
         cout << "Positive aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
+        cout << "1. Pharmaceuticals: Bismuth compounds, such as bismuth subsalicylate, have been used in medications to treat gastrointestinal issues, including indigestion and diarrhea. Bismuth-based drugs contribute to the pharmaceutical industry." << endl << endl;
+        cout << "2. Alloys: Bismuth is used in certain alloys, such as bismuth-tin alloys, which have low melting points. These alloys find applications in soldering and casting." << endl << endl;
         cout << "3. " << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
@@ -1943,9 +1943,9 @@ int main()
 
         SetConsoleTextAttribute(hc, 4);
         cout << "Negative aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Limited Commercial Use: Bismuth has limited direct applications compared to more common metals. Its use is often niche and specific to certain industries, which limits its overall economic impact." << endl << endl;
+        cout << "2. Resource Availability: While bismuth is not as scarce as some other metals, its availability is still limited. The mining and extraction of bismuth may face challenges related to resource availability and geopolitical considerations." << endl << endl;
+        cout << "3. Occupational Health and Safety: Workers involved in the mining and processing of bismuth, as well as in industries using bismuth compounds, may face occupational health risks. Proper safety measures and regulations are necessary to minimize the risk of exposure." << endl << endl;
         SetConsoleTextAttribute(hc, 7);
         break;
 
@@ -1955,8 +1955,8 @@ int main()
 
         SetConsoleTextAttribute(hc, 2);
         cout << "Positive aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
+        cout << "1. Nuclear Industry: Polonium-210 has been used in certain applications within the nuclear industry, particularly in nuclear reactors. It can serve as a neutron initiator in some nuclear weapons designs." << endl << endl;
+        cout << "2. Static Elimination: Polonium-210 has been used in certain industrial applications for static elimination, primarily in the printing industry. Its radioactive properties contribute to its effectiveness in neutralizing static charges on surfaces." << endl << endl;
         cout << "3. " << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
@@ -1964,9 +1964,9 @@ int main()
 
         SetConsoleTextAttribute(hc, 4);
         cout << "Negative aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Radioactive Hazard: Polonium is highly radioactive, and exposure to its decay products, particularly polonium-210, can pose severe health risks. The alpha particles emitted during its decay are harmful if ingested, inhaled, or come into contact with living tissues." << endl << endl;
+        cout << "2. Occupational Health and Safety: Workers involved in industries using polonium or working in proximity to polonium-containing materials may face occupational health risks. Proper safety measures and regulations are necessary to minimize the risk of exposure." << endl << endl;
+        cout << "3. Nuclear Proliferation Concerns: Polonium-210 has been associated with nuclear weapons, and its use or possession raises concerns about nuclear proliferation. International efforts are in place to monitor and regulate the use of radioactive materials to prevent their misuse." << endl << endl;
         SetConsoleTextAttribute(hc, 7);
         break;
 
@@ -1976,7 +1976,7 @@ int main()
 
         SetConsoleTextAttribute(hc, 2);
         cout << "Positive aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
+        cout << "1. Research and Scientific Studies: Astatine is primarily used in scientific research, particularly in nuclear physics and medicine. Its radioactivity and unique properties make it valuable for studying fundamental atomic and nuclear processes." << endl << endl;
         cout << "2. " << endl << endl;
         cout << "3. " << endl << endl;
 
@@ -1985,9 +1985,9 @@ int main()
 
         SetConsoleTextAttribute(hc, 4);
         cout << "Negative aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Radioactive Hazard: Astatine is highly radioactive, and its use or handling poses significant health risks due to radiation exposure. The short half-life of astatine isotopes adds to the challenges of working with this element." << endl << endl;
+        cout << "2. Limited Commercial Use: Astatine has very limited practical applications outside of scientific research. It is not used in industrial processes or consumer products, which means it does not contribute significantly to economic activities." << endl << endl;
+        cout << "3. Nuclear Proliferation Concerns: While not a major concern given its limited availability and use, any material with potential nuclear applications, including astatine, raises some level of concern about nuclear proliferation. Stringent regulations and controls are in place to monitor the use of radioactive materials." << endl << endl;
         SetConsoleTextAttribute(hc, 7);
         break;
 
@@ -1997,7 +1997,7 @@ int main()
 
         SetConsoleTextAttribute(hc, 2);
         cout << "Positive aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
+        cout << "1. Scientific Research: Radon is used in scientific research, particularly in studies related to radioactive decay and the behavior of radionuclides. Research involving radon can contribute to a better understanding of radioactivity." << endl << endl;
         cout << "2. " << endl << endl;
         cout << "3. " << endl << endl;
 
@@ -2006,9 +2006,9 @@ int main()
 
         SetConsoleTextAttribute(hc, 4);
         cout << "Negative aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Health Risks: Radon exposure is a significant health concern as it is the second leading cause of lung cancer after smoking. Radon gas can accumulate in enclosed spaces, particularly in buildings, and inhaling radon decay products can lead to an increased risk of lung cancer. The associated health costs and impact on workforce productivity can be substantial." << endl << endl;
+        cout << "2. Construction Costs: Mitigating radon exposure in buildings often involves additional construction measures, such as installing radon barriers, ventilation systems, or using radon-resistant construction techniques. While these measures are essential for public health, they can contribute to increased construction costs." << endl << endl;
+        cout << "3. Real Estate Impact: Radon levels can affect the value and marketability of real estate properties. High radon levels in a building may require remediation efforts, potentially affecting property values and the real estate market." << endl << endl;
         SetConsoleTextAttribute(hc, 7);
         break;
 
@@ -2018,7 +2018,7 @@ int main()
 
         SetConsoleTextAttribute(hc, 2);
         cout << "Positive aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
+        cout << "1. Scientific Research: Francium is used in scientific research, particularly in nuclear physics, as it provides insights into atomic structure and decay processes. However, these applications are limited to laboratory settings." << endl << endl;
         cout << "2. " << endl << endl;
         cout << "3. " << endl << endl;
 
@@ -2027,9 +2027,9 @@ int main()
 
         SetConsoleTextAttribute(hc, 4);
         cout << "Negative aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Radioactive Hazard: Francium is highly radioactive, and its decay products pose significant health risks. Handling or working with francium requires specialized equipment and safety measures due to its intense radioactivity." << endl << endl;
+        cout << "2. Limited Commercial Use: The extreme rarity and short half-life of francium make it impractical for any commercial applications. It is not used in industrial processes, consumer products, or technology due to its scarcity and radioactivity." << endl << endl;
+        cout << "3. Cost of Production: Francium is primarily produced in minute quantities in laboratories through nuclear reactions. The cost of producing even small amounts of francium is high, further limiting its practical utility." << endl << endl;
         SetConsoleTextAttribute(hc, 7);
         break;
 
@@ -2039,8 +2039,8 @@ int main()
 
         SetConsoleTextAttribute(hc, 2);
         cout << "Positive aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
+        cout << "1. Historical Uses: In the early to mid-20th century, radium was used in various consumer products, such as glow-in-the-dark paints, watch dials, and medical treatments. Its luminescent properties made it valuable for these applications." << endl << endl;
+        cout << "2. Medical Applications: Historically, radium was used in medicine for cancer treatments and in certain medical devices. However, modern medical practices have largely shifted away from radium due to its radioactive nature and associated health risks." << endl << endl;
         cout << "3. " << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
@@ -2048,9 +2048,9 @@ int main()
 
         SetConsoleTextAttribute(hc, 4);
         cout << "Negative aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Health Risks: Radium is a highly radioactive material, and exposure to its decay products poses significant health risks, including an increased risk of cancer. The historical use of radium in consumer products and medical treatments has led to cases of radiation poisoning among workers and consumers." << endl << endl;
+        cout << "2. Environmental Contamination: Improper disposal of radium-containing materials or contamination from industrial processes can lead to environmental issues. Radium can persist in soil and water, posing risks to ecosystems." << endl << endl;
+        cout << "3. Occupational Health and Safety: Workers involved in industries that historically used radium, such as watchmaking or certain industrial processes, may face occupational health risks. Proper safety measures and regulations are necessary to minimize the risk of exposure." << endl << endl;
         SetConsoleTextAttribute(hc, 7);
         break;
 
@@ -2060,8 +2060,8 @@ int main()
 
         SetConsoleTextAttribute(hc, 2);
         cout << "Positive aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
+        cout << "1. Scientific Research: Actinium is used in scientific research, particularly in nuclear physics and the study of radioactive decay. Its properties make it valuable for understanding fundamental atomic and nuclear processes." << endl << endl;
+        cout << "2. eutron Production: Actinium-227, a decay product of uranium-235, can be used as a neutron source in certain applications, such as in neutron radiography and research reactors." << endl << endl;
         cout << "3. " << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
@@ -2069,9 +2069,9 @@ int main()
 
         SetConsoleTextAttribute(hc, 4);
         cout << "Negative aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Radioactive Hazard: Actinium is highly radioactive, and its decay products pose significant health risks. Handling or working with actinium requires specialized equipment and safety measures due to its intense radioactivity." << endl << endl;
+        cout << "2. Limited Commercial Use: The extreme rarity and short half-life of actinium make it impractical for any widespread commercial applications. It is not used in industrial processes, consumer products, or technology due to its scarcity and radioactivity." << endl << endl;
+        cout << "3. Occupational Health and Safety: Workers involved in industries that use or handle actinium-containing materials may face occupational health risks. Proper safety measures and regulations are necessary to minimize the risk of exposure." << endl << endl;
         SetConsoleTextAttribute(hc, 7);
         break;
 
@@ -2081,18 +2081,18 @@ int main()
 
         SetConsoleTextAttribute(hc, 2);
         cout << "Positive aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Nuclear Energy: Thorium is being explored as a potential fuel for advanced nuclear reactors. Some proponents argue that thorium-based nuclear power could offer advantages such as increased safety, reduced nuclear waste, and proliferation resistance compared to traditional uranium-based nuclear reactors." << endl << endl;
+        cout << "2. Rare Earth Elements: Thorium is often found in association with rare earth elements (REEs). REEs are essential components in various high-tech applications, such as electronics, magnets, and renewable energy technologies. Thorium extraction as a byproduct of REE mining could contribute to the supply chain for these industries." << endl << endl;
+        cout << "3. Medical Applications: Thorium-232 and its decay products have been used in certain medical applications, such as radiation therapy for cancer treatment." << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
         cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
 
         SetConsoleTextAttribute(hc, 4);
         cout << "Negative aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Radioactive Waste: While thorium itself is not highly radioactive, its decay products can pose radiation hazards. The long-lived decay products of thorium, such as radium-228, can contribute to radioactive waste concerns if not managed properly." << endl << endl;
+        cout << "2. Nuclear Proliferation Concerns: Although thorium-based nuclear reactors have potential non-proliferation advantages, the technology is not yet widely deployed. The nuclear fuel cycle, including thorium, requires careful management to prevent potential misuse for weapons production." << endl << endl;
+        cout << "3. Technology Development Costs: The development and deployment of thorium-based nuclear technologies may require significant research and development investments. Establishing a thorium-based nuclear industry would involve costs associated with building new reactor designs, infrastructure, and regulatory frameworks." << endl << endl;
         SetConsoleTextAttribute(hc, 7);
         break;
 
