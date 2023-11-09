@@ -1157,18 +1157,18 @@ int main()
 
         SetConsoleTextAttribute(hc, 2);
         cout << "Positive aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Automotive Industry: Palladium is a critical component in catalytic converters, which are used in vehicles to reduce emissions of harmful pollutants, such as nitrogen oxides (NOx) and carbon monoxide (CO). The automotive industry relies on palladium to meet stringent environmental regulations. As environmental standards become more stringent worldwide, the demand for palladium in catalytic converters continues to grow, supporting the automotive sector." << endl << endl;
+        cout << "2. Electronics: Palladium is used in various electronic applications, including the production of multilayer ceramic capacitors (MLCCs), which are essential components in electronics, including smartphones, laptops, and other consumer electronics. The electronics industry benefits from palladium's properties that enhance the performance of electronic components." << endl << endl;
+        cout << "3. Jewelry Industry: Palladium is used to create jewelry, particularly as an alternative to white gold and platinum. Its lightweight and corrosion-resistant properties make it an attractive choice for jewelry designers and consumers." << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
         cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
 
         SetConsoleTextAttribute(hc, 4);
         cout << "Negative aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Resource Scarcity: Palladium is a relatively rare and expensive metal, and its availability is limited. Its scarcity can result in significant market price volatility, which can affect industries that rely on palladium." << endl << endl;
+        cout << "2. Occupational Health and Safety: The handling and processing of palladium and its compounds can pose safety hazards to workers in industries that use these materials. Proper safety measures and regulations are necessary to minimize health risks and associated costs." << endl << endl;
+        cout << "3. Environmental Concerns: The extraction and processing of palladium-containing materials may have environmental consequences. Additionally, the mining of platinum group metals, including palladium, can have environmental impacts. Efforts to minimize these impacts and promote responsible mining practices are important." << endl << endl;
         SetConsoleTextAttribute(hc, 7);
         break;
 
@@ -1178,18 +1178,18 @@ int main()
 
         SetConsoleTextAttribute(hc, 2);
         cout << "Positive aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Jewelry and Decorative Arts: Silver is widely used in the jewelry and decorative arts industry, contributing to the production of rings, necklaces, bracelets, and other accessories, as well as silverware, sculptures, and decorative pieces. The design and craftsmanship of silver jewelry and decorative items generate economic activity in the luxury and artistic sectors." << endl << endl;
+        cout << "2. Photography: While digital photography has largely replaced traditional film, silver compounds, such as silver halides, were traditionally used in photographic film and paper. This application historically contributed to the photography industry, though its impact has diminished with the shift to digital photography." << endl << endl;
+        cout << "3. Electronics: Silver is used in various electronic applications, particularly as a conductor in printed circuit boards and components. Its excellent electrical conductivity enhances the performance of electronic devices, supporting the electronics industry." << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
         cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
 
         SetConsoleTextAttribute(hc, 4);
         cout << "Negative aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Resource and Environmental Concerns: The mining and refining of silver ores can have environmental impacts, including habitat disruption and potential water pollution. Sustainable and responsible mining practices are important to mitigate these effects." << endl << endl;
+        cout << "2. Occupational Health and Safety: The handling and processing of silver and its compounds can pose safety hazards to workers in industries that use these materials. Proper safety measures and regulations are necessary to minimize health risks and associated costs." << endl << endl;
+        cout << "3. Market Price Volatility: The price of silver can be subject to market volatility, which can affect businesses and industries that rely on silver as an input or store of value." << endl << endl;
         SetConsoleTextAttribute(hc, 7);
         break;
 
@@ -1208,9 +1208,9 @@ int main()
 
         SetConsoleTextAttribute(hc, 4);
         cout << "Negative aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Regulatory Compliance: Businesses and industries that release or handle cadmium-containing materials are subject to stringent environmental regulations. Compliance with these regulations requires investments in pollution control, waste management, and worker safety measures, which can increase operating costs." << endl << endl;
+        cout << "2. Healthcare Costs: Cadmium exposure is associated with serious health risks, including lung and prostate cancer, kidney damage, and respiratory issues. Treating individuals with cadmium-related health problems can lead to increased healthcare costs." << endl << endl;
+        cout << "3. Environmental Pollution: Cadmium contamination can result from various industrial activities, such as mining, smelting, and the production of batteries, plastics, and pigments. Cadmium pollution can lead to soil and water contamination, harming ecosystems and wildlife. Cleanup and remediation efforts to address environmental contamination can be costly and have economic implications." << endl << endl;
         SetConsoleTextAttribute(hc, 7);
         break;
 
