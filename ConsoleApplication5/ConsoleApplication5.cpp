@@ -1451,18 +1451,18 @@ int main()
 
         SetConsoleTextAttribute(hc, 2);
         cout << "Positive aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Permanent Magnets: Neodymium is a crucial component in the production of high-strength magnets, particularly neodymium-iron-boron (NdFeB) magnets. These magnets are essential in various electronic devices, including headphones, speakers, electric motors, and generators. The use of neodymium magnets contributes to the electronics, automotive, and renewable energy industries." << endl << endl;
+        cout << "2. Wind Turbines: Neodymium magnets are widely used in the generators of wind turbines. The growth of the wind energy sector, which relies on neodymium-containing magnets for efficient power generation, contributes to renewable energy development." << endl << endl;
+        cout << "3. Electric Vehicles: Neodymium magnets are used in the motors of electric and hybrid vehicles, contributing to the development of cleaner and more energy-efficient transportation technologies." << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
         cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
 
         SetConsoleTextAttribute(hc, 4);
         cout << "Negative aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Resource Scarcity: Neodymium is a rare-earth element, and its availability can be limited. The extraction and production of neodymium may contribute to resource scarcity and potential geopolitical considerations." << endl << endl;
+        cout << "2. Occupational Health and Safety: The handling and processing of neodymium and its compounds can pose safety hazards to workers in industries that use these materials. Proper safety measures and regulations are necessary to minimize health risks." << endl << endl;
+        cout << "3. Environmental Impact: The mining and processing of neodymium-containing minerals can have environmental consequences. Sustainable mining practices and efforts to minimize environmental impacts are important considerations." << endl << endl;
         SetConsoleTextAttribute(hc, 7);
         break;
 
@@ -1472,7 +1472,7 @@ int main()
 
         SetConsoleTextAttribute(hc, 2);
         cout << "Positive aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
+        cout << "1. Nuclear Batteries: Promethium-147, a radioactive isotope of promethium, has been used in nuclear batteries. These batteries have been employed in situations where a long-lasting and compact power source is needed, such as in spacecraft, pacemakers, and certain remote sensors." << endl << endl;
         cout << "2. " << endl << endl;
         cout << "3. " << endl << endl;
 
@@ -1481,9 +1481,9 @@ int main()
 
         SetConsoleTextAttribute(hc, 4);
         cout << "Negative aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Radioactive Nature: Promethium is radioactive, and its handling and use pose potential health risks due to ionizing radiation. Proper safety measures and regulations are necessary to minimize these risks, and the disposal of waste containing promethium requires careful management to prevent environmental contamination." << endl << endl;
+        cout << "2. Resource Scarcity: Promethium is relatively scarce and is not naturally abundant. Its availability is limited, and obtaining significant quantities involves artificial production or extraction from nuclear waste." << endl << endl;
+        cout << "3. Regulatory Challenges: Due to its radioactive nature, the use, handling, and disposal of promethium are subject to strict regulatory controls. Compliance with these regulations adds to the complexity and cost of using promethium in various applications." << endl << endl;
         SetConsoleTextAttribute(hc, 7);
         break;
 
@@ -1493,18 +1493,18 @@ int main()
 
         SetConsoleTextAttribute(hc, 2);
         cout << "Positive aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Permanent Magnets: Samarium is used in the production of samarium-cobalt (SmCo) magnets, which are high-performance permanent magnets. These magnets have applications in various industries, including aerospace, defense, and certain medical devices." << endl << endl;
+        cout << "2. Catalysis: Samarium compounds are used as catalysts in certain industrial processes, contributing to increased efficiency and reduced environmental impact in areas such as chemical production." << endl << endl;
+        cout << "3. Nuclear Reactors: Samarium-149 isotope has been used in control rods for nuclear reactors. It has a high neutron absorption cross-section, making it effective for regulating the nuclear reaction in certain reactor designs." << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
         cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
 
         SetConsoleTextAttribute(hc, 4);
         cout << "Negative aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Resource Scarcity: Samarium is a rare-earth element, and its availability can be limited. The extraction and production of samarium may contribute to resource scarcity and potential geopolitical considerations." << endl << endl;
+        cout << "2. Occupational Health and Safety: The handling and processing of samarium and its compounds can pose safety hazards to workers in industries that use these materials. Proper safety measures and regulations are necessary to minimize health risks." << endl << endl;
+        cout << "3. Environmental Impact: The mining and processing of samarium-containing minerals can have environmental consequences. Sustainable mining practices and efforts to minimize environmental impacts are important considerations." << endl << endl;
         SetConsoleTextAttribute(hc, 7);
         break;
 
@@ -1514,18 +1514,18 @@ int main()
 
         SetConsoleTextAttribute(hc, 2);
         cout << "Positive aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Phosphors for Lighting: Europium compounds are widely used as phosphors in fluorescent lamps, LEDs, and cathode ray tubes (CRTs). These phosphors emit various colors of light when exposed to electrons, contributing to energy-efficient lighting technologies." << endl << endl;
+        cout << "2. Color TV Screens: Europium compounds are used in the production of red phosphors for color television screens and other display technologies. The use of europium enhances the color accuracy and vibrancy of displays." << endl << endl;
+        cout << "3. Catalysis: Europium compounds have applications as catalysts in certain chemical processes, contributing to increased efficiency and reduced environmental impact in the chemical industry." << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
         cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
 
         SetConsoleTextAttribute(hc, 4);
         cout << "Negative aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Resource Scarcity: Europium is a rare-earth element, and its availability can be limited. The extraction and production of europium may contribute to resource scarcity and potential geopolitical considerations." << endl << endl;
+        cout << "2. Occupational Health and Safety: The handling and processing of europium and its compounds can pose safety hazards to workers in industries that use these materials. Proper safety measures and regulations are necessary to minimize health risks." << endl << endl;
+        cout << "3. Environmental Impact: The mining and processing of europium-containing minerals can have environmental consequences. Sustainable mining practices and efforts to minimize environmental impacts are important considerations." << endl << endl;
         SetConsoleTextAttribute(hc, 7);
         break;
 
@@ -1535,18 +1535,18 @@ int main()
 
         SetConsoleTextAttribute(hc, 2);
         cout << "Positive aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Magnetic Resonance Imaging (MRI): Gadolinium is commonly used as a contrast agent in magnetic resonance imaging (MRI) scans. It enhances the visibility of certain tissues and blood vessels, contributing to improved medical diagnostics and healthcare." << endl << endl;
+        cout << "2. Nuclear Reactors: Gadolinium-155 and gadolinium-157 isotopes are used in nuclear reactors as burnable poisons. These isotopes help control the rate of nuclear reactions by absorbing excess neutrons, contributing to the safety and efficiency of certain reactor designs." << endl << endl;
+        cout << "3. Electronics and Technology: Gadolinium is used in the production of certain electronic components and technologies. Its magnetic properties make it suitable for various applications, including magnetostrictive materials and bubble memory devices." << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
         cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
 
         SetConsoleTextAttribute(hc, 4);
         cout << "Negative aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Resource Scarcity: Gadolinium is a rare-earth element, and its availability can be limited. The extraction and production of gadolinium may contribute to resource scarcity and potential geopolitical considerations." << endl << endl;
+        cout << "2. Occupational Health and Safety: The handling and processing of gadolinium and its compounds, especially in medical and industrial settings, can pose safety hazards to workers. Proper safety measures and regulations are necessary to minimize health risks." << endl << endl;
+        cout << "3. Environmental Impact: The mining and processing of gadolinium-containing minerals can have environmental consequences. Sustainable mining practices and efforts to minimize environmental impacts are important considerations." << endl << endl;
         SetConsoleTextAttribute(hc, 7);
         break;
 
@@ -1556,18 +1556,18 @@ int main()
 
         SetConsoleTextAttribute(hc, 2);
         cout << "Positive aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Magnets and Electronics: Terbium is used in the production of terbium-dysprosium-iron magnets, which are important for certain electronic devices, including headphones, speakers, and electric motors. These magnets contribute to the electronics and automotive industries." << endl << endl;
+        cout << "2. Phosphors for Lighting and Displays: Terbium compounds are used in phosphors for fluorescent lamps and certain types of displays. The phosphors emit specific colors of light when excited, contributing to energy-efficient lighting and display technologies." << endl << endl;
+        cout << "3. Nuclear Reactors: Terbium has applications in nuclear reactors, particularly in control rods. Terbium-based materials can absorb neutrons and help regulate the rate of nuclear reactions in certain reactor designs." << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
         cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
 
         SetConsoleTextAttribute(hc, 4);
         cout << "Negative aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Resource Scarcity: Terbium is a rare-earth element, and its availability can be limited. The extraction and production of terbium may contribute to resource scarcity and potential geopolitical considerations." << endl << endl;
+        cout << "2. Occupational Health and Safety: The handling and processing of terbium and its compounds can pose safety hazards to workers in industries that use these materials. Proper safety measures and regulations are necessary to minimize health risks." << endl << endl;
+        cout << "3. Environmental Impact: The mining and processing of terbium-containing minerals can have environmental consequences. Sustainable mining practices and efforts to minimize environmental impacts are important considerations." << endl << endl;
         SetConsoleTextAttribute(hc, 7);
         break;
 
@@ -1577,18 +1577,18 @@ int main()
 
         SetConsoleTextAttribute(hc, 2);
         cout << "Positive aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Magnets and Electronics: Dysprosium is a key component in the production of neodymium-iron-boron (NdFeB) magnets, which are crucial for various electronic devices, including electric vehicles, wind turbines, and other applications requiring strong permanent magnets." << endl << endl;
+        cout << "2. Clean Energy Technologies: Dysprosium is used in certain clean energy technologies, such as high-performance permanent magnets for wind turbines and electric vehicle motors. These technologies contribute to the transition to renewable energy and sustainable transportation." << endl << endl;
+        cout << "3. Nuclear Reactors: Dysprosium has applications in nuclear reactors, particularly in control rods. Dysprosium-based materials can absorb neutrons and help regulate the rate of nuclear reactions in certain reactor designs." << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
         cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
 
         SetConsoleTextAttribute(hc, 4);
         cout << "Negative aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Resource Scarcity: Dysprosium is a rare-earth element, and its availability can be limited. The extraction and production of dysprosium may contribute to resource scarcity and potential geopolitical considerations." << endl << endl;
+        cout << "2. Occupational Health and Safety: The handling and processing of dysprosium and its compounds can pose safety hazards to workers in industries that use these materials. Proper safety measures and regulations are necessary to minimize health risks." << endl << endl;
+        cout << "3. Environmental Impact: The mining and processing of dysprosium-containing minerals can have environmental consequences. Sustainable mining practices and efforts to minimize environmental impacts are important considerations." << endl << endl;
         SetConsoleTextAttribute(hc, 7);
         break;
 
@@ -1598,8 +1598,8 @@ int main()
 
         SetConsoleTextAttribute(hc, 2);
         cout << "Positive aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
+        cout << "1. Medical Applications: Holmium has medical applications, particularly in the field of nuclear medicine. Holmium-166, a radioactive isotope of holmium, is used in certain cancer treatments, such as brachytherapy, where radioactive sources are placed directly into or near tumors." << endl << endl;
+        cout << "2. Lasers: Holmium is used as a dopant in certain types of lasers, such as holmium-doped yttrium aluminum garnet (YAG) lasers. These lasers have applications in medical procedures, laser surgery, and scientific research." << endl << endl;
         cout << "3. " << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
@@ -1607,9 +1607,9 @@ int main()
 
         SetConsoleTextAttribute(hc, 4);
         cout << "Negative aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Resource Scarcity: Holmium is a rare-earth element, and its availability can be limited. The extraction and production of holmium may contribute to resource scarcity and potential geopolitical considerations." << endl << endl;
+        cout << "2. Occupational Health and Safety: The handling and processing of holmium and its compounds, especially in medical and industrial settings, can pose safety hazards to workers. Proper safety measures and regulations are necessary to minimize health risks." << endl << endl;
+        cout << "3. Environmental Impact: The mining and processing of holmium-containing minerals can have environmental consequences. Sustainable mining practices and efforts to minimize environmental impacts are important considerations." << endl << endl;
         SetConsoleTextAttribute(hc, 7);
         break;
 
@@ -1619,18 +1619,18 @@ int main()
 
         SetConsoleTextAttribute(hc, 2);
         cout << "Positive aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Fiber Optic Communications: Erbium is a key component in erbium-doped fiber amplifiers (EDFAs), which are used to amplify signals in long-distance fiber optic communication systems. The use of erbium in fiber optics contributes to efficient and high-capacity telecommunications." << endl << endl;
+        cout << "2. Laser Technology: Erbium is used as a dopant in certain laser technologies, including erbium-doped lasers. These lasers have applications in medical procedures, telecommunications, and scientific research." << endl << endl;
+        cout << "3. Medical Imaging: Erbium is used in medical imaging systems, particularly in certain types of laser systems used for skin resurfacing and dental procedures." << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
         cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
 
         SetConsoleTextAttribute(hc, 4);
         cout << "Negative aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Resource Scarcity: Erbium is a rare-earth element, and its availability can be limited. The extraction and production of erbium may contribute to resource scarcity and potential geopolitical considerations." << endl << endl;
+        cout << "2. Occupational Health and Safety: The handling and processing of erbium and its compounds, especially in industrial and medical settings, can pose safety hazards to workers. Proper safety measures and regulations are necessary to minimize health risks." << endl << endl;
+        cout << "3. Environmental Impact: The mining and processing of erbium-containing minerals can have environmental consequences. Sustainable mining practices and efforts to minimize environmental impacts are important considerations." << endl << endl;
         SetConsoleTextAttribute(hc, 7);
         break;
 
@@ -1640,8 +1640,8 @@ int main()
 
         SetConsoleTextAttribute(hc, 2);
         cout << "Positive aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
+        cout << "1. Medical Applications: Thulium-170, a radioactive isotope of thulium, has applications in medical imaging and certain cancer treatments. Thulium lasers are also used in medical procedures, such as laser surgery." << endl << endl;
+        cout << "2. Scientific Research: Thulium is used in scientific research, particularly in spectroscopy and studies of materials. Its unique properties make it valuable for specific analytical techniques." << endl << endl;
         cout << "3. " << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
@@ -1649,9 +1649,9 @@ int main()
 
         SetConsoleTextAttribute(hc, 4);
         cout << "Negative aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Resource Scarcity: Thulium is a rare-earth element, and its availability can be limited. The extraction and production of thulium may contribute to resource scarcity and potential geopolitical considerations." << endl << endl;
+        cout << "2. Occupational Health and Safety: The handling and processing of thulium and its compounds, especially in medical and industrial settings, can pose safety hazards to workers. Proper safety measures and regulations are necessary to minimize health risks." << endl << endl;
+        cout << "3. Environmental Impact: The mining and processing of thulium-containing minerals can have environmental consequences. Sustainable mining practices and efforts to minimize environmental impacts are important considerations." << endl << endl;
         SetConsoleTextAttribute(hc, 7);
         break;
 
@@ -1661,18 +1661,18 @@ int main()
 
         SetConsoleTextAttribute(hc, 2);
         cout << "Positive aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Lasers: Ytterbium is used in certain laser technologies, such as ytterbium-doped lasers. These lasers have applications in various fields, including materials processing, telecommunications, and medical procedures." << endl << endl;
+        cout << "2. Scientific Research: Ytterbium is used in scientific research, particularly in studies involving lasers, spectroscopy, and materials science. Its unique properties make it valuable for specific applications in analytical techniques." << endl << endl;
+        cout << "3. Nuclear Reactors: Ytterbium has applications in nuclear reactors, where certain isotopes of ytterbium can be used for neutron absorption and control rod applications." << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
         cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
 
         SetConsoleTextAttribute(hc, 4);
         cout << "Negative aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Resource Scarcity: Ytterbium is a rare-earth element, and its availability can be limited. The extraction and production of ytterbium may contribute to resource scarcity and potential geopolitical considerations." << endl << endl;
+        cout << "2. Occupational Health and Safety: The handling and processing of ytterbium and its compounds, especially in industrial and research settings, can pose safety hazards to workers. Proper safety measures and regulations are necessary to minimize health risks." << endl << endl;
+        cout << "3. Environmental Impact: The mining and processing of ytterbium-containing minerals can have environmental consequences. Sustainable mining practices and efforts to minimize environmental impacts are important considerations." << endl << endl;
         SetConsoleTextAttribute(hc, 7);
         break;
 
