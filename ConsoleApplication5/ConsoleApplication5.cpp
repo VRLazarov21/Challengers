@@ -2102,8 +2102,8 @@ int main()
 
         SetConsoleTextAttribute(hc, 2);
         cout << "Positive aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
+        cout << "1. Scientific Research: Protactinium is used in scientific research, particularly in nuclear physics and the study of radioactive decay. Its properties make it valuable for understanding fundamental atomic and nuclear processes." << endl << endl;
+        cout << "2. Neutron Production: Protactinium-233, a decay product of thorium-232, can be used to produce neutrons. Neutrons have applications in various fields, including scientific research, materials testing, and certain industrial processes." << endl << endl;
         cout << "3. " << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
@@ -2111,9 +2111,9 @@ int main()
 
         SetConsoleTextAttribute(hc, 4);
         cout << "Negative aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Radioactive Hazard: Protactinium is highly radioactive, and its decay products pose significant health risks. Handling or working with protactinium requires specialized equipment and safety measures due to its intense radioactivity." << endl << endl;
+        cout << "2. Limited Commercial Use: The extreme rarity and short half-life of protactinium make it impractical for any widespread commercial applications. It is not used in industrial processes, consumer products, or technology due to its scarcity and radioactivity." << endl << endl;
+        cout << "3. Occupational Health and Safety: Workers involved in industries that use or handle protactinium-containing materials may face occupational health risks. Proper safety measures and regulations are necessary to minimize the risk of exposure." << endl << endl;
         SetConsoleTextAttribute(hc, 7);
         break;
 
@@ -2123,18 +2123,18 @@ int main()
 
         SetConsoleTextAttribute(hc, 2);
         cout << "Positive aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Nuclear Power Generation: Uranium is a key fuel for nuclear power plants, which contribute a significant portion of the world's electricity. Nuclear power is a low-carbon energy source that can help meet growing energy demands while reducing greenhouse gas emissions." << endl << endl;
+        cout << "2. Job Creation: The nuclear power industry, from uranium mining to power plant operation and maintenance, creates jobs. This includes positions in mining, engineering, construction, and various support services." << endl << endl;
+        cout << "3. Energy Security: Uranium contributes to diversifying the energy mix and reducing dependence on fossil fuels. This can enhance energy security by providing a stable and reliable source of electricity." << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
         cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
 
         SetConsoleTextAttribute(hc, 4);
         cout << "Negative aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Radioactive Waste: Nuclear power generation produces radioactive waste that requires careful management and disposal. The long-lived nature of some radioactive isotopes can pose challenges for waste storage and containment." << endl << endl;
+        cout << "2. Nuclear Accidents: Accidents at nuclear power plants, while rare, can have severe economic and environmental consequences. Events like the Chernobyl disaster and the Fukushima Daiichi nuclear disaster have led to significant economic costs, including cleanup, compensation, and the decommissioning of affected facilities." << endl << endl;
+        cout << "3. ecurity Risks: Uranium is a key component in the production of nuclear weapons. The proliferation of nuclear weapons and the risk of nuclear terrorism are significant concerns associated with the mining and trade of uranium." << endl << endl;
         SetConsoleTextAttribute(hc, 7);
         break;
 
@@ -2144,8 +2144,8 @@ int main()
 
         SetConsoleTextAttribute(hc, 2);
         cout << "Positive aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
+        cout << "1. Scientific Research: Neptunium is used in scientific research, particularly in studies related to nuclear physics and the behavior of radioactive elements. Research involving neptunium contributes to a better understanding of fundamental atomic and nuclear processes." << endl << endl;
+        cout << "2. Potential Nuclear Fuel: Neptunium-237 can be produced in nuclear reactors, and there is ongoing research into its potential use as a nuclear fuel. In certain reactor designs, neptunium could undergo fission, contributing to energy production." << endl << endl;
         cout << "3. " << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
@@ -2153,9 +2153,9 @@ int main()
 
         SetConsoleTextAttribute(hc, 4);
         cout << "Negative aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Radioactive Hazard: Neptunium is highly radioactive, and its decay products pose significant health risks. Handling or working with neptunium requires specialized equipment and safety measures due to its intense radioactivity." << endl << endl;
+        cout << "2. Limited Commercial Use: The extreme rarity of neptunium, its synthetic nature, and the challenges associated with its production make it impractical for widespread commercial applications. It is not used in industrial processes, consumer products, or technology on a large scale." << endl << endl;
+        cout << "3. Occupational Health and Safety: Workers involved in industries that use or handle neptunium-containing materials may face occupational health risks. Proper safety measures and regulations are necessary to minimize the risk of exposure." << endl << endl;
         SetConsoleTextAttribute(hc, 7);
         break;
 
@@ -2165,18 +2165,18 @@ int main()
 
         SetConsoleTextAttribute(hc, 2);
         cout << "Positive aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Nuclear Power Generation: Plutonium is used as a fuel in nuclear reactors, contributing to the generation of electricity. Nuclear power is a low-carbon energy source that can provide a stable and reliable supply of electricity." << endl << endl;
+        cout << "2. Energy Security: The use of plutonium in nuclear power helps diversify the energy mix, reducing dependence on fossil fuels. This can enhance energy security by providing a reliable source of electricity." << endl << endl;
+        cout << "3. Nuclear Medicine: Certain isotopes of plutonium have medical applications, including the treatment of certain types of cancer. Plutonium-238, in particular, has been used in the production of radioisotope thermoelectric generators (RTGs) for space exploration missions." << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
         cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
 
         SetConsoleTextAttribute(hc, 4);
         cout << "Negative aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Radioactive Waste: The use of plutonium in nuclear reactors produces radioactive waste that requires careful management and disposal. The long-lived nature of some plutonium isotopes adds to the challenges of waste storage and containment." << endl << endl;
+        cout << "2. Nuclear Weapons Proliferation: Plutonium-239, a fissile isotope of plutonium, is a key material in the production of nuclear weapons. The potential for nuclear weapons proliferation is a significant concern associated with the mining, production, and trade of plutonium." << endl << endl;
+        cout << "3. Security Risks: The handling, transportation, and storage of plutonium pose security risks due to its potential use in nuclear weapons. Measures to prevent theft, unauthorized access, and trafficking of plutonium are critical for international security." << endl << endl;
         SetConsoleTextAttribute(hc, 7);
         break;
 
@@ -2186,7 +2186,7 @@ int main()
 
         SetConsoleTextAttribute(hc, 2);
         cout << "Positive aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
+        cout << "1. Smoke Detectors: Americium-241 is used in ionization-type smoke detectors. These detectors are commonly used in residential and commercial buildings to detect the presence of smoke and provide early warning in case of fire." << endl << endl;
         cout << "2. " << endl << endl;
         cout << "3. " << endl << endl;
 
@@ -2195,9 +2195,9 @@ int main()
 
         SetConsoleTextAttribute(hc, 4);
         cout << "Negative aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Radioactive Hazard: Americium is highly radioactive, and its decay products pose significant health risks. Handling or working with americium-containing materials requires specialized equipment and safety measures due to its intense radioactivity." << endl << endl;
+        cout << "2. Limited Commercial Use: The scarcity of americium, its synthetic nature, and the challenges associated with its production make it impractical for widespread commercial applications. Apart from smoke detectors, it is not used in industrial processes, consumer products, or technology on a large scale." << endl << endl;
+        cout << "3. Occupational Health and Safety: Workers involved in industries that use or handle americium-containing materials may face occupational health risks. Proper safety measures and regulations are necessary to minimize the risk of exposure." << endl << endl;
         SetConsoleTextAttribute(hc, 7);
         break;
 
@@ -2207,8 +2207,8 @@ int main()
 
         SetConsoleTextAttribute(hc, 2);
         cout << "Positive aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
+        cout << "1. Scientific Research: Curium is used in scientific research, particularly in studies related to nuclear physics and the behavior of radioactive elements. Research involving curium contributes to a better understanding of fundamental atomic and nuclear processes." << endl << endl;
+        cout << "2. Nuclear Fuel Production: Curium-244 has been considered as a potential fuel for advanced nuclear reactors. Research is ongoing to explore its use in the production of electricity through nuclear fission." << endl << endl;
         cout << "3. " << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
@@ -2216,9 +2216,9 @@ int main()
 
         SetConsoleTextAttribute(hc, 4);
         cout << "Negative aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Radioactive Hazard: Curium is highly radioactive, and its decay products pose significant health risks. Handling or working with curium-containing materials requires specialized equipment and safety measures due to its intense radioactivity." << endl << endl;
+        cout << "2. Limited Commercial Use: The extreme rarity of curium, its synthetic nature, and the challenges associated with its production make it impractical for widespread commercial applications. It is not used in industrial processes, consumer products, or technology on a large scale." << endl << endl;
+        cout << "3. Occupational Health and Safety: Workers involved in industries that use or handle curium-containing materials may face occupational health risks. Proper safety measures and regulations are necessary to minimize the risk of exposure." << endl << endl;
         SetConsoleTextAttribute(hc, 7);
         break;
 
@@ -2228,8 +2228,8 @@ int main()
 
         SetConsoleTextAttribute(hc, 2);
         cout << "Positive aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
+        cout << "1. Scientific Research: Berkelium is used in scientific research, particularly in studies related to nuclear physics and the behavior of radioactive elements. Research involving berkelium contributes to a better understanding of fundamental atomic and nuclear processes." << endl << endl;
+        cout << "2. Isotope Production: Certain isotopes of berkelium, such as berkelium-249, can be used in the production of other elements through neutron irradiation. These isotopes may have applications in scientific research and industrial processes." << endl << endl;
         cout << "3. " << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
@@ -2237,9 +2237,9 @@ int main()
 
         SetConsoleTextAttribute(hc, 4);
         cout << "Negative aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Radioactive Hazard: Berkelium is highly radioactive, and its decay products pose significant health risks. Handling or working with berkelium-containing materials requires specialized equipment and safety measures due to its intense radioactivity." << endl << endl;
+        cout << "2. Limited Commercial Use: The extreme rarity of berkelium, its synthetic nature, and the challenges associated with its production make it impractical for widespread commercial applications. It is not used in industrial processes, consumer products, or technology on a large scale." << endl << endl;
+        cout << "3. Occupational Health and Safety: Workers involved in industries that use or handle berkelium-containing materials may face occupational health risks. Proper safety measures and regulations are necessary to minimize the risk of exposure." << endl << endl;
         SetConsoleTextAttribute(hc, 7);
         break;
 
@@ -2249,8 +2249,8 @@ int main()
 
         SetConsoleTextAttribute(hc, 2);
         cout << "Positive aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
+        cout << "1. Scientific Research: Californium is used in scientific research, particularly in studies related to nuclear physics and the behavior of radioactive elements. Research involving californium contributes to a better understanding of fundamental atomic and nuclear processes." << endl << endl;
+        cout << "2. Neutron Source: Californium-252 is a powerful neutron source and is used in certain industrial and scientific applications, including neutron radiography, moisture gauges, and in the detection of metals." << endl << endl;
         cout << "3. " << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
@@ -2258,9 +2258,9 @@ int main()
 
         SetConsoleTextAttribute(hc, 4);
         cout << "Negative aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Radioactive Hazard: Californium is highly radioactive, and its decay products pose significant health risks. Handling or working with californium-containing materials requires specialized equipment and safety measures due to its intense radioactivity." << endl << endl;
+        cout << "2. Limited Commercial Use: The extreme rarity of californium, its synthetic nature, and the challenges associated with its production make it impractical for widespread commercial applications. It is not used in industrial processes, consumer products, or technology on a large scale." << endl << endl;
+        cout << "3. Occupational Health and Safety: Workers involved in industries that use or handle californium-containing materials may face occupational health risks. Proper safety measures and regulations are necessary to minimize the risk of exposure." << endl << endl;
         SetConsoleTextAttribute(hc, 7);
         break;
 
@@ -2270,8 +2270,8 @@ int main()
 
         SetConsoleTextAttribute(hc, 2);
         cout << "Positive aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
+        cout << "1. Scientific Research: Einsteinium is used in scientific research, particularly in studies related to nuclear physics and the behavior of radioactive elements. Research involving einsteinium contributes to a better understanding of fundamental atomic and nuclear processes." << endl << endl;
+        cout << "2. Isotope Production: Certain isotopes of einsteinium, such as einsteinium-254, can be used in the production of other elements through neutron irradiation. These isotopes may have applications in scientific research and industrial processes." << endl << endl;
         cout << "3. " << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
@@ -2279,9 +2279,9 @@ int main()
 
         SetConsoleTextAttribute(hc, 4);
         cout << "Negative aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Radioactive Hazard: Einsteinium is highly radioactive, and its decay products pose significant health risks. Handling or working with einsteinium-containing materials requires specialized equipment and safety measures due to its intense radioactivity." << endl << endl;
+        cout << "2. Limited Commercial Use: The extreme rarity of einsteinium, its synthetic nature, and the challenges associated with its production make it impractical for widespread commercial applications. It is not used in industrial processes, consumer products, or technology on a large scale." << endl << endl;
+        cout << "3. Occupational Health and Safety: Workers involved in industries that use or handle einsteinium-containing materials may face occupational health risks. Proper safety measures and regulations are necessary to minimize the risk of exposure." << endl << endl;
         SetConsoleTextAttribute(hc, 7);
         break;
 
@@ -2291,8 +2291,8 @@ int main()
 
         SetConsoleTextAttribute(hc, 2);
         cout << "Positive aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
+        cout << "1. Scientific Research: Fermium is used in scientific research, particularly in studies related to nuclear physics and the behavior of radioactive elements. Research involving fermium contributes to a better understanding of fundamental atomic and nuclear processes." << endl << endl;
+        cout << "2. Isotope Production: Certain isotopes of fermium, such as fermium-255, can be used in the production of other elements through neutron irradiation. These isotopes may have applications in scientific research and industrial processes." << endl << endl;
         cout << "3. " << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
@@ -2300,9 +2300,9 @@ int main()
 
         SetConsoleTextAttribute(hc, 4);
         cout << "Negative aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Radioactive Hazard: Fermium is highly radioactive, and its decay products pose significant health risks. Handling or working with fermium-containing materials requires specialized equipment and safety measures due to its intense radioactivity." << endl << endl;
+        cout << "2. Limited Commercial Use: The extreme rarity of fermium, its synthetic nature, and the challenges associated with its production make it impractical for widespread commercial applications. It is not used in industrial processes, consumer products, or technology on a large scale." << endl << endl;
+        cout << "3. Occupational Health and Safety: Workers involved in industries that use or handle fermium-containing materials may face occupational health risks. Proper safety measures and regulations are necessary to minimize the risk of exposure." << endl << endl;
         SetConsoleTextAttribute(hc, 7);
         break;
 
@@ -2312,8 +2312,8 @@ int main()
 
         SetConsoleTextAttribute(hc, 2);
         cout << "Positive aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
+        cout << "1. Scientific Research: Mendelevium is used in scientific research, particularly in studies related to nuclear physics and the behavior of radioactive elements. Research involving mendelevium contributes to a better understanding of fundamental atomic and nuclear processes." << endl << endl;
+        cout << "2. Isotope Production: Certain isotopes of mendelevium, such as mendelevium-256, can be used in the production of other elements through neutron irradiation. These isotopes may have applications in scientific research and industrial processes." << endl << endl;
         cout << "3. " << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
@@ -2321,9 +2321,9 @@ int main()
 
         SetConsoleTextAttribute(hc, 4);
         cout << "Negative aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Radioactive Hazard: Mendelevium is highly radioactive, and its decay products pose significant health risks. Handling or working with mendelevium-containing materials requires specialized equipment and safety measures due to its intense radioactivity." << endl << endl;
+        cout << "2. Limited Commercial Use: The extreme rarity of mendelevium, its synthetic nature, and the challenges associated with its production make it impractical for widespread commercial applications. It is not used in industrial processes, consumer products, or technology on a large scale." << endl << endl;
+        cout << "3. Occupational Health and Safety: Workers involved in industries that use or handle mendelevium-containing materials may face occupational health risks. Proper safety measures and regulations are necessary to minimize the risk of exposure." << endl << endl;
         SetConsoleTextAttribute(hc, 7);
         break;
 
@@ -2333,8 +2333,8 @@ int main()
 
         SetConsoleTextAttribute(hc, 2);
         cout << "Positive aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
+        cout << "1. Scientific Research: Nobelium is used in scientific research, particularly in studies related to nuclear physics and the behavior of radioactive elements. Research involving nobelium contributes to a better understanding of fundamental atomic and nuclear processes." << endl << endl;
+        cout << "2. Isotope Production: Certain isotopes of nobelium, such as nobelium-259, can be used in the production of other elements through neutron irradiation. These isotopes may have applications in scientific research and industrial processes." << endl << endl;
         cout << "3. " << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
@@ -2342,9 +2342,9 @@ int main()
 
         SetConsoleTextAttribute(hc, 4);
         cout << "Negative aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Radioactive Hazard: Nobelium is highly radioactive, and its decay products pose significant health risks. Handling or working with nobelium-containing materials requires specialized equipment and safety measures due to its intense radioactivity." << endl << endl;
+        cout << "2. Limited Commercial Use: The extreme rarity of nobelium, its synthetic nature, and the challenges associated with its production make it impractical for widespread commercial applications. It is not used in industrial processes, consumer products, or technology on a large scale" << endl << endl;
+        cout << "3. Occupational Health and Safety: Workers involved in industries that use or handle nobelium-containing materials may face occupational health risks. Proper safety measures and regulations are necessary to minimize the risk of exposure." << endl << endl;
         SetConsoleTextAttribute(hc, 7);
         break;
 
@@ -2354,8 +2354,8 @@ int main()
 
         SetConsoleTextAttribute(hc, 2);
         cout << "Positive aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
+        cout << "1. Scientific Research: Lawrencium is used in scientific research, particularly in studies related to nuclear physics and the behavior of radioactive elements. Research involving lawrencium contributes to a better understanding of fundamental atomic and nuclear processes." << endl << endl;
+        cout << "2. Isotope Production: Certain isotopes of lawrencium, such as lawrencium-257, can be used in the production of other elements through neutron irradiation. These isotopes may have applications in scientific research and industrial processes." << endl << endl;
         cout << "3. " << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
@@ -2363,9 +2363,9 @@ int main()
 
         SetConsoleTextAttribute(hc, 4);
         cout << "Negative aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Radioactive Hazard: Lawrencium is highly radioactive, and its decay products pose significant health risks. Handling or working with lawrencium-containing materials requires specialized equipment and safety measures due to its intense radioactivity." << endl << endl;
+        cout << "2. Limited Commercial Use: The extreme rarity of lawrencium, its synthetic nature, and the challenges associated with its production make it impractical for widespread commercial applications. It is not used in industrial processes, consumer products, or technology on a large scale." << endl << endl;
+        cout << "3. Occupational Health and Safety: Workers involved in industries that use or handle lawrencium-containing materials may face occupational health risks. Proper safety measures and regulations are necessary to minimize the risk of exposure." << endl << endl;
         SetConsoleTextAttribute(hc, 7);
         break;
 
@@ -2375,8 +2375,8 @@ int main()
 
         SetConsoleTextAttribute(hc, 2);
         cout << "Positive aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
+        cout << "1. Scientific Research: Rutherfordium is primarily used in scientific research, particularly in studies related to nuclear physics and the behavior of heavy elements. Research involving rutherfordium contributes to a better understanding of fundamental atomic and nuclear processes." << endl << endl;
+        cout << "2. Elemental Studies: As a transactinide element, rutherfordium is part of the periodic table's exploration and helps scientists understand the properties and behavior of elements in the heavy atomic number range." << endl << endl;
         cout << "3. " << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
@@ -2384,9 +2384,9 @@ int main()
 
         SetConsoleTextAttribute(hc, 4);
         cout << "Negative aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Radioactive Hazard: Rutherfordium is highly radioactive, and its decay products pose significant health risks. Handling or working with rutherfordium-containing materials requires specialized equipment and safety measures due to its intense radioactivity." << endl << endl;
+        cout << "2. Limited Commercial Use: The extreme rarity of rutherfordium, its synthetic nature, and the challenges associated with its production make it impractical for widespread commercial applications. It is not used in industrial processes, consumer products, or technology on a large scale." << endl << endl;
+        cout << "3. Occupational Health and Safety: Workers involved in industries that use or handle rutherfordium-containing materials may face occupational health risks. Proper safety measures and regulations are necessary to minimize the risk of exposure." << endl << endl;
         SetConsoleTextAttribute(hc, 7);
         break;
 
@@ -2396,8 +2396,8 @@ int main()
 
         SetConsoleTextAttribute(hc, 2);
         cout << "Positive aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
+        cout << "1. Scientific Research: Dubnium is primarily used in scientific research, particularly in studies related to nuclear physics and the behavior of heavy elements. Research involving dubnium contributes to a better understanding of fundamental atomic and nuclear processes." << endl << endl;
+        cout << "2. Elemental Studies: As a transactinide element, dubnium is part of the periodic table's exploration and helps scientists understand the properties and behavior of elements in the heavy atomic number range." << endl << endl;
         cout << "3. " << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
@@ -2405,9 +2405,9 @@ int main()
 
         SetConsoleTextAttribute(hc, 4);
         cout << "Negative aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Radioactive Hazard: Dubnium is highly radioactive, and its decay products pose significant health risks. Handling or working with dubnium-containing materials requires specialized equipment and safety measures due to its intense radioactivity." << endl << endl;
+        cout << "2. Limited Commercial Use: The extreme rarity of dubnium, its synthetic nature, and the challenges associated with its production make it impractical for widespread commercial applications. It is not used in industrial processes, consumer products, or technology on a large scale." << endl << endl;
+        cout << "3. Occupational Health and Safety: Workers involved in industries that use or handle dubnium-containing materials may face occupational health risks. Proper safety measures and regulations are necessary to minimize the risk of exposure." << endl << endl;
         SetConsoleTextAttribute(hc, 7);
         break;
 
@@ -2417,8 +2417,8 @@ int main()
 
         SetConsoleTextAttribute(hc, 2);
         cout << "Positive aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
+        cout << "1. Scientific Research: Seaborgium is primarily used in scientific research, particularly in studies related to nuclear physics and the behavior of heavy elements. Research involving seaborgium contributes to a better understanding of fundamental atomic and nuclear processes." << endl << endl;
+        cout << "2. Elemental Studies: As a transactinide element, seaborgium is part of the periodic table's exploration and helps scientists understand the properties and behavior of elements in the heavy atomic number range." << endl << endl;
         cout << "3. " << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
@@ -2426,9 +2426,9 @@ int main()
 
         SetConsoleTextAttribute(hc, 4);
         cout << "Negative aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Radioactive Hazard: Seaborgium is highly radioactive, and its decay products pose significant health risks. Handling or working with seaborgium-containing materials requires specialized equipment and safety measures due to its intense radioactivity." << endl << endl;
+        cout << "2. Limited Commercial Use: The extreme rarity of seaborgium, its synthetic nature, and the challenges associated with its production make it impractical for widespread commercial applications. It is not used in industrial processes, consumer products, or technology on a large scale." << endl << endl;
+        cout << "3. Occupational Health and Safety: Workers involved in industries that use or handle seaborgium-containing materials may face occupational health risks. Proper safety measures and regulations are necessary to minimize the risk of exposure" << endl << endl;
         SetConsoleTextAttribute(hc, 7);
         break;
 
@@ -2438,8 +2438,8 @@ int main()
 
         SetConsoleTextAttribute(hc, 2);
         cout << "Positive aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
+        cout << "1. Scientific Research: Bohrium is primarily used in scientific research, particularly in studies related to nuclear physics and the behavior of heavy elements. Research involving bohrium contributes to a better understanding of fundamental atomic and nuclear processes." << endl << endl;
+        cout << "2. Elemental Studies: As a transactinide element, bohrium is part of the periodic table's exploration and helps scientists understand the properties and behavior of elements in the heavy atomic number range." << endl << endl;
         cout << "3. " << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
@@ -2447,9 +2447,9 @@ int main()
 
         SetConsoleTextAttribute(hc, 4);
         cout << "Negative aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Radioactive Hazard: Bohrium is highly radioactive, and its decay products pose significant health risks. Handling or working with bohrium-containing materials requires specialized equipment and safety measures due to its intense radioactivity." << endl << endl;
+        cout << "2. Limited Commercial Use: The extreme rarity of bohrium, its synthetic nature, and the challenges associated with its production make it impractical for widespread commercial applications. It is not used in industrial processes, consumer products, or technology on a large scale." << endl << endl;
+        cout << "3. Occupational Health and Safety: Workers involved in industries that use or handle bohrium-containing materials may face occupational health risks. Proper safety measures and regulations are necessary to minimize the risk of exposure." << endl << endl;
         SetConsoleTextAttribute(hc, 7);
         break;
 
@@ -2459,8 +2459,8 @@ int main()
 
         SetConsoleTextAttribute(hc, 2);
         cout << "Positive aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
+        cout << "1. Scientific Research: Hassium is primarily used in scientific research, especially in studies related to nuclear physics and the behavior of heavy elements. Research involving hassium contributes to a better understanding of fundamental atomic and nuclear processes." << endl << endl;
+        cout << "2. Elemental Studies: As a transactinide element, hassium is part of the periodic table's exploration and helps scientists understand the properties and behavior of elements in the heavy atomic number range." << endl << endl;
         cout << "3. " << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
@@ -2468,9 +2468,9 @@ int main()
 
         SetConsoleTextAttribute(hc, 4);
         cout << "Negative aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Radioactive Hazard: Hassium is highly radioactive, and its decay products pose significant health risks. Handling or working with hassium-containing materials requires specialized equipment and safety measures due to its intense radioactivity." << endl << endl;
+        cout << "2. Limited Commercial Use: The extreme rarity of hassium, its synthetic nature, and the challenges associated with its production make it impractical for widespread commercial applications. It is not used in industrial processes, consumer products, or technology on a large scale." << endl << endl;
+        cout << "3. Occupational Health and Safety: Workers involved in industries that use or handle hassium-containing materials may face occupational health risks. Proper safety measures and regulations are necessary to minimize the risk of exposure." << endl << endl;
         SetConsoleTextAttribute(hc, 7);
         break;
 
@@ -2480,8 +2480,8 @@ int main()
 
         SetConsoleTextAttribute(hc, 2);
         cout << "Positive aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
+        cout << "1. Scientific Research: Meitnerium is primarily used in scientific research, especially in studies related to nuclear physics and the behavior of heavy elements. Research involving meitnerium contributes to a better understanding of fundamental atomic and nuclear processes." << endl << endl;
+        cout << "2. Elemental Studies: As a transactinide element, meitnerium is part of the periodic table's exploration and helps scientists understand the properties and behavior of elements in the heavy atomic number range." << endl << endl;
         cout << "3. " << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
@@ -2489,9 +2489,9 @@ int main()
 
         SetConsoleTextAttribute(hc, 4);
         cout << "Negative aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Radioactive Hazard: Meitnerium is highly radioactive, and its decay products pose significant health risks. Handling or working with meitnerium-containing materials requires specialized equipment and safety measures due to its intense radioactivity." << endl << endl;
+        cout << "2. Limited Commercial Use: The extreme rarity of meitnerium, its synthetic nature, and the challenges associated with its production make it impractical for widespread commercial applications. It is not used in industrial processes, consumer products, or technology on a large scale." << endl << endl;
+        cout << "3. Occupational Health and Safety: Workers involved in industries that use or handle meitnerium-containing materials may face occupational health risks. Proper safety measures and regulations are necessary to minimize the risk of exposure." << endl << endl;
         SetConsoleTextAttribute(hc, 7);
         break;
 
@@ -2501,8 +2501,8 @@ int main()
 
         SetConsoleTextAttribute(hc, 2);
         cout << "Positive aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
+        cout << "1. Scientific Research: Darmstadtium is primarily used in scientific research, especially in studies related to nuclear physics and the behavior of heavy elements. Research involving darmstadtium contributes to a better understanding of fundamental atomic and nuclear processes." << endl << endl;
+        cout << "2. Elemental Studies: As a transactinide element, darmstadtium is part of the periodic table's exploration and helps scientists understand the properties and behavior of elements in the heavy atomic number range." << endl << endl;
         cout << "3. " << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
@@ -2510,9 +2510,9 @@ int main()
 
         SetConsoleTextAttribute(hc, 4);
         cout << "Negative aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Radioactive Hazard: Darmstadtium is highly radioactive, and its decay products pose significant health risks. Handling or working with darmstadtium-containing materials requires specialized equipment and safety measures due to its intense radioactivity." << endl << endl;
+        cout << "2. Limited Commercial Use: The extreme rarity of darmstadtium, its synthetic nature, and the challenges associated with its production make it impractical for widespread commercial applications. It is not used in industrial processes, consumer products, or technology on a large scale." << endl << endl;
+        cout << "3. Occupational Health and Safety: Workers involved in industries that use or handle darmstadtium-containing materials may face occupational health risks. Proper safety measures and regulations are necessary to minimize the risk of exposure." << endl << endl;
         SetConsoleTextAttribute(hc, 7);
         break;
 
@@ -2522,8 +2522,8 @@ int main()
 
         SetConsoleTextAttribute(hc, 2);
         cout << "Positive aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
+        cout << "1. Scientific Research: Roentgenium is primarily used in scientific research, especially in studies related to nuclear physics and the behavior of heavy elements. Research involving roentgenium contributes to a better understanding of fundamental atomic and nuclear processes." << endl << endl;
+        cout << "2. Elemental Studies: As a transactinide element, roentgenium is part of the periodic table's exploration and helps scientists understand the properties and behavior of elements in the heavy atomic number range." << endl << endl;
         cout << "3. " << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
@@ -2531,9 +2531,9 @@ int main()
 
         SetConsoleTextAttribute(hc, 4);
         cout << "Negative aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Radioactive Hazard: Roentgenium is highly radioactive, and its decay products pose significant health risks. Handling or working with roentgenium-containing materials requires specialized equipment and safety measures due to its intense radioactivity." << endl << endl;
+        cout << "2. Limited Commercial Use: The extreme rarity of roentgenium, its synthetic nature, and the challenges associated with its production make it impractical for widespread commercial applications. It is not used in industrial processes, consumer products, or technology on a large scale." << endl << endl;
+        cout << "3. Occupational Health and Safety: Workers involved in industries that use or handle roentgenium-containing materials may face occupational health risks. Proper safety measures and regulations are necessary to minimize the risk of exposure." << endl << endl;
         SetConsoleTextAttribute(hc, 7);
         break;
 
@@ -2543,8 +2543,8 @@ int main()
 
         SetConsoleTextAttribute(hc, 2);
         cout << "Positive aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
+        cout << "1. Scientific Research: Copernicium is primarily used in scientific research, especially in studies related to nuclear physics and the behavior of heavy elements. Research involving copernicium contributes to a better understanding of fundamental atomic and nuclear processes." << endl << endl;
+        cout << "2. Elemental Studies: As a transactinide element, copernicium is part of the periodic table's exploration and helps scientists understand the properties and behavior of elements in the heavy atomic number range." << endl << endl;
         cout << "3. " << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
@@ -2552,9 +2552,9 @@ int main()
 
         SetConsoleTextAttribute(hc, 4);
         cout << "Negative aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Radioactive Hazard: Copernicium is highly radioactive, and its decay products pose significant health risks. Handling or working with copernicium-containing materials requires specialized equipment and safety measures due to its intense radioactivity." << endl << endl;
+        cout << "2. Limited Commercial Use: The extreme rarity of copernicium, its synthetic nature, and the challenges associated with its production make it impractical for widespread commercial applications. It is not used in industrial processes, consumer products, or technology on a large scale." << endl << endl;
+        cout << "3. Occupational Health and Safety: Workers involved in industries that use or handle copernicium-containing materials may face occupational health risks. Proper safety measures and regulations are necessary to minimize the risk of exposure." << endl << endl;
         SetConsoleTextAttribute(hc, 7);
         break;
 
@@ -2564,8 +2564,8 @@ int main()
 
         SetConsoleTextAttribute(hc, 2);
         cout << "Positive aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
+        cout << "1. Scientific Research: Nihonium is primarily used in scientific research, especially in studies related to nuclear physics and the behavior of heavy elements. Research involving nihonium contributes to a better understanding of fundamental atomic and nuclear processes." << endl << endl;
+        cout << "2. Elemental Studies: As a transactinide element, nihonium is part of the periodic table's exploration and helps scientists understand the properties and behavior of elements in the heavy atomic number range." << endl << endl;
         cout << "3. " << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
@@ -2573,9 +2573,9 @@ int main()
 
         SetConsoleTextAttribute(hc, 4);
         cout << "Negative aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Radioactive Hazard: Nihonium is highly radioactive, and its decay products pose significant health risks. Handling or working with nihonium-containing materials requires specialized equipment and safety measures due to its intense radioactivity." << endl << endl;
+        cout << "2. Limited Commercial Use: The extreme rarity of nihonium, its synthetic nature, and the challenges associated with its production make it impractical for widespread commercial applications. It is not used in industrial processes, consumer products, or technology on a large scale." << endl << endl;
+        cout << "3. Occupational Health and Safety: Workers involved in industries that use or handle nihonium-containing materials may face occupational health risks. Proper safety measures and regulations are necessary to minimize the risk of exposure." << endl << endl;
         SetConsoleTextAttribute(hc, 7);
         break;
 
@@ -2585,17 +2585,17 @@ int main()
 
         SetConsoleTextAttribute(hc, 2);
         cout << "Positive aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Scientific Research: Flerovium is primarily used in scientific research, especially in studies related to nuclear physics and the behavior of heavy elements. Research involving flerovium contributes to a better understanding of fundamental atomic and nuclear processes." << endl << endl;
+        cout << "2. Elemental Studies: As a transactinide element, flerovium is part of the periodic table's exploration and helps scientists understand the properties and behavior of elements in the heavy atomic number range." << endl << endl;
+        cout << "3. Occupational Health and Safety: Workers involved in industries that use or handle flerovium-containing materials may face occupational health risks. Proper safety measures and regulations are necessary to minimize the risk of exposure." << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
         cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
 
         SetConsoleTextAttribute(hc, 4);
         cout << "Negative aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
+        cout << "1. Radioactive Hazard: Flerovium is highly radioactive, and its decay products pose significant health risks. Handling or working with flerovium-containing materials requires specialized equipment and safety measures due to its intense radioactivity." << endl << endl;
+        cout << "2. Limited Commercial Use: The extreme rarity of flerovium, its synthetic nature, and the challenges associated with its production make it impractical for widespread commercial applications. It is not used in industrial processes, consumer products, or technology on a large scale." << endl << endl;
         cout << "3. " << endl << endl;
         SetConsoleTextAttribute(hc, 7);
         break;
@@ -2606,8 +2606,8 @@ int main()
 
         SetConsoleTextAttribute(hc, 2);
         cout << "Positive aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
+        cout << "1. Scientific Research: Moscovium is primarily used in scientific research, especially in studies related to nuclear physics and the behavior of heavy elements. Research involving moscovium contributes to a better understanding of fundamental atomic and nuclear processes." << endl << endl;
+        cout << "2. Elemental Studies: As a transactinide element, moscovium is part of the periodic table's exploration and helps scientists understand the properties and behavior of elements in the heavy atomic number range." << endl << endl;
         cout << "3. " << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
@@ -2615,9 +2615,9 @@ int main()
 
         SetConsoleTextAttribute(hc, 4);
         cout << "Negative aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Radioactive Hazard: Moscovium is highly radioactive, and its decay products pose significant health risks. Handling or working with moscovium-containing materials requires specialized equipment and safety measures due to its intense radioactivity." << endl << endl;
+        cout << "2. Limited Commercial Use: The extreme rarity of moscovium, its synthetic nature, and the challenges associated with its production make it impractical for widespread commercial applications. It is not used in industrial processes, consumer products, or technology on a large scale." << endl << endl;
+        cout << "3. Occupational Health and Safety: Workers involved in industries that use or handle moscovium-containing materials may face occupational health risks. Proper safety measures and regulations are necessary to minimize the risk of exposure." << endl << endl;
         SetConsoleTextAttribute(hc, 7);
         break;
 
@@ -2627,8 +2627,8 @@ int main()
 
         SetConsoleTextAttribute(hc, 2);
         cout << "Positive aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
+        cout << "1. Scientific Research: Livermorium is primarily used in scientific research, especially in studies related to nuclear physics and the behavior of heavy elements. Research involving livermorium contributes to a better understanding of fundamental atomic and nuclear processes." << endl << endl;
+        cout << "2. Elemental Studies: As a transactinide element, livermorium is part of the periodic table's exploration and helps scientists understand the properties and behavior of elements in the heavy atomic number range." << endl << endl;
         cout << "3. " << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
@@ -2636,9 +2636,9 @@ int main()
 
         SetConsoleTextAttribute(hc, 4);
         cout << "Negative aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Radioactive Hazard: Livermorium is highly radioactive, and its decay products pose significant health risks. Handling or working with livermorium-containing materials requires specialized equipment and safety measures due to its intense radioactivity." << endl << endl;
+        cout << "2. Limited Commercial Use: The extreme rarity of livermorium, its synthetic nature, and the challenges associated with its production make it impractical for widespread commercial applications. It is not used in industrial processes, consumer products, or technology on a large scale." << endl << endl;
+        cout << "3. Occupational Health and Safety: Workers involved in industries that use or handle livermorium-containing materials may face occupational health risks. Proper safety measures and regulations are necessary to minimize the risk of exposure." << endl << endl;
         SetConsoleTextAttribute(hc, 7);
         break;
 
@@ -2648,8 +2648,8 @@ int main()
 
         SetConsoleTextAttribute(hc, 2);
         cout << "Positive aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
+        cout << "1. Scientific Research: Tennessine is primarily used in scientific research, especially in studies related to nuclear physics and the behavior of heavy elements. Research involving tennessine contributes to a better understanding of fundamental atomic and nuclear processes." << endl << endl;
+        cout << "2. Elemental Studies: As a transactinide element, tennessine is part of the periodic table's exploration and helps scientists understand the properties and behavior of elements in the heavy atomic number range." << endl << endl;
         cout << "3. " << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
@@ -2657,9 +2657,9 @@ int main()
 
         SetConsoleTextAttribute(hc, 4);
         cout << "Negative aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Radioactive Hazard: Tennessine is highly radioactive, and its decay products pose significant health risks. Handling or working with tennessine-containing materials requires specialized equipment and safety measures due to its intense radioactivity." << endl << endl;
+        cout << "2. Limited Commercial Use: The extreme rarity of tennessine, its synthetic nature, and the challenges associated with its production make it impractical for widespread commercial applications. It is not used in industrial processes, consumer products, or technology on a large scale." << endl << endl;
+        cout << "3. Occupational Health and Safety: Workers involved in industries that use or handle tennessine-containing materials may face occupational health risks. Proper safety measures and regulations are necessary to minimize the risk of exposure." << endl << endl;
         SetConsoleTextAttribute(hc, 7);
         break;
 
@@ -2669,8 +2669,8 @@ int main()
 
         SetConsoleTextAttribute(hc, 2);
         cout << "Positive aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
+        cout << "1. Scientific Research: Oganesson is primarily used in scientific research, especially in studies related to nuclear physics and the behavior of heavy elements. Research involving oganesson contributes to a better understanding of fundamental atomic and nuclear processes." << endl << endl;
+        cout << "2. Elemental Studies: As a transactinide element, oganesson is part of the periodic table's exploration and helps scientists understand the properties and behavior of elements in the heavy atomic number range." << endl << endl;
         cout << "3. " << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
@@ -2678,9 +2678,9 @@ int main()
 
         SetConsoleTextAttribute(hc, 4);
         cout << "Negative aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Radioactive Hazard: Oganesson is highly radioactive, and its decay products pose significant health risks. Handling or working with oganesson-containing materials requires specialized equipment and safety measures due to its intense radioactivity." << endl << endl;
+        cout << "2. Occupational Health and Safety: Workers involved in industries that use or handle oganesson-containing materials may face occupational health risks. Proper safety measures and regulations are necessary to minimize the risk of exposure." << endl << endl;
+        cout << "3. Nuclear Proliferation Concerns: As with other transactinide elements, certain isotopes of oganesson could potentially be used in the production of nuclear weapons. Strict controls and safeguards are necessary to prevent their misuse and proliferation." << endl << endl;
         SetConsoleTextAttribute(hc, 7);
         break;
     }
