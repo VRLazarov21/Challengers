@@ -14,10 +14,8 @@ struct Element {
     double atomicWeight;
 };
 
-void find() 
-{
-    bool T = false;
-    string FindElements[90] = {
+string element;
+string FindElements[90] = {
       "H","He",
       "Li","Be","B","C","N","O","F","Ne",
       "Na","Mg","Al","Si","P","S","Cl","Ar",
@@ -25,8 +23,23 @@ void find()
       "Rb","Sr","Y","Zr","Nb","Mo","Tc","Ru","Rh","Pd","Ag","Cd","In","Sn","Sb","Te"," I","Xe",
       "Cs","Ba","La","Hf","Ta","W","Re","Os","Ir","Pt","Au","Hg","Tl","Pb","Bi","Po","At","Rn",
       "Fr","Ra","Ac","Rf","Db","Sg","Bh","Hs","Mt","Ds","Rg","Cn","Nh","Fl","Mc","Lv","Ts","Og"
-    };
-    string element;
+};
+
+int find_output()
+{
+    for (int i = 0; i < 90; i++)
+    {
+        if (element == FindElements[i])
+        {
+            return i + 1;
+            break;
+        }
+    }
+}
+
+void find() 
+{
+    bool T = false;
     cout << "Enter the element: ";
     cin >> element;
     cout << endl;
@@ -189,71 +202,86 @@ int main()
     /////////////////////////////////////////
 
     HANDLE hc = GetStdHandle(STD_OUTPUT_HANDLE);
-    SetConsoleTextAttribute(hc, 7);
-    cout << "Hydrogen (H2):" << endl << endl;
+    switch (find_output())
+    {
+    case 1:SetConsoleTextAttribute(hc, 7);
+        cout << "Hydrogen (H2):" << endl << endl;
 
-    SetConsoleTextAttribute(hc, 2);
-    cout << "Positive aspects:" << endl << endl;
-    cout << "1. Hydrogen Economy: Hydrogen is considered a potentially clean and efficient energy source that can replace conventional fuels. This could reduce greenhouse gas emissions and dependence on oil and gas, which is positive for the economy." << endl << endl;
-    cout << "2. Alternative Energy Sources: Hydrogen can be produced from renewable energy sources such as solar and wind. This can stimulate investments in renewable energy technologies and promote economic growth in the renewable energy sector." << endl << endl;
-    cout << "3. Innovation and New Jobs: The development of hydrogen technology can lead to the creation of new jobs in research, production, and the distribution of hydrogen technologies." << endl<<endl;
+        SetConsoleTextAttribute(hc, 2);
+        cout << "Positive aspects:" << endl << endl;
+        cout << "1. Hydrogen Economy: Hydrogen is considered a potentially clean and efficient energy source that can replace conventional fuels. This could reduce greenhouse gas emissions and dependence on oil and gas, which is positive for the economy." << endl << endl;
+        cout << "2. Alternative Energy Sources: Hydrogen can be produced from renewable energy sources such as solar and wind. This can stimulate investments in renewable energy technologies and promote economic growth in the renewable energy sector." << endl << endl;
+        cout << "3. Innovation and New Jobs: The development of hydrogen technology can lead to the creation of new jobs in research, production, and the distribution of hydrogen technologies." << endl << endl;
 
-    SetConsoleTextAttribute(hc, 7);
-    cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
+        SetConsoleTextAttribute(hc, 7);
+        cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
 
-    SetConsoleTextAttribute(hc, 4);
-    cout << "Negative aspects:" << endl << endl;
-    cout << "1. High Costs: The production, storage, and transportation of hydrogen can be expensive and require significant investments in infrastructure. This can be a financial burden on the economy." << endl << endl;
-    cout << "2. Technology Efficiency: Hydrogen technologies are still evolving, and there may be challenges related to their efficiency and reliability. These challenges can lead to financial losses." << endl << endl;
-    cout << "3. Competition with Other Technologies: Hydrogen competes with other alternative energy sources like batteries and fuel cells, which can lead to the allocation of investments and resources in the energy technology sector." << endl << endl;
+        SetConsoleTextAttribute(hc, 4);
+        cout << "Negative aspects:" << endl << endl;
+        cout << "1. High Costs: The production, storage, and transportation of hydrogen can be expensive and require significant investments in infrastructure. This can be a financial burden on the economy." << endl << endl;
+        cout << "2. Technology Efficiency: Hydrogen technologies are still evolving, and there may be challenges related to their efficiency and reliability. These challenges can lead to financial losses." << endl << endl;
+        cout << "3. Competition with Other Technologies: Hydrogen competes with other alternative energy sources like batteries and fuel cells, which can lead to the allocation of investments and resources in the energy technology sector." << endl << endl;
+        SetConsoleTextAttribute(hc, 7);
+        break;
 
-    SetConsoleTextAttribute(hc, 7);
+    case 2:SetConsoleTextAttribute(hc, 7);
+        cout << "Helium (He):" << endl << endl;
 
-    ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+        SetConsoleTextAttribute(hc, 2);
+        cout << "Positive aspects:" << endl << endl;
+        cout << "1. Scientific and Medical Advancements: Helium is essential for various scientific and medical applications, including magnetic resonance imaging (MRI) machines, which are widely used in the healthcare industry for diagnosis and research. Its availability supports advancements in medical technology, contributing to improved patient care." << endl << endl;
+        cout << "2. Aerospace and Defense: Helium is used in various applications within the aerospace and defense industries, such as in airships, weather balloons, and rocket propulsion. It aids in surveillance, research, and national security." << endl << endl;
+        cout << "3. Industrial Uses: Helium is used in various industrial processes, including cooling and welding. It plays a crucial role in maintaining and enhancing industrial operations, contributing to efficiency and productivity." << endl << endl;
 
-    cout << "Helium (He):" << endl << endl;
+        SetConsoleTextAttribute(hc, 7);
+        cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
 
-    cout << "Positive aspects:" << endl << endl;
-    cout << "1. Scientific and Medical Advancements: Helium is essential for various scientific and medical applications, including magnetic resonance imaging (MRI) machines, which are widely used in the healthcare industry for diagnosis and research. Its availability supports advancements in medical technology, contributing to improved patient care." << endl << endl;
-    cout << "2. Aerospace and Defense: Helium is used in various applications within the aerospace and defense industries, such as in airships, weather balloons, and rocket propulsion. It aids in surveillance, research, and national security." << endl << endl;
-    cout << "3. Industrial Uses: Helium is used in various industrial processes, including cooling and welding. It plays a crucial role in maintaining and enhancing industrial operations, contributing to efficiency and productivity." << endl << endl;
+        SetConsoleTextAttribute(hc, 4);
+        cout << "Negative aspects:" << endl << endl;
+        cout << "1. Limited Supply: Helium is relatively rare on Earth, and its extraction and production are limited. The helium supply is finite, and overreliance on helium for non-essential applications can lead to potential shortages and price volatility." << endl << endl;
+        cout << "2. Economic Vulnerability: The helium market can be vulnerable to price fluctuations due to supply constraints. This can impact industries that depend on helium, such as medical and manufacturing, by leading to increased costs." << endl << endl;
+        cout << "3. Competition with Scientific Research: The use of helium in non-essential applications may divert resources away from scientific research and medical purposes where its unique properties are indispensable." << endl << endl;
+        SetConsoleTextAttribute(hc, 7);
+        break;
 
-    cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
+    case 3:SetConsoleTextAttribute(hc, 7);
+        cout << "Lithium (Li):" << endl << endl;
 
-    cout << "Negative aspects:" << endl << endl;
-    cout << "1. Limited Supply: Helium is relatively rare on Earth, and its extraction and production are limited. The helium supply is finite, and overreliance on helium for non-essential applications can lead to potential shortages and price volatility." << endl << endl;
-    cout << "2. Economic Vulnerability: The helium market can be vulnerable to price fluctuations due to supply constraints. This can impact industries that depend on helium, such as medical and manufacturing, by leading to increased costs." << endl << endl;
-    cout << "3. Competition with Scientific Research: The use of helium in non-essential applications may divert resources away from scientific research and medical purposes where its unique properties are indispensable." << endl << endl;
+        SetConsoleTextAttribute(hc, 2);
+        cout << "Positive aspects:" << endl << endl;
+        cout << "1. Batteries and Energy Storage: Lithium-ion batteries are widely used in various applications, including electric vehicles (EVs), consumer electronics, and grid energy storage. The growth of the electric vehicle industry, in particular, has led to increased demand for lithium, creating economic opportunities in manufacturing and technology development." << endl << endl;
+        cout << "2. Clean Energy Transition: Lithium plays a crucial role in the transition to clean energy sources. It is a key component in the development of renewable energy technologies, such as solar and wind power, as well as the storage of energy from these sources. This contributes to reduced greenhouse gas emissions and a more sustainable energy future." << endl << endl;
+        cout << "3. Economic Growth: Lithium mining and processing can stimulate economic growth in regions with significant lithium deposits. It can lead to increased export revenue, investments in infrastructure, and the development of related industries." << endl << endl;
 
-    ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+        SetConsoleTextAttribute(hc, 7);
+        cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
 
-    cout << "Lithium (Li):" << endl << endl;
+        SetConsoleTextAttribute(hc, 4);
+        cout << "Negative aspects:" << endl << endl;
+        cout << "1. Environmental Concerns: The extraction of lithium from the Earth's crust, particularly through open-pit mining and evaporation ponds, can have environmental impacts, including habitat disruption, water resource depletion, and chemical pollution. Sustainable mining practices are essential to mitigate these negative effects." << endl << endl;
+        cout << "2. Resource Concentration: A significant portion of the world's lithium reserves is concentrated in a few countries, primarily in South America and Australia. This can lead to geopolitical and economic concerns, as countries with limited lithium resources may become dependent on a small number of lithium-rich nations." << endl << endl;
+        cout << "3. Price Volatility: The price of lithium can be subject to fluctuations due to supply and demand dynamics. This can affect industries that rely on lithium, such as battery manufacturers, by potentially increasing production costs." << endl << endl;
+        SetConsoleTextAttribute(hc, 7);
+        break;
 
-    cout << "Positive aspects:" << endl << endl;
-    cout << "1. Batteries and Energy Storage: Lithium-ion batteries are widely used in various applications, including electric vehicles (EVs), consumer electronics, and grid energy storage. The growth of the electric vehicle industry, in particular, has led to increased demand for lithium, creating economic opportunities in manufacturing and technology development." << endl << endl;
-    cout << "2. Clean Energy Transition: Lithium plays a crucial role in the transition to clean energy sources. It is a key component in the development of renewable energy technologies, such as solar and wind power, as well as the storage of energy from these sources. This contributes to reduced greenhouse gas emissions and a more sustainable energy future." << endl << endl;
-    cout << "3. Economic Growth: Lithium mining and processing can stimulate economic growth in regions with significant lithium deposits. It can lead to increased export revenue, investments in infrastructure, and the development of related industries." << endl << endl;
+    case 4:SetConsoleTextAttribute(hc, 7);
+        cout << "Beryllium (Be):" << endl << endl;
 
-    cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
+        SetConsoleTextAttribute(hc, 2);
+        cout << "Positive aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
 
-    cout << "Negative aspects:" << endl << endl;
-    cout << "1. Environmental Concerns: The extraction of lithium from the Earth's crust, particularly through open-pit mining and evaporation ponds, can have environmental impacts, including habitat disruption, water resource depletion, and chemical pollution. Sustainable mining practices are essential to mitigate these negative effects." << endl << endl;
-    cout << "2. Resource Concentration: A significant portion of the world's lithium reserves is concentrated in a few countries, primarily in South America and Australia. This can lead to geopolitical and economic concerns, as countries with limited lithium resources may become dependent on a small number of lithium-rich nations." << endl << endl;
-    cout << "3. Price Volatility: The price of lithium can be subject to fluctuations due to supply and demand dynamics. This can affect industries that rely on lithium, such as battery manufacturers, by potentially increasing production costs." << endl << endl;
+        SetConsoleTextAttribute(hc, 7);
+        cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
 
-    ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-
-    cout << "Beryllium (Be):" << endl << endl;
-
-    cout << "Positive aspects:" << endl << endl;
-    cout << "1. " << endl << endl;
-    cout << "2. " << endl << endl;
-    cout << "3. " << endl << endl;
-
-    cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
-
-    cout << "Negative aspects:" << endl << endl;
-    cout << "1. " << endl << endl;
-    cout << "2. " << endl << endl;
-    cout << "3. " << endl << endl;
+        SetConsoleTextAttribute(hc, 4);
+        cout << "Negative aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+        SetConsoleTextAttribute(hc, 7);
+        break;
+    }
 }
