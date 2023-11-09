@@ -1220,18 +1220,18 @@ int main()
 
         SetConsoleTextAttribute(hc, 2);
         cout << "Positive aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Electronic and Display Technologies: Indium is a key component in the production of indium tin oxide (ITO), a transparent and conductive material used in the manufacturing of flat-panel displays (LCDs, OLEDs), touchscreens, and thin-film solar cells. The growth of the electronics and renewable energy industries contributes to economic development." << endl << endl;
+        cout << "2. Photovoltaics: Indium is used in the production of copper indium gallium selenide (CIGS) solar cells, a thin-film technology for solar panels. The development and use of CIGS technology contribute to the renewable energy sector." << endl << endl;
+        cout << "3. Semiconductor Industry: Indium is used in the production of certain types of semiconductors, contributing to the semiconductor and electronics industry." << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
         cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
 
         SetConsoleTextAttribute(hc, 4);
         cout << "Negative aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Resource Availability: Indium is a relatively rare metal, and its availability can be limited. Its scarcity can affect the cost and availability of indium-containing materials for various industries." << endl << endl;
+        cout << "2. Occupational Health and Safety: The handling and processing of indium and its compounds can pose safety hazards to workers in industries that use these materials. Proper safety measures and regulations are necessary to minimize health risks and associated costs." << endl << endl;
+        cout << "3. Environmental Impact: The mining and processing of indium-containing ores may have environmental consequences. Sustainable mining practices and efforts to minimize environmental impacts are important." << endl << endl;
         SetConsoleTextAttribute(hc, 7);
         break;
 
@@ -1241,18 +1241,18 @@ int main()
 
         SetConsoleTextAttribute(hc, 2);
         cout << "Positive aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Packaging Industry: Tin is commonly used as a coating material for tinplate, which is used to manufacture cans for food and beverage packaging. The packaging industry benefits from tin's corrosion resistance and ability to protect the contents of cans, contributing to the preservation and distribution of food and beverages." << endl << endl;
+        cout << "2. Electronics: Tin is a key component in the production of solder, which is used in electronic components and circuit boards. The electronics industry relies on tin-based solder for the assembly of electronic devices, including smartphones, computers, and other consumer electronics." << endl << endl;
+        cout << "3. Alloys: Tin is used as an alloying element in various alloys, such as bronze and pewter. These alloys have applications in the manufacturing of coins, statues, decorative items, and other metal products." << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
         cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
 
         SetConsoleTextAttribute(hc, 4);
         cout << "Negative aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Resource Extraction: The mining and extraction of tin ore can have environmental impacts, including habitat disruption and soil erosion. Sustainable mining practices are essential to mitigate these effects." << endl << endl;
+        cout << "2. Occupational Health and Safety: The mining and processing of tin and its compounds can pose safety hazards to workers. Additionally, exposure to certain tin compounds can have adverse health effects. Proper safety measures and regulations are necessary to minimize risks." << endl << endl;
+        cout << "3. Environmental Impact: The production and processing of tin-containing materials may result in environmental consequences. Efforts to minimize environmental impacts, promote responsible mining practices, and address waste management are crucial." << endl << endl;
         SetConsoleTextAttribute(hc, 7);
         break;
 
@@ -1262,18 +1262,18 @@ int main()
 
         SetConsoleTextAttribute(hc, 2);
         cout << "Positive aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Flame Retardants: Antimony compounds are used as flame retardants in various materials, including plastics, textiles, and electronics. This application enhances fire safety in consumer products, contributing to the manufacturing and safety sectors." << endl << endl;
+        cout << "2. Alloys: Antimony is used as an alloying element in lead-based alloys, such as lead-antimony alloys. These alloys have applications in the production of batteries, ammunition, and certain types of bearings." << endl << endl;
+        cout << "3. Catalysis: Antimony compounds serve as catalysts in certain chemical processes, supporting economic activity in the chemical and manufacturing industries." << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
         cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
 
         SetConsoleTextAttribute(hc, 4);
         cout << "Negative aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Environmental and Health Concerns: Antimony can have adverse environmental and health effects, especially when released into the air, water, or soil. Mining and processing of antimony ores may contribute to environmental contamination, and exposure to antimony can have health implications for workers and nearby communities." << endl << endl;
+        cout << "2. Occupational Health and Safety: Workers involved in the mining, processing, and manufacturing of antimony and its compounds may face occupational health risks. Proper safety measures and regulations are necessary to minimize these risks." << endl << endl;
+        cout << "3. Resource Scarcity: While antimony is not as rare as some other elements, its availability can be limited. The mining and extraction of antimony may contribute to resource depletion." << endl << endl;
         SetConsoleTextAttribute(hc, 7);
         break;
 
@@ -1283,18 +1283,18 @@ int main()
 
         SetConsoleTextAttribute(hc, 2);
         cout << "Positive aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Photovoltaics: Tellurium is a crucial component in the production of thin-film solar cells, particularly cadmium telluride (CdTe) solar cells. These cells have applications in solar panels for renewable energy production. The growth of the solar energy sector contributes to economic development." << endl << endl;
+        cout << "2. Thermoelectric Devices: Tellurium alloys, such as bismuth telluride, are used in thermoelectric devices for converting heat into electricity. These devices have applications in power generation and cooling systems, contributing to energy efficiency." << endl << endl;
+        cout << "3. Alloys: Tellurium is used as an alloying element in the production of certain alloys, including lead alloys. Lead-tellurium alloys have applications in the manufacturing of bearings and other products." << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
         cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
 
         SetConsoleTextAttribute(hc, 4);
         cout << "Negative aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Resource Scarcity: Tellurium is a relatively rare element, and its availability can be limited. The mining and extraction of tellurium may contribute to resource depletion." << endl << endl;
+        cout << "2. Occupational Health and Safety: The handling and processing of tellurium and its compounds can pose safety hazards to workers. Proper safety measures and regulations are necessary to minimize health risks." << endl << endl;
+        cout << "3. Environmental Impact: The production and processing of tellurium-containing materials may have environmental consequences. Sustainable mining practices and efforts to minimize environmental impacts are important." << endl << endl;
         SetConsoleTextAttribute(hc, 7);
         break;
 
@@ -1304,18 +1304,18 @@ int main()
 
         SetConsoleTextAttribute(hc, 2);
         cout << "Positive aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Medical and Pharmaceutical Industry: Iodine is widely used in the medical and pharmaceutical industries. It is an essential component in the production of various pharmaceuticals, including antiseptics, disinfectants, and thyroid medications. Iodine's role in healthcare contributes to the pharmaceutical sector and public health." << endl << endl;
+        cout << "2. Nutritional Supplements: Iodine is a crucial element for thyroid function, and it is added to salt and certain foods as a nutritional supplement. Iodized salt, for example, helps prevent iodine deficiency disorders, contributing to public health." << endl << endl;
+        cout << "3. Dyes and Stains: Iodine is used in the production of dyes and stains, which have applications in the textile and laboratory industries. Its use in these applications contributes to the manufacturing sector and scientific research." << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
         cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
 
         SetConsoleTextAttribute(hc, 4);
         cout << "Negative aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Environmental Concerns: The release of iodine into the environment, particularly through industrial processes, can contribute to environmental contamination. Certain iodine compounds can have adverse effects on aquatic ecosystems and soil." << endl << endl;
+        cout << "2. Occupational Health and Safety: Workers involved in the production and handling of iodine and its compounds may face occupational health risks. Proper safety measures and regulations are necessary to minimize these risks." << endl << endl;
+        cout << "3. Resource Availability: While iodine is not a rare element, its availability can be influenced by geopolitical factors and the concentration of iodine-containing minerals in certain regions." << endl << endl;
         SetConsoleTextAttribute(hc, 7);
         break;
 
@@ -1325,8 +1325,8 @@ int main()
 
         SetConsoleTextAttribute(hc, 2);
         cout << "Positive aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
+        cout << "1. Medical Imaging: Xenon is used in medical imaging, particularly in xenon CT (computed tomography) scans. It has applications in imaging the blood flow to the brain, providing valuable information for medical diagnosis." << endl << endl;
+        cout << "2. Lighting: While not a primary application, xenon gas is used in certain types of high-intensity discharge lamps, such as xenon arc lamps. These lamps have applications in projection systems, automotive headlights, and other specialized lighting." << endl << endl;
         cout << "3. " << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
@@ -1334,9 +1334,9 @@ int main()
 
         SetConsoleTextAttribute(hc, 4);
         cout << "Negative aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Resource Scarcity: Xenon is a rare and inert gas, and its availability is limited. The extraction and production of xenon are often byproducts of the liquefaction and separation of air, where xenon is present in trace amounts. The scarcity of xenon contributes to its relatively high cost." << endl << endl;
+        cout << "2. High Cost: Xenon is an expensive gas due to its rarity and the energy-intensive process required to extract and purify it. This high cost can limit its widespread use in certain applications." << endl << endl;
+        cout << "3. Environmental Impact: While xenon itself is inert and non-toxic, the processes involved in its production, such as air separation and liquefaction, can have environmental impacts. Energy-intensive methods for xenon extraction may contribute to greenhouse gas emissions." << endl << endl;
         SetConsoleTextAttribute(hc, 7);
         break;
 
@@ -1346,8 +1346,8 @@ int main()
 
         SetConsoleTextAttribute(hc, 2);
         cout << "Positive aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
+        cout << "1. Atomic Clocks: Cesium is used in atomic clocks, specifically in devices called cesium atomic clocks. These clocks are highly accurate and are used in various applications, including scientific research, telecommunications, and global positioning systems (GPS). Accurate timekeeping is essential for synchronization in various technological systems." << endl << endl;
+        cout << "2. Oil and Gas Exploration: Cesium magnetometers, which measure variations in the Earth's magnetic field, are used in oil and gas exploration. They help identify subsurface structures and can contribute to the discovery of underground resources." << endl << endl;
         cout << "3. " << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
@@ -1355,9 +1355,9 @@ int main()
 
         SetConsoleTextAttribute(hc, 4);
         cout << "Negative aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Resource Scarcity: Cesium is a relatively rare element, and its availability is limited. The extraction and production of cesium can be challenging, contributing to its relatively high cost." << endl << endl;
+        cout << "2. Occupational Health and Safety: The handling and processing of cesium and its compounds can pose safety hazards to workers. Proper safety measures and regulations are necessary to minimize health risks." << endl << endl;
+        cout << "3. Environmental Impact: While cesium itself is not generally considered highly toxic, the processes involved in its production, as well as potential contamination during mining, can have environmental impacts. Sustainable practices and proper waste disposal are important considerations." << endl << endl;
         SetConsoleTextAttribute(hc, 7);
         break;
 
@@ -1367,8 +1367,8 @@ int main()
 
         SetConsoleTextAttribute(hc, 2);
         cout << "Positive aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
+        cout << "1. Oil and Gas Industry: Barium sulfate, in the form of barite, is a key component in drilling fluids used in the oil and gas industry. It helps control well pressure, lubricate drill bits, and prevent blowouts during drilling operations. The demand for barite in oil and gas exploration contributes to economic activity in this sector." << endl << endl;
+        cout << "2. Medical Imaging: Barium is used in medical imaging procedures, specifically in barium swallow tests and barium enemas. These tests help visualize the gastrointestinal tract, aiding in the diagnosis of various medical conditions. The use of barium in healthcare contributes to the medical and pharmaceutical industries." << endl << endl;
         cout << "3. " << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
@@ -1376,9 +1376,9 @@ int main()
 
         SetConsoleTextAttribute(hc, 4);
         cout << "Negative aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Occupational Health and Safety: The handling and processing of barium and its compounds, particularly in industrial settings, can pose safety hazards to workers. Barium exposure may have adverse health effects, and proper safety measures and regulations are necessary to minimize risks." << endl << endl;
+        cout << "2. Environmental Impact: The mining and processing of barium-containing minerals, such as barite, can have environmental consequences. Sustainable mining practices and efforts to minimize environmental impacts are important considerations." << endl << endl;
+        cout << "3. Waste Disposal: Barium-containing waste generated from various industries, such as mining and manufacturing, requires proper disposal to prevent environmental contamination. Effective waste management practices are essential to mitigate negative impacts." << endl << endl;
         SetConsoleTextAttribute(hc, 7);
         break;
 
@@ -1388,18 +1388,18 @@ int main()
 
         SetConsoleTextAttribute(hc, 2);
         cout << "Positive aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Catalysis: Lanthanum compounds are used as catalysts in various industrial processes, including petroleum refining and the production of chemicals. The catalytic properties of lanthanum contribute to increased efficiency and yield in these processes." << endl << endl;
+        cout << "2. Automotive Catalysts: Lanthanum is used in the manufacturing of automotive catalysts, particularly in catalytic converters. Catalytic converters help reduce emissions from vehicles, contributing to environmental regulations and air quality improvements." << endl << endl;
+        cout << "3. Electronics: Lanthanum is used in the production of certain electronic components, such as nickel-metal hydride (NiMH) batteries and phosphors for display screens. Its use in electronics supports advancements in technology and contributes to the electronics industry." << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
         cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
 
         SetConsoleTextAttribute(hc, 4);
         cout << "Negative aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Resource Scarcity: Lanthanum is a rare-earth element, and its availability can be limited. The extraction and production of lanthanum may contribute to resource scarcity and potential geopolitical considerations." << endl << endl;
+        cout << "2. Occupational Health and Safety: The handling and processing of lanthanum and its compounds can pose safety hazards to workers in industries that use these materials. Proper safety measures and regulations are necessary to minimize health risks." << endl << endl;
+        cout << "3. Environmental Impact: The mining and processing of lanthanum-containing minerals can have environmental consequences. Sustainable mining practices and efforts to minimize environmental impacts are important considerations." << endl << endl;
         SetConsoleTextAttribute(hc, 7);
         break;
 
@@ -1409,18 +1409,18 @@ int main()
 
         SetConsoleTextAttribute(hc, 2);
         cout << "Positive aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Catalysis: Cerium compounds are widely used as catalysts in various industrial processes, including automotive catalysts (catalytic converters) and petroleum refining. The catalytic properties of cerium contribute to increased efficiency and reduced emissions in these processes." << endl << endl;
+        cout << "2. Polishing and Finishing: Cerium oxide is commonly used in glass polishing, lens polishing, and other applications in the optics and glass industries. Its use contributes to the production of high-quality optical products." << endl << endl;
+        cout << "3. Cerium Alloys: Cerium is used as an alloying element in certain alloys, such as mischmetal (a mixture of rare-earth metals). Mischmetal has applications in the production of lighter flints, ferrocerium fire starters, and some aluminum alloys." << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
         cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
 
         SetConsoleTextAttribute(hc, 4);
         cout << "Negative aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Resource Scarcity: Cerium is a rare-earth element, and its availability can be limited. The extraction and production of cerium may contribute to resource scarcity and potential geopolitical considerations." << endl << endl;
+        cout << "2. Occupational Health and Safety: The handling and processing of cerium and its compounds can pose safety hazards to workers in industries that use these materials. Proper safety measures and regulations are necessary to minimize health risks." << endl << endl;
+        cout << "3. Environmental Impact: The mining and processing of cerium-containing minerals can have environmental consequences. Sustainable mining practices and efforts to minimize environmental impacts are important considerations." << endl << endl;
         SetConsoleTextAttribute(hc, 7);
         break;
 
@@ -1430,18 +1430,18 @@ int main()
 
         SetConsoleTextAttribute(hc, 2);
         cout << "Positive aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Magnets and Electronics: Praseodymium is a key component in the production of high-strength magnets, particularly neodymium-iron-boron (NdFeB) magnets. These magnets are used in various electronic devices, including headphones, speakers, electric motors, and generators, contributing to the electronics and technology industries." << endl << endl;
+        cout << "2. Catalysis: Praseodymium compounds are used as catalysts in certain industrial processes, including the production of plastics and petroleum refining. The catalytic properties of praseodymium contribute to increased efficiency and reduced environmental impact in these processes." << endl << endl;
+        cout << "3. Hybrid and Electric Vehicles: Praseodymium-containing magnets play a crucial role in the motors of hybrid and electric vehicles, contributing to the development of cleaner and more energy-efficient transportation technologies." << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
         cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
 
         SetConsoleTextAttribute(hc, 4);
         cout << "Negative aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Resource Scarcity: Praseodymium is a rare-earth element, and its availability can be limited. The extraction and production of praseodymium may contribute to resource scarcity and potential geopolitical considerations." << endl << endl;
+        cout << "2. Occupational Health and Safety: The handling and processing of praseodymium and its compounds can pose safety hazards to workers in industries that use these materials. Proper safety measures and regulations are necessary to minimize health risks." << endl << endl;
+        cout << "3. Environmental Impact: The mining and processing of praseodymium-containing minerals can have environmental consequences. Sustainable mining practices and efforts to minimize environmental impacts are important considerations." << endl << endl;
         SetConsoleTextAttribute(hc, 7);
         break;
 
