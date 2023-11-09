@@ -1465,6 +1465,1224 @@ int main()
         cout << "3. " << endl << endl;
         SetConsoleTextAttribute(hc, 7);
         break;
+
+    case 61:
+        SetConsoleTextAttribute(hc, 7);
+        cout << "Promethium (Pm):" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 2);
+        cout << "Positive aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+
+        SetConsoleTextAttribute(hc, 7);
+        cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 4);
+        cout << "Negative aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+        SetConsoleTextAttribute(hc, 7);
+        break;
+
+    case 62:
+        SetConsoleTextAttribute(hc, 7);
+        cout << "Samarium (Sm):" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 2);
+        cout << "Positive aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+
+        SetConsoleTextAttribute(hc, 7);
+        cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 4);
+        cout << "Negative aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+        SetConsoleTextAttribute(hc, 7);
+        break;
+
+    case 63:
+        SetConsoleTextAttribute(hc, 7);
+        cout << "Europium (Eu):" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 2);
+        cout << "Positive aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+
+        SetConsoleTextAttribute(hc, 7);
+        cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 4);
+        cout << "Negative aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+        SetConsoleTextAttribute(hc, 7);
+        break;
+
+    case 64:
+        SetConsoleTextAttribute(hc, 7);
+        cout << "Gadolinium (Gd):" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 2);
+        cout << "Positive aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+
+        SetConsoleTextAttribute(hc, 7);
+        cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 4);
+        cout << "Negative aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+        SetConsoleTextAttribute(hc, 7);
+        break;
+
+    case 65:
+        SetConsoleTextAttribute(hc, 7);
+        cout << "Terbium (Tb):" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 2);
+        cout << "Positive aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+
+        SetConsoleTextAttribute(hc, 7);
+        cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 4);
+        cout << "Negative aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+        SetConsoleTextAttribute(hc, 7);
+        break;
+
+    case 66:
+        SetConsoleTextAttribute(hc, 7);
+        cout << "Dysprosium (Dy):" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 2);
+        cout << "Positive aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+
+        SetConsoleTextAttribute(hc, 7);
+        cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 4);
+        cout << "Negative aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+        SetConsoleTextAttribute(hc, 7);
+        break;
+
+    case 67:
+        SetConsoleTextAttribute(hc, 7);
+        cout << "Holmium (Ho):" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 2);
+        cout << "Positive aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+
+        SetConsoleTextAttribute(hc, 7);
+        cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 4);
+        cout << "Negative aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+        SetConsoleTextAttribute(hc, 7);
+        break;
+
+    case 68:
+        SetConsoleTextAttribute(hc, 7);
+        cout << "Erbium (Er):" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 2);
+        cout << "Positive aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+
+        SetConsoleTextAttribute(hc, 7);
+        cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 4);
+        cout << "Negative aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+        SetConsoleTextAttribute(hc, 7);
+        break;
+
+    case 69:
+        SetConsoleTextAttribute(hc, 7);
+        cout << "Thulium (Tm):" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 2);
+        cout << "Positive aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+
+        SetConsoleTextAttribute(hc, 7);
+        cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 4);
+        cout << "Negative aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+        SetConsoleTextAttribute(hc, 7);
+        break;
+
+    case 70:
+        SetConsoleTextAttribute(hc, 7);
+        cout << "Ytterbium (Yb):" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 2);
+        cout << "Positive aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+
+        SetConsoleTextAttribute(hc, 7);
+        cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 4);
+        cout << "Negative aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+        SetConsoleTextAttribute(hc, 7);
+        break;
+
+    case 71:
+        SetConsoleTextAttribute(hc, 7);
+        cout << "Lutetium (Lu):" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 2);
+        cout << "Positive aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+
+        SetConsoleTextAttribute(hc, 7);
+        cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 4);
+        cout << "Negative aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+        SetConsoleTextAttribute(hc, 7);
+        break;
+
+    case 72:
+        SetConsoleTextAttribute(hc, 7);
+        cout << "Hafnium (Hf):" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 2);
+        cout << "Positive aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+
+        SetConsoleTextAttribute(hc, 7);
+        cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 4);
+        cout << "Negative aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+        SetConsoleTextAttribute(hc, 7);
+        break;
+
+    case 73:
+        SetConsoleTextAttribute(hc, 7);
+        cout << "Tantalum (Ta):" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 2);
+        cout << "Positive aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+
+        SetConsoleTextAttribute(hc, 7);
+        cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 4);
+        cout << "Negative aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+        SetConsoleTextAttribute(hc, 7);
+        break;
+
+    case 74:
+        SetConsoleTextAttribute(hc, 7);
+        cout << "Tungsten (W):" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 2);
+        cout << "Positive aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+
+        SetConsoleTextAttribute(hc, 7);
+        cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 4);
+        cout << "Negative aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+        SetConsoleTextAttribute(hc, 7);
+        break;
+
+    case 75:
+        SetConsoleTextAttribute(hc, 7);
+        cout << "Rhenium (Re):" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 2);
+        cout << "Positive aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+
+        SetConsoleTextAttribute(hc, 7);
+        cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 4);
+        cout << "Negative aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+        SetConsoleTextAttribute(hc, 7);
+        break;
+
+    case 76:
+        SetConsoleTextAttribute(hc, 7);
+        cout << "Osmium (Os):" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 2);
+        cout << "Positive aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+
+        SetConsoleTextAttribute(hc, 7);
+        cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 4);
+        cout << "Negative aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+        SetConsoleTextAttribute(hc, 7);
+        break;
+
+    case 77:
+        SetConsoleTextAttribute(hc, 7);
+        cout << "Iridium (Ir):" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 2);
+        cout << "Positive aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+
+        SetConsoleTextAttribute(hc, 7);
+        cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 4);
+        cout << "Negative aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+        SetConsoleTextAttribute(hc, 7);
+        break;
+
+    case 78:
+        SetConsoleTextAttribute(hc, 7);
+        cout << "Platinum (Pt):" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 2);
+        cout << "Positive aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+
+        SetConsoleTextAttribute(hc, 7);
+        cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 4);
+        cout << "Negative aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+        SetConsoleTextAttribute(hc, 7);
+        break;
+
+    case 79:
+        SetConsoleTextAttribute(hc, 7);
+        cout << "Gold (Au):" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 2);
+        cout << "Positive aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+
+        SetConsoleTextAttribute(hc, 7);
+        cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 4);
+        cout << "Negative aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+        SetConsoleTextAttribute(hc, 7);
+        break;
+
+    case 80:
+        SetConsoleTextAttribute(hc, 7);
+        cout << "Mercury (Hg):" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 2);
+        cout << "Positive aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+
+        SetConsoleTextAttribute(hc, 7);
+        cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 4);
+        cout << "Negative aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+        SetConsoleTextAttribute(hc, 7);
+        break;
+
+    case 81:
+        SetConsoleTextAttribute(hc, 7);
+        cout << "Thallium (Tl):" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 2);
+        cout << "Positive aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+
+        SetConsoleTextAttribute(hc, 7);
+        cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 4);
+        cout << "Negative aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+        SetConsoleTextAttribute(hc, 7);
+        break;
+
+    case 82:
+        SetConsoleTextAttribute(hc, 7);
+        cout << "Lead (Pb):" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 2);
+        cout << "Positive aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+
+        SetConsoleTextAttribute(hc, 7);
+        cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 4);
+        cout << "Negative aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+        SetConsoleTextAttribute(hc, 7);
+        break;
+
+    case 83:
+        SetConsoleTextAttribute(hc, 7);
+        cout << "Bismuth (Bi):" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 2);
+        cout << "Positive aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+
+        SetConsoleTextAttribute(hc, 7);
+        cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 4);
+        cout << "Negative aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+        SetConsoleTextAttribute(hc, 7);
+        break;
+
+    case 84:
+        SetConsoleTextAttribute(hc, 7);
+        cout << "Polonium (Po):" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 2);
+        cout << "Positive aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+
+        SetConsoleTextAttribute(hc, 7);
+        cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 4);
+        cout << "Negative aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+        SetConsoleTextAttribute(hc, 7);
+        break;
+
+    case 85:
+        SetConsoleTextAttribute(hc, 7);
+        cout << "Astatine (At):" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 2);
+        cout << "Positive aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+
+        SetConsoleTextAttribute(hc, 7);
+        cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 4);
+        cout << "Negative aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+        SetConsoleTextAttribute(hc, 7);
+        break;
+
+    case 86:
+        SetConsoleTextAttribute(hc, 7);
+        cout << "Radon (Rn):" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 2);
+        cout << "Positive aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+
+        SetConsoleTextAttribute(hc, 7);
+        cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 4);
+        cout << "Negative aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+        SetConsoleTextAttribute(hc, 7);
+        break;
+
+    case 87:
+        SetConsoleTextAttribute(hc, 7);
+        cout << "Francium (Fr):" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 2);
+        cout << "Positive aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+
+        SetConsoleTextAttribute(hc, 7);
+        cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 4);
+        cout << "Negative aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+        SetConsoleTextAttribute(hc, 7);
+        break;
+
+    case 88:
+        SetConsoleTextAttribute(hc, 7);
+        cout << "Radium (Ra):" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 2);
+        cout << "Positive aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+
+        SetConsoleTextAttribute(hc, 7);
+        cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 4);
+        cout << "Negative aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+        SetConsoleTextAttribute(hc, 7);
+        break;
+
+    case 89:
+        SetConsoleTextAttribute(hc, 7);
+        cout << "Actinium (Ac):" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 2);
+        cout << "Positive aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+
+        SetConsoleTextAttribute(hc, 7);
+        cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 4);
+        cout << "Negative aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+        SetConsoleTextAttribute(hc, 7);
+        break;
+
+    case 90:
+        SetConsoleTextAttribute(hc, 7);
+        cout << "Thorium (Th):" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 2);
+        cout << "Positive aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+
+        SetConsoleTextAttribute(hc, 7);
+        cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 4);
+        cout << "Negative aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+        SetConsoleTextAttribute(hc, 7);
+        break;
+
+    case 91:
+        SetConsoleTextAttribute(hc, 7);
+        cout << "Protactinium (Pa):" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 2);
+        cout << "Positive aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+
+        SetConsoleTextAttribute(hc, 7);
+        cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 4);
+        cout << "Negative aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+        SetConsoleTextAttribute(hc, 7);
+        break;
+
+    case 92:
+        SetConsoleTextAttribute(hc, 7);
+        cout << "Uranium (U):" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 2);
+        cout << "Positive aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+
+        SetConsoleTextAttribute(hc, 7);
+        cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 4);
+        cout << "Negative aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+        SetConsoleTextAttribute(hc, 7);
+        break;
+
+    case 93:
+        SetConsoleTextAttribute(hc, 7);
+        cout << "Neptunium (Np):" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 2);
+        cout << "Positive aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+
+        SetConsoleTextAttribute(hc, 7);
+        cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 4);
+        cout << "Negative aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+        SetConsoleTextAttribute(hc, 7);
+        break;
+
+    case 94:
+        SetConsoleTextAttribute(hc, 7);
+        cout << "Plutonium (Pu):" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 2);
+        cout << "Positive aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+
+        SetConsoleTextAttribute(hc, 7);
+        cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 4);
+        cout << "Negative aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+        SetConsoleTextAttribute(hc, 7);
+        break;
+
+    case 95:
+        SetConsoleTextAttribute(hc, 7);
+        cout << "Americium (Am):" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 2);
+        cout << "Positive aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+
+        SetConsoleTextAttribute(hc, 7);
+        cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 4);
+        cout << "Negative aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+        SetConsoleTextAttribute(hc, 7);
+        break;
+
+    case 96:
+        SetConsoleTextAttribute(hc, 7);
+        cout << "Curium (Cm):" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 2);
+        cout << "Positive aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+
+        SetConsoleTextAttribute(hc, 7);
+        cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 4);
+        cout << "Negative aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+        SetConsoleTextAttribute(hc, 7);
+        break;
+
+    case 97:
+        SetConsoleTextAttribute(hc, 7);
+        cout << "Berkelium (Bk):" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 2);
+        cout << "Positive aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+
+        SetConsoleTextAttribute(hc, 7);
+        cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 4);
+        cout << "Negative aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+        SetConsoleTextAttribute(hc, 7);
+        break;
+
+    case 98:
+        SetConsoleTextAttribute(hc, 7);
+        cout << "Californium (Cf):" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 2);
+        cout << "Positive aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+
+        SetConsoleTextAttribute(hc, 7);
+        cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 4);
+        cout << "Negative aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+        SetConsoleTextAttribute(hc, 7);
+        break;
+
+    case 99:
+        SetConsoleTextAttribute(hc, 7);
+        cout << "Einsteinium (Es):" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 2);
+        cout << "Positive aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+
+        SetConsoleTextAttribute(hc, 7);
+        cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 4);
+        cout << "Negative aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+        SetConsoleTextAttribute(hc, 7);
+        break;
+
+    case 100:
+        SetConsoleTextAttribute(hc, 7);
+        cout << "Fermium (Fm):" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 2);
+        cout << "Positive aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+
+        SetConsoleTextAttribute(hc, 7);
+        cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 4);
+        cout << "Negative aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+        SetConsoleTextAttribute(hc, 7);
+        break;
+
+    case 101:
+        SetConsoleTextAttribute(hc, 7);
+        cout << "Mendelevium (Md):" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 2);
+        cout << "Positive aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+
+        SetConsoleTextAttribute(hc, 7);
+        cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 4);
+        cout << "Negative aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+        SetConsoleTextAttribute(hc, 7);
+        break;
+
+    case 102:
+        SetConsoleTextAttribute(hc, 7);
+        cout << "Nobelium (No):" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 2);
+        cout << "Positive aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+
+        SetConsoleTextAttribute(hc, 7);
+        cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 4);
+        cout << "Negative aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+        SetConsoleTextAttribute(hc, 7);
+        break;
+
+    case 103:
+        SetConsoleTextAttribute(hc, 7);
+        cout << "Lawrencium (Lr):" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 2);
+        cout << "Positive aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+
+        SetConsoleTextAttribute(hc, 7);
+        cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 4);
+        cout << "Negative aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+        SetConsoleTextAttribute(hc, 7);
+        break;
+
+    case 104:
+        SetConsoleTextAttribute(hc, 7);
+        cout << "Rutherfordium (Rf):" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 2);
+        cout << "Positive aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+
+        SetConsoleTextAttribute(hc, 7);
+        cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 4);
+        cout << "Negative aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+        SetConsoleTextAttribute(hc, 7);
+        break;
+
+    case 105:
+        SetConsoleTextAttribute(hc, 7);
+        cout << "Dubnium (Db):" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 2);
+        cout << "Positive aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+
+        SetConsoleTextAttribute(hc, 7);
+        cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 4);
+        cout << "Negative aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+        SetConsoleTextAttribute(hc, 7);
+        break;
+
+    case 106:
+        SetConsoleTextAttribute(hc, 7);
+        cout << "Seaborgium (Sg):" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 2);
+        cout << "Positive aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+
+        SetConsoleTextAttribute(hc, 7);
+        cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 4);
+        cout << "Negative aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+        SetConsoleTextAttribute(hc, 7);
+        break;
+
+    case 107:
+        SetConsoleTextAttribute(hc, 7);
+        cout << "Bohrium (Bh):" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 2);
+        cout << "Positive aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+
+        SetConsoleTextAttribute(hc, 7);
+        cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 4);
+        cout << "Negative aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+        SetConsoleTextAttribute(hc, 7);
+        break;
+
+    case 108:
+        SetConsoleTextAttribute(hc, 7);
+        cout << "Hassium (Hs):" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 2);
+        cout << "Positive aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+
+        SetConsoleTextAttribute(hc, 7);
+        cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 4);
+        cout << "Negative aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+        SetConsoleTextAttribute(hc, 7);
+        break;
+
+    case 109:
+        SetConsoleTextAttribute(hc, 7);
+        cout << "Meitnerium (Mt):" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 2);
+        cout << "Positive aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+
+        SetConsoleTextAttribute(hc, 7);
+        cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 4);
+        cout << "Negative aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+        SetConsoleTextAttribute(hc, 7);
+        break;
+
+    case 110:
+        SetConsoleTextAttribute(hc, 7);
+        cout << "Darmstadtium (Ds):" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 2);
+        cout << "Positive aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+
+        SetConsoleTextAttribute(hc, 7);
+        cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 4);
+        cout << "Negative aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+        SetConsoleTextAttribute(hc, 7);
+        break;
+
+    case 111:
+        SetConsoleTextAttribute(hc, 7);
+        cout << "Roentgenium (Rg):" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 2);
+        cout << "Positive aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+
+        SetConsoleTextAttribute(hc, 7);
+        cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 4);
+        cout << "Negative aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+        SetConsoleTextAttribute(hc, 7);
+        break;
+
+    case 112:
+        SetConsoleTextAttribute(hc, 7);
+        cout << "Copernicium (Cn):" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 2);
+        cout << "Positive aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+
+        SetConsoleTextAttribute(hc, 7);
+        cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 4);
+        cout << "Negative aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+        SetConsoleTextAttribute(hc, 7);
+        break;
+
+    case 113:
+        SetConsoleTextAttribute(hc, 7);
+        cout << "Nihonium (Nh):" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 2);
+        cout << "Positive aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+
+        SetConsoleTextAttribute(hc, 7);
+        cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 4);
+        cout << "Negative aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+        SetConsoleTextAttribute(hc, 7);
+        break;
+
+    case 114:
+        SetConsoleTextAttribute(hc, 7);
+        cout << "Flerovium (Fl):" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 2);
+        cout << "Positive aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+
+        SetConsoleTextAttribute(hc, 7);
+        cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 4);
+        cout << "Negative aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+        SetConsoleTextAttribute(hc, 7);
+        break;
+
+    case 115:
+        SetConsoleTextAttribute(hc, 7);
+        cout << "Moscovium (Mc):" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 2);
+        cout << "Positive aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+
+        SetConsoleTextAttribute(hc, 7);
+        cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 4);
+        cout << "Negative aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+        SetConsoleTextAttribute(hc, 7);
+        break;
+
+    case 116:
+        SetConsoleTextAttribute(hc, 7);
+        cout << "Livermorium (Lv):" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 2);
+        cout << "Positive aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+
+        SetConsoleTextAttribute(hc, 7);
+        cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 4);
+        cout << "Negative aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+        SetConsoleTextAttribute(hc, 7);
+        break;
+
+    case 117:
+        SetConsoleTextAttribute(hc, 7);
+        cout << "Tennessine (Ts):" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 2);
+        cout << "Positive aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+
+        SetConsoleTextAttribute(hc, 7);
+        cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 4);
+        cout << "Negative aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+        SetConsoleTextAttribute(hc, 7);
+        break;
+
+    case 118:
+        SetConsoleTextAttribute(hc, 7);
+        cout << "Oganesson (Og):" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 2);
+        cout << "Positive aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+
+        SetConsoleTextAttribute(hc, 7);
+        cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
+
+        SetConsoleTextAttribute(hc, 4);
+        cout << "Negative aspects:" << endl << endl;
+        cout << "1. " << endl << endl;
+        cout << "2. " << endl << endl;
+        cout << "3. " << endl << endl;
+        SetConsoleTextAttribute(hc, 7);
+        break;
     }
 }
         
