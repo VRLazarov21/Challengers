@@ -737,18 +737,18 @@ int main()
 
         SetConsoleTextAttribute(hc, 2);
         cout << "Positive aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Construction and Infrastructure: Iron is a primary component in the production of structural steel, which is used in the construction of buildings, bridges, roads, and various infrastructure projects. The construction industry benefits from iron's strength and durability, contributing to economic growth in this sector." << endl << endl;
+        cout << "2. Manufacturing: Iron and iron alloys are widely used in manufacturing processes, including the automotive industry, machinery production, and consumer goods manufacturing. Iron's versatility and affordability make it a valuable material for producing a wide range of products, supporting economic activity in these sectors." << endl << endl;
+        cout << "3. Transportation: Iron is essential in the transportation industry, particularly for the manufacturing of vehicles, trains, and ships. Iron's strength and low cost contribute to the efficiency and affordability of transportation systems." << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
         cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
 
         SetConsoleTextAttribute(hc, 4);
         cout << "Negative aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Environmental Impact: The mining of iron ore and its processing can have environmental consequences, including habitat disruption and potential water pollution. Sustainable mining practices are important to mitigate these effects." << endl << endl;
+        cout << "2. Occupational Health and Safety: The handling and processing of iron ore and its compounds can pose safety hazards to workers in industries that use these materials. Proper safety measures and regulations are necessary to minimize health risks and associated costs." << endl << endl;
+        cout << "3. Resource Intensive: The mining and extraction of iron ore can be resource-intensive and energy-consuming. This can contribute to environmental concerns and extraction costs." << endl << endl;
         SetConsoleTextAttribute(hc, 7);
         break;
 
@@ -758,18 +758,18 @@ int main()
 
         SetConsoleTextAttribute(hc, 2);
         cout << "Positive aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Battery Technology: Cobalt is a critical component in the production of lithium-ion batteries. These batteries are used in various applications, including electric vehicles (EVs), portable electronics, and renewable energy storage. The growth of the electric vehicle market and the demand for energy storage systems contribute to economic growth in the energy and transportation sectors." << endl << endl;
+        cout << "2. Aerospace and Defense: Cobalt-containing superalloys are used in the aerospace and defense industries for applications such as jet engines and gas turbines. Cobalt's high-temperature resistance and strength are essential for enhancing the performance and reliability of aerospace and defense systems." << endl << endl;
+        cout << "3. Chemical Industry: Cobalt compounds are used as catalysts in various chemical processes, including the production of petrochemicals, plastics, and pharmaceuticals. These applications support economic activity in the chemical sector." << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
         cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
 
         SetConsoleTextAttribute(hc, 4);
         cout << "Negative aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Child Labor and Ethical Concerns: A significant portion of the world's cobalt production occurs in the Democratic Republic of Congo (DRC), where there have been concerns about child labor, unsafe working conditions, and environmental issues in the cobalt mining industry. Ethical and sustainability concerns related to cobalt supply chains can impact market perceptions and affect businesses using cobalt." << endl << endl;
+        cout << "2. Resource Extraction: The mining and extraction of cobalt-containing ores can have environmental impacts, including habitat disruption and potential water pollution. Sustainable mining practices are important to mitigate these effects." << endl << endl;
+        cout << "3. Resource Availability: Cobalt is primarily obtained as a byproduct of copper and nickel mining. Its availability can be limited, leading to market supply challenges and potential price volatility." << endl << endl;
         SetConsoleTextAttribute(hc, 7);
         break;
 
@@ -779,18 +779,18 @@ int main()
 
         SetConsoleTextAttribute(hc, 2);
         cout << "Positive aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Stainless Steel Production: Nickel is a vital component in the production of stainless steel. Stainless steel is widely used in various industries, including construction, manufacturing, and transportation. Its corrosion resistance and strength make it valuable in producing durable and long-lasting products, contributing to economic growth in these sectors." << endl << endl;
+        cout << "2. Battery Technology: Nickel is used in various battery chemistries, including lithium-ion and nickel-metal hydride (NiMH) batteries. The growth of electric vehicles (EVs) and renewable energy storage systems has increased the demand for nickel, contributing to economic growth in the energy and transportation sectors." << endl << endl;
+        cout << "3. Aerospace and Defense: Nickel-containing superalloys are used in the aerospace and defense industries for applications such as jet engines, gas turbines, and missile systems. Nickel's high-temperature resistance and strength are essential for enhancing the performance and reliability of aerospace and defense systems." << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
         cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
 
         SetConsoleTextAttribute(hc, 4);
         cout << "Negative aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Resource Extraction: The mining and extraction of nickel-containing ores can have environmental impacts, including habitat disruption and potential water pollution. Sustainable mining practices are important to mitigate these effects." << endl << endl;
+        cout << "2. Occupational Health and Safety: The handling and processing of nickel and its compounds can pose safety hazards to workers in industries that use these substances. Proper safety measures and regulations are necessary to minimize health risks and associated costs." << endl << endl;
+        cout << "3. Market Volatility: The price of nickel can be subject to market volatility, which can affect businesses and industries that rely on nickel as an input." << endl << endl;
         SetConsoleTextAttribute(hc, 7);
         break;
 
@@ -800,18 +800,18 @@ int main()
 
         SetConsoleTextAttribute(hc, 2);
         cout << "Positive aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Construction and Infrastructure: Copper is widely used in the construction industry for electrical wiring, plumbing, and roofing. It is also used in infrastructure projects, such as bridges and pipelines. Copper's excellent electrical conductivity, corrosion resistance, and durability contribute to economic growth in the construction and infrastructure sectors." << endl << endl;
+        cout << "2. Electronics: Copper is a fundamental component in the production of electrical and electronic components, including circuit boards, cables, and connectors. The electronics industry relies on copper's electrical conductivity, making it essential for the manufacturing of various electronic devices and supporting technological advancements." << endl << endl;
+        cout << "3. Energy Production: Copper is used in power generation and transmission systems. It is vital for the construction of electrical transformers, motors, and power cables. Copper's conductivity and heat resistance contribute to the efficiency and reliability of energy systems, supporting economic growth in the energy sector." << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
         cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
 
         SetConsoleTextAttribute(hc, 4);
         cout << "Negative aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Resource Extraction: The mining and extraction of copper-containing ores can have environmental impacts, including habitat disruption and potential water pollution. Sustainable mining practices are important to mitigate these effects." << endl << endl;
+        cout << "2. Occupational Health and Safety: The handling and processing of copper and its compounds can pose safety hazards to workers in industries that use these substances. Proper safety measures and regulations are necessary to minimize health risks and associated costs." << endl << endl;
+        cout << "3. Market Volatility: The price of copper can be subject to market volatility, which can affect businesses and industries that rely on copper as an input." << endl << endl;
         SetConsoleTextAttribute(hc, 7);
         break;
 
@@ -821,18 +821,18 @@ int main()
 
         SetConsoleTextAttribute(hc, 2);
         cout << "Positive aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Galvanization: Zinc is widely used for galvanizing steel, which provides corrosion resistance to steel structures, vehicles, and various consumer products. The construction and automotive industries benefit from the use of zinc-coated steel, contributing to economic growth in these sectors." << endl << endl;
+        cout << "2. Battery Technology: Zinc is used in various battery chemistries, including zinc-carbon batteries, zinc-nickel batteries, and zinc-air batteries. These batteries are used in applications such as portable electronics and hearing aids, contributing to economic growth in the energy storage and medical device sectors." << endl << endl;
+        cout << "3. Chemical Industry: Zinc compounds are used in various chemical applications, including as catalysts, pigments, and in the production of rubber and plastics. These applications contribute to economic activity in the chemical sector." << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
         cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
 
         SetConsoleTextAttribute(hc, 4);
         cout << "Negative aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Resource Extraction: The mining and extraction of zinc-containing ores can have environmental impacts, including habitat disruption and potential water pollution. Sustainable mining practices are important to mitigate these effects." << endl << endl;
+        cout << "2. Occupational Health and Safety: The handling and processing of zinc and its compounds can pose safety hazards to workers in industries that use these substances. Proper safety measures and regulations are necessary to minimize health risks and associated costs." << endl << endl;
+        cout << "3. Market Volatility: The price of zinc can be subject to market volatility, which can affect businesses and industries that rely on zinc as an input." << endl << endl;
         SetConsoleTextAttribute(hc, 7);
         break;
 
@@ -842,8 +842,8 @@ int main()
 
         SetConsoleTextAttribute(hc, 2);
         cout << "Positive aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
+        cout << "1. Semiconductor Industry: Gallium is used in the production of gallium arsenide (GaAs) and gallium nitride (GaN) semiconductors. These materials are essential for certain high-frequency and high-power electronic devices, such as microwave transistors and LEDs. The growth of the semiconductor industry, especially in the development of 5G technology and power electronics, contributes to economic growth in the technology and telecommunications sectors." << endl << endl;
+        cout << "2. Solar Panels: Gallium is used in the production of thin-film solar cells, which are an alternative to traditional silicon-based solar cells. Thin-film solar technology has the potential to contribute to renewable energy generation and reduce the cost of solar power, supporting economic growth in the renewable energy sector." << endl << endl;
         cout << "3. " << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
@@ -851,9 +851,9 @@ int main()
 
         SetConsoleTextAttribute(hc, 4);
         cout << "Negative aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Resource Depletion: The extraction of gallium from bauxite, a mineral containing aluminum, can lead to resource depletion, which may affect aluminum production and environmental impacts in mining areas." << endl << endl;
+        cout << "2. Environmental Impact: The production and processing of gallium-containing materials may have environmental consequences. Efforts to minimize environmental impacts and promote responsible mining and production practices are important." << endl << endl;
+        cout << "3. Limited Availability: Gallium is a relatively rare element, and its availability is limited. The cost of gallium is relatively high, which can limit its widespread use and affordability." << endl << endl;
         SetConsoleTextAttribute(hc, 7);
         break;
 
@@ -863,8 +863,8 @@ int main()
 
         SetConsoleTextAttribute(hc, 2);
         cout << "Positive aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
+        cout << "1. Electronics Industry: Germanium is used in the production of certain semiconductor devices, such as photodetectors, infrared detectors, and high-frequency transistors. These devices are used in various electronic applications, including telecommunications, aerospace, and imaging systems. The growth of the electronics industry, especially in the development of advanced sensors and communication technologies, contributes to economic growth in the technology and telecommunications sectors." << endl << endl;
+        cout << "2. Fiber Optics: Germanium is used in the production of optical fibers, which are essential for high-speed data transmission in telecommunications and data networking. As demand for high-bandwidth communication and internet services continues to grow, the use of germanium in fiber optics supports economic activity in the telecommunications sector." << endl << endl;
         cout << "3. " << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
@@ -872,9 +872,9 @@ int main()
 
         SetConsoleTextAttribute(hc, 4);
         cout << "Negative aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Resource Depletion: The extraction of germanium from zinc ores can lead to resource depletion, potentially affecting the zinc mining industry and creating environmental impacts in mining areas." << endl << endl;
+        cout << "2. Market Volatility: The price of germanium can be subject to market volatility, which can affect businesses and industries that rely on germanium as an input." << endl << endl;
+        cout << "3. Limited Availability: Germanium is a relatively rare element, and its availability is limited. The cost of germanium is relatively high, which can limit its widespread use and affordability." << endl << endl;
         SetConsoleTextAttribute(hc, 7);
         break;
 
@@ -893,9 +893,9 @@ int main()
 
         SetConsoleTextAttribute(hc, 4);
         cout << "Negative aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Environmental Contamination: Arsenic contamination in the environment, particularly in soil and water, can lead to health and environmental concerns. It may result from industrial activities, mining, and the disposal of arsenic-containing waste. Cleanup and remediation efforts to address environmental contamination can be costly and have economic implications." << endl << endl;
+        cout << "2. Healthcare Costs: Arsenic exposure, even at low levels, can have severe health effects, including an increased risk of cancer, skin lesions, and various chronic health problems. Treating individuals with arsenic-related health issues can lead to increased healthcare costs." << endl << endl;
+        cout << "3. Regulatory Compliance: Businesses and industries that release or handle arsenic-containing materials are subject to stringent environmental regulations. Compliance with these regulations requires investments in pollution control, waste management, and worker safety measures, which can increase operating costs." << endl << endl;
         SetConsoleTextAttribute(hc, 7);
         break;
 
@@ -905,8 +905,8 @@ int main()
 
         SetConsoleTextAttribute(hc, 2);
         cout << "Positive aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
+        cout << "1. Agriculture: Selenium is important for plant and animal nutrition. In agriculture, selenium is used as a dietary supplement for livestock to prevent selenium deficiency, which can lead to health issues in animals. Selenium supplementation supports animal health and can contribute to the livestock and agriculture industries." << endl << endl;
+        cout << "2. Solar Energy: Selenium is used in the production of certain types of thin-film photovoltaic solar cells, such as cadmium selenide (CdSe) and copper indium gallium selenide (CIGS) solar cells. These solar technologies can help generate renewable energy and reduce greenhouse gas emissions, supporting economic growth in the renewable energy sector." << endl << endl;
         cout << "3. " << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
@@ -914,9 +914,9 @@ int main()
 
         SetConsoleTextAttribute(hc, 4);
         cout << "Negative aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Environmental Concerns: Excessive selenium in the environment can lead to pollution and harm ecosystems. Selenium can accumulate in water bodies, posing risks to aquatic life and wildlife when levels become toxic. Addressing selenium pollution and its environmental impact can require mitigation efforts, which can be costly." << endl << endl;
+        cout << "2. Occupational Health and Safety: The handling and processing of selenium and its compounds can pose safety hazards to workers in industries that use these substances. Proper safety measures and regulations are necessary to minimize health risks and associated costs." << endl << endl;
+        cout << "3. Resource Availability: Selenium is relatively rare, and its availability can be limited. As a result, the cost of selenium may be relatively high, which can affect its use in various industries." << endl << endl;
         SetConsoleTextAttribute(hc, 7);
         break;
 
@@ -926,8 +926,8 @@ int main()
 
         SetConsoleTextAttribute(hc, 2);
         cout << "Positive aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
+        cout << "1. Chemical Industry: Bromine and its compounds have various applications in the chemical industry. They are used in the production of flame retardants, drilling fluids in the oil and gas industry, pharmaceuticals, and agricultural chemicals. These applications contribute to economic activity in the chemical sector." << endl << endl;
+        cout << "2. Photography: Bromine compounds were traditionally used in photography, particularly in the production of silver bromide emulsions for photographic film. While digital photography has largely replaced traditional film, there may still be niche applications for bromine in photography." << endl << endl;
         cout << "3. " << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
@@ -935,9 +935,9 @@ int main()
 
         SetConsoleTextAttribute(hc, 4);
         cout << "Negative aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Environmental Concerns: Some bromine compounds, particularly brominated flame retardants, have raised environmental concerns. These compounds can persist in the environment and may be bioaccumulative, potentially affecting ecosystems and wildlife. Efforts to mitigate environmental contamination and health risks associated with bromine compounds can be costly." << endl << endl;
+        cout << "2. Resource Extraction: The production of bromine involves extracting it from brine deposits. This process can have environmental impacts and requires the sustainable management of resources to prevent resource depletion and habitat disruption." << endl << endl;
+        cout << "3. Occupational Health and Safety: The handling and processing of bromine and its compounds can pose safety hazards to workers in industries that use these substances. Proper safety measures and regulations are necessary to minimize health risks and associated costs." << endl << endl;
         SetConsoleTextAttribute(hc, 7);
         break;
 
