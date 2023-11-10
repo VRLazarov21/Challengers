@@ -4,6 +4,7 @@
 #include <vector>
 #include <Windows.h>
 #include <conio.h>
+#include <cstdlib>
 
 using namespace std;
 
@@ -199,10 +200,8 @@ void table() {
 }
 
 
-int main()
+void TextElement()
 {
-    table();
-    find();
 
     /////////////////////////////////////////
 
@@ -2684,5 +2683,29 @@ int main()
         SetConsoleTextAttribute(hc, 7);
         break;
     }
+
+
+    string userInput;
+
+    do {
+        cout << "Write \"Exit\": \n";
+        cin >> userInput;
+
+        if (userInput == "Exit") {
+            system("cls");
+            table();
+            find();
+            TextElement();
+
+        }
+        else {
+            cout << "ERROR. Try again! \n";
+        }
+    } while (userInput == "Exit");
 }
-        
+int main()
+{
+    table();
+    find();
+    TextElement();
+}
