@@ -47,12 +47,12 @@ void find()
     cout << "Enter the element: ";
     cin >> element;
     cout << endl;
-    for (int i = 0; i < 90; i++) {
+    for (int i = 0; i < 118; i++) {
         if (element == FindElements[i] && T == false) {
             cout << "Element: " << element << endl;
             T = true;
         }
-        if (i == 89 && T == false) {
+        if (i == 117 && T == false) {
             cout << "Error" << endl;
             find();
         }
