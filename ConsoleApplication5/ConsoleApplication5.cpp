@@ -30,7 +30,7 @@ string FindElements[90] = {
 
 int find_output()
 {
-    for (int i = 0; i < 90; i++)
+    for (int i = 0; i < 118; i++)
     {
         if (element == FindElements[i])
         {

@@ -1,4 +1,3 @@
 ﻿  ConsoleApplication5.cpp
 C:\Users\stili\source\repos\ConsoleApplication5\ConsoleApplication5.cpp(41): warning C4715: 'find_output': not all control paths return a value
-  LINK : C:\Users\stili\source\repos\x64\Debug\ConsoleApplication5.exe not found or not built by the last incremental link; performing full link
   ConsoleApplication5.vcxproj -> C:\Users\stili\source\repos\x64\Debug\ConsoleApplication5.exe
