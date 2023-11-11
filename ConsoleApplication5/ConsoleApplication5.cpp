@@ -62,6 +62,15 @@ void find()
     system("cls");
 }
 
+bool is_element(string input)
+{
+    bool result = false;
+    for (int i = 0; i < 118; i++)
+    {
+        if (input == FindElements[i])result = true;
+    }
+    return result;
+}
 
 void table() {
 
