@@ -2366,7 +2366,7 @@ void TextElement()
         cout << "Positive aspects:" << endl << endl;
         cout << "1. Scientific Research: Lawrencium is used in scientific research, particularly in studies related to nuclear physics and the behavior of radioactive elements. Research involving lawrencium contributes to a better understanding of fundamental atomic and nuclear processes." << endl << endl;
         cout << "2. Isotope Production: Certain isotopes of lawrencium, such as lawrencium-257, can be used in the production of other elements through neutron irradiation. These isotopes may have applications in scientific research and industrial processes." << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "3. Technological Applications: Although lawrencium itself may not have direct applications, the techniques developed to produce and study it could have broader applications in areas such as materials science, chemistry, or nuclear physics, potentially leading to new technologies that could impact the economy." << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
         cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
@@ -2387,7 +2387,7 @@ void TextElement()
         cout << "Positive aspects:" << endl << endl;
         cout << "1. Scientific Research: Rutherfordium is primarily used in scientific research, particularly in studies related to nuclear physics and the behavior of heavy elements. Research involving rutherfordium contributes to a better understanding of fundamental atomic and nuclear processes." << endl << endl;
         cout << "2. Elemental Studies: As a transactinide element, rutherfordium is part of the periodic table's exploration and helps scientists understand the properties and behavior of elements in the heavy atomic number range." << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "3. Scientific Knowledge and Technological Advancements: The discovery and study of elements contribute to our understanding of fundamental science. The knowledge gained from researching elements like rutherfordium can lead to advancements in technology and materials science, which may eventually have economic implications." << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
         cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
@@ -2408,7 +2408,7 @@ void TextElement()
         cout << "Positive aspects:" << endl << endl;
         cout << "1. Scientific Research: Dubnium is primarily used in scientific research, particularly in studies related to nuclear physics and the behavior of heavy elements. Research involving dubnium contributes to a better understanding of fundamental atomic and nuclear processes." << endl << endl;
         cout << "2. Elemental Studies: As a transactinide element, dubnium is part of the periodic table's exploration and helps scientists understand the properties and behavior of elements in the heavy atomic number range." << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "3. Technological Innovation: The techniques developed for the synthesis and study of dubnium could potentially have broader applications in nuclear physics, materials science, or other related fields. These innovations may contribute to technological advancements with economic implications." << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
         cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
@@ -2429,7 +2429,7 @@ void TextElement()
         cout << "Positive aspects:" << endl << endl;
         cout << "1. Scientific Research: Seaborgium is primarily used in scientific research, particularly in studies related to nuclear physics and the behavior of heavy elements. Research involving seaborgium contributes to a better understanding of fundamental atomic and nuclear processes." << endl << endl;
         cout << "2. Elemental Studies: As a transactinide element, seaborgium is part of the periodic table's exploration and helps scientists understand the properties and behavior of elements in the heavy atomic number range." << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "3. Technological Innovation: Techniques developed for the synthesis and study of seaborgium may have broader applications in nuclear physics, materials science, or other scientific disciplines. These innovations could potentially contribute to technological advancements with economic implications." << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
         cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
@@ -2450,7 +2450,7 @@ void TextElement()
         cout << "Positive aspects:" << endl << endl;
         cout << "1. Scientific Research: Bohrium is primarily used in scientific research, particularly in studies related to nuclear physics and the behavior of heavy elements. Research involving bohrium contributes to a better understanding of fundamental atomic and nuclear processes." << endl << endl;
         cout << "2. Elemental Studies: As a transactinide element, bohrium is part of the periodic table's exploration and helps scientists understand the properties and behavior of elements in the heavy atomic number range." << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "3. Technological Innovation: Techniques developed for the synthesis and study of bohrium may have broader applications in nuclear physics, materials science, or other scientific disciplines. These innovations could potentially contribute to technological advancements with economic implications." << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
         cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
@@ -2471,7 +2471,7 @@ void TextElement()
         cout << "Positive aspects:" << endl << endl;
         cout << "1. Scientific Research: Hassium is primarily used in scientific research, especially in studies related to nuclear physics and the behavior of heavy elements. Research involving hassium contributes to a better understanding of fundamental atomic and nuclear processes." << endl << endl;
         cout << "2. Elemental Studies: As a transactinide element, hassium is part of the periodic table's exploration and helps scientists understand the properties and behavior of elements in the heavy atomic number range." << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "3. Educational and Training Opportunities: Research involving hassium and other synthetic elements can provide valuable educational and training opportunities for scientists, researchers, and students. This can contribute to the development of a skilled workforce in the fields of nuclear physics, chemistry, and materials science, fostering innovation and expertise that may have broader economic benefits in the long term." << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
         cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
@@ -2492,7 +2492,7 @@ void TextElement()
         cout << "Positive aspects:" << endl << endl;
         cout << "1. Scientific Research: Meitnerium is primarily used in scientific research, especially in studies related to nuclear physics and the behavior of heavy elements. Research involving meitnerium contributes to a better understanding of fundamental atomic and nuclear processes." << endl << endl;
         cout << "2. Elemental Studies: As a transactinide element, meitnerium is part of the periodic table's exploration and helps scientists understand the properties and behavior of elements in the heavy atomic number range." << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "3. International Collaboration: The study of synthetic elements often involves collaboration among scientists and research institutions globally. International cooperation can foster scientific progress, exchange of knowledge, and cultural understanding, which can have positive diplomatic and economic implications." << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
         cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
@@ -2513,7 +2513,7 @@ void TextElement()
         cout << "Positive aspects:" << endl << endl;
         cout << "1. Scientific Research: Darmstadtium is primarily used in scientific research, especially in studies related to nuclear physics and the behavior of heavy elements. Research involving darmstadtium contributes to a better understanding of fundamental atomic and nuclear processes." << endl << endl;
         cout << "2. Elemental Studies: As a transactinide element, darmstadtium is part of the periodic table's exploration and helps scientists understand the properties and behavior of elements in the heavy atomic number range." << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "3. Educational and Training Opportunities: Research involving darmstadtium and other synthetic elements provides educational and training opportunities for scientists, researchers, and students. This contributes to the development of a skilled workforce in fields such as nuclear physics and materials science, fostering innovation and expertise that may have broader economic benefits in the long term. Additionally, advancements in education and training can contribute to the overall scientific and technological capabilities of a nation or region." << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
         cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
@@ -2534,7 +2534,7 @@ void TextElement()
         cout << "Positive aspects:" << endl << endl;
         cout << "1. Scientific Research: Roentgenium is primarily used in scientific research, especially in studies related to nuclear physics and the behavior of heavy elements. Research involving roentgenium contributes to a better understanding of fundamental atomic and nuclear processes." << endl << endl;
         cout << "2. Elemental Studies: As a transactinide element, roentgenium is part of the periodic table's exploration and helps scientists understand the properties and behavior of elements in the heavy atomic number range." << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "3. International Collaboration: The study of synthetic elements often involves collaboration among scientists and research institutions globally. International cooperation can foster scientific progress, exchange of knowledge, and cultural understanding, which can have positive diplomatic and economic implications." << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
         cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
@@ -2555,7 +2555,7 @@ void TextElement()
         cout << "Positive aspects:" << endl << endl;
         cout << "1. Scientific Research: Copernicium is primarily used in scientific research, especially in studies related to nuclear physics and the behavior of heavy elements. Research involving copernicium contributes to a better understanding of fundamental atomic and nuclear processes." << endl << endl;
         cout << "2. Elemental Studies: As a transactinide element, copernicium is part of the periodic table's exploration and helps scientists understand the properties and behavior of elements in the heavy atomic number range." << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "3. International Collaboration: The study of synthetic elements often involves collaboration among scientists and research institutions globally. International cooperation can foster scientific progress, exchange of knowledge, and cultural understanding, which can have positive diplomatic and economic implications." << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
         cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
@@ -2576,7 +2576,7 @@ void TextElement()
         cout << "Positive aspects:" << endl << endl;
         cout << "1. Scientific Research: Nihonium is primarily used in scientific research, especially in studies related to nuclear physics and the behavior of heavy elements. Research involving nihonium contributes to a better understanding of fundamental atomic and nuclear processes." << endl << endl;
         cout << "2. Elemental Studies: As a transactinide element, nihonium is part of the periodic table's exploration and helps scientists understand the properties and behavior of elements in the heavy atomic number range." << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "3. Educational and Training Opportunities: Research involving nihonium and other synthetic elements provides educational and training opportunities for scientists, researchers, and students. This contributes to the development of a skilled workforce in fields such as nuclear physics and materials science, fostering innovation and expertise that may have broader economic benefits in the long term. Additionally, advancements in education and training can contribute to the overall scientific and technological capabilities of a nation or region." << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
         cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
@@ -2606,7 +2606,7 @@ void TextElement()
         cout << "Negative aspects:" << endl << endl;
         cout << "1. Radioactive Hazard: Flerovium is highly radioactive, and its decay products pose significant health risks. Handling or working with flerovium-containing materials requires specialized equipment and safety measures due to its intense radioactivity." << endl << endl;
         cout << "2. Limited Commercial Use: The extreme rarity of flerovium, its synthetic nature, and the challenges associated with its production make it impractical for widespread commercial applications. It is not used in industrial processes, consumer products, or technology on a large scale." << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "3. Ethical Considerations: In some cases, there may be ethical considerations related to the production and study of synthetic elements. Issues such as safety, public perception, and ethical use of resources may need to be addressed." << endl << endl;
         SetConsoleTextAttribute(hc, 7);
         break;
 
@@ -2618,7 +2618,7 @@ void TextElement()
         cout << "Positive aspects:" << endl << endl;
         cout << "1. Scientific Research: Moscovium is primarily used in scientific research, especially in studies related to nuclear physics and the behavior of heavy elements. Research involving moscovium contributes to a better understanding of fundamental atomic and nuclear processes." << endl << endl;
         cout << "2. Elemental Studies: As a transactinide element, moscovium is part of the periodic table's exploration and helps scientists understand the properties and behavior of elements in the heavy atomic number range." << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "3. Inspiration for STEM Education and Innovation: The exploration of synthetic elements like moscovium can serve as a source of inspiration for students and researchers in the fields of science, technology, engineering, and mathematics (STEM). High-profile scientific discoveries capture public interest and can encourage the pursuit of STEM education and careers. A well-educated and innovative workforce is crucial for driving economic growth and competitiveness." << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
         cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
@@ -2639,7 +2639,7 @@ void TextElement()
         cout << "Positive aspects:" << endl << endl;
         cout << "1. Scientific Research: Livermorium is primarily used in scientific research, especially in studies related to nuclear physics and the behavior of heavy elements. Research involving livermorium contributes to a better understanding of fundamental atomic and nuclear processes." << endl << endl;
         cout << "2. Elemental Studies: As a transactinide element, livermorium is part of the periodic table's exploration and helps scientists understand the properties and behavior of elements in the heavy atomic number range." << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "3. Educational and Workforce Development: Research involving livermorium and other synthetic elements provides educational and training opportunities for scientists, researchers, and students. This contributes to the development of a skilled workforce in fields such as nuclear physics and materials science, fostering innovation and expertise. Additionally, advancements in education can contribute to the overall scientific and technological capabilities of a nation or region." << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
         cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
@@ -2660,7 +2660,7 @@ void TextElement()
         cout << "Positive aspects:" << endl << endl;
         cout << "1. Scientific Research: Tennessine is primarily used in scientific research, especially in studies related to nuclear physics and the behavior of heavy elements. Research involving tennessine contributes to a better understanding of fundamental atomic and nuclear processes." << endl << endl;
         cout << "2. Elemental Studies: As a transactinide element, tennessine is part of the periodic table's exploration and helps scientists understand the properties and behavior of elements in the heavy atomic number range." << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "3. Advanced Instrumentation: Techniques developed for the study and synthesis of tennessine may contribute to the advancement of experimental methods and instrumentation. These advancements can have broader applications in analytical techniques, potentially influencing the development of high-precision instruments used in various scientific and industrial settings. Such technologies can contribute to improvements in measurement accuracy and reliability." << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
         cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
@@ -2681,7 +2681,7 @@ void TextElement()
         cout << "Positive aspects:" << endl << endl;
         cout << "1. Scientific Research: Oganesson is primarily used in scientific research, especially in studies related to nuclear physics and the behavior of heavy elements. Research involving oganesson contributes to a better understanding of fundamental atomic and nuclear processes." << endl << endl;
         cout << "2. Elemental Studies: As a transactinide element, oganesson is part of the periodic table's exploration and helps scientists understand the properties and behavior of elements in the heavy atomic number range." << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "3. Inspiration for Education and Outreach: Scientific discoveries, even in the realm of synthetic elements like oganesson, can serve as a source of inspiration for students and the general public. Educational programs and outreach initiatives related to the exploration of oganesson can stimulate interest in science, technology, engineering, and mathematics (STEM) fields. An informed and engaged public can contribute to a society that values scientific inquiry and innovation." << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
         cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
