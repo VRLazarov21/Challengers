@@ -2699,7 +2699,7 @@ void TextElement()
     string userInput;
 
     do {
-        cout << "Write \"Exit\": \n";
+        cout << "Input: ";
         cin >> userInput;
 
         if (userInput == "Exit") {
@@ -2709,10 +2709,14 @@ void TextElement()
             TextElement();
 
         }
+        else if (is_element(userInput)) {
+            element = userInput;
+            TextElement();
+        }
         else {
             cout << "ERROR. Try again! \n";
         }
-    } while (userInput == "Exit");
+    } while (userInput == "Exit" || is_element(userInput));
 }
 int main()
 {
