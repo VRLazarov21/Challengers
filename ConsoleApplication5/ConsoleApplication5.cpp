@@ -371,7 +371,7 @@ void TextElement()
         cout << "Positive aspects:" << endl << endl;
         cout << "1. Healthcare: Oxygen is a vital component in the field of healthcare. It is used in medical settings for various treatments and therapies, such as respiratory support for patients with breathing difficulties and anesthesia during surgeries. This indirectly supports the healthcare industry, which is a significant sector of the economy." << endl << endl;
         cout << "2. Welding and Metal Fabrication: Oxygen is a critical component in oxyfuel welding and cutting processes used in metal fabrication. The metalworking industry relies on these processes for cutting, shaping, and joining metals, contributing to economic activity in this sector." << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "3. Health and Productivity: Clean air with an adequate supply of oxygen is crucial for human health. A healthy workforce is generally more productive, resulting in a positive impact on the economy. Good air quality can reduce the incidence of respiratory diseases and related healthcare costs." << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
         cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
@@ -392,7 +392,7 @@ void TextElement()
         cout << "Positive aspects:" << endl << endl;
         cout << "1. Chemical Industry: Fluorine and its compounds have numerous applications in the chemical industry. It is used in the production of various chemicals, including fluoropolymers like Teflon, which are valuable in manufacturing processes, such as non-stick coatings for cookware. These applications contribute to economic activity in the chemical sector." << endl << endl;
         cout << "2. Pharmaceuticals: Fluorine is frequently incorporated into drug molecules to enhance their effectiveness and stability. The pharmaceutical industry benefits from fluorinated compounds that improve the bioavailability and pharmacokinetics of drugs, leading to economic growth in this sector." << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "3. Dental Health: Fluoride is commonly added to drinking water and dental products for its role in preventing tooth decay. Improved dental health can lead to reduced healthcare costs associated with dental treatments and increased workforce productivity due to better oral health." << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
         cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
@@ -412,8 +412,8 @@ void TextElement()
         SetConsoleTextAttribute(hc, 2);
         cout << "Positive aspects:" << endl << endl;
         cout << "1. Neon Signs and Lighting: Neon is widely used in the creation of neon signs and lighting. These vibrant and eye-catching displays are commonly used for advertising, branding, and decoration. The neon sign industry contributes to economic activity in the signage and advertising sectors." << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "2. Tourism and Aesthetics: Neon signs are often associated with vibrant urban landscapes and are popular in tourist areas. The aesthetic appeal of neon lighting can contribute to the attractiveness of cityscapes, encouraging tourism and supporting businesses in the hospitality and entertainment sectors." << endl << endl;
+        cout << "3. Signage Industry: Neon lights are widely used in the signage industry for advertising and decorative purposes. Neon signs can attract attention and enhance the visibility of businesses, contributing to marketing and branding efforts. This can positively impact businesses in retail, hospitality, and entertainment sectors." << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
         cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
@@ -422,7 +422,7 @@ void TextElement()
         cout << "Negative aspects:" << endl << endl;
         cout << "1. Energy Consumption: Neon lighting, while visually appealing, is not energy-efficient. Neon signs can consume more electricity compared to modern LED alternatives. Higher energy consumption can lead to increased operating costs for businesses that use neon lighting." << endl << endl;
         cout << "2. Environmental Impact: Neon gas itself is inert and non-toxic, but the manufacturing of neon signs and lights may involve other potentially hazardous materials and processes. Proper disposal and recycling of old neon signs and lights are necessary to minimize environmental impact." << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "3. Economic Dependency: In some cases, businesses heavily reliant on neon signage may face economic challenges if there are significant shifts in consumer preferences, technological advancements, or regulatory changes that affect the use of neon lights." << endl << endl;
         SetConsoleTextAttribute(hc, 7);
         break;
 
@@ -434,7 +434,7 @@ void TextElement()
         cout << "Positive aspects:" << endl << endl;
         cout << "1. Chemical Industry: Sodium and its compounds have various applications in the chemical industry. For example, sodium hydroxide (caustic soda) is used in the production of soaps, detergents, and various chemicals, contributing to economic activity in this sector." << endl << endl;
         cout << "2. Metallurgy: Sodium can be used as a reducing agent in the extraction of certain metals, such as titanium and zirconium. It plays a role in the metallurgical industry, aiding in the production of metals and alloys." << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "3. Food Industry: Sodium compounds like sodium chloride (table salt) are widely used in the food industry as a seasoning and preservative. While excessive sodium consumption can pose health risks, moderate use of sodium in food production contributes to economic activities in the food sector." << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
         cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
@@ -581,7 +581,7 @@ void TextElement()
         cout << "Positive aspects:" << endl << endl;
         cout << "1. Welding and Metal Fabrication: Argon is commonly used as a shielding gas in welding processes, particularly in TIG (Tungsten Inert Gas) welding. This application is critical in the manufacturing and construction industries, as it enhances the quality of welds and contributes to economic activity in these sectors." << endl << endl;
         cout << "2. Chemical Analysis and Laboratories: Argon is used as a carrier gas in gas chromatography and as a blanketing gas in analytical chemistry. These applications support scientific research, chemical analysis, and quality control, contributing to the economy in these fields." << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "3. Scientific and Medical Applications: Argon has applications in scientific research, including its use in gas chromatography and as a carrier gas in analytical instruments. In the medical field, argon is used in certain medical procedures. Advances in these areas can contribute to economic development through technological innovation and improved healthcare." << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
         cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
@@ -602,7 +602,7 @@ void TextElement()
         cout << "Positive aspects:" << endl << endl;
         cout << "1. Agriculture: Potassium is a crucial nutrient for plant growth and crop production. Potassium-containing fertilizers, often referred to as potash, are used to improve soil fertility and enhance crop yields. The agricultural industry relies on these fertilizers to ensure food security and boost agricultural production, contributing to the economy." << endl << endl;
         cout << "2. Food Processing: Potassium is essential for human nutrition and is found in a variety of foods. The food processing industry benefits from the use of potassium additives in various products, such as canned goods and processed foods, supporting economic growth in this sector." << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "3. Industrial Applications: Potassium compounds, such as potassium hydroxide, have various industrial applications, including in the production of soaps, detergents, and certain chemicals. These applications contribute to economic activities in the manufacturing sector." << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
         cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
@@ -644,7 +644,7 @@ void TextElement()
         cout << "Positive aspects:" << endl << endl;
         cout << "1. Aerospace and Defense: Scandium-aluminum alloys offer lightweight and high-strength materials that can be used in aerospace and defense applications, such as aircraft components and missile systems. These materials can reduce fuel consumption and enhance performance, contributing to technological advancements and economic activity in these industries." << endl << endl;
         cout << "2. Solid Oxide Fuel Cells: Scandium-stabilized zirconia is used in solid oxide fuel cells (SOFCs), which have the potential to provide clean and efficient energy. Advances in SOFC technology could lead to economic benefits in the energy sector and reduce environmental impacts." << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "3. Alloy Strengthening: Scandium can be added to aluminum alloys to enhance their strength and performance. This results in lightweight and high-strength materials, which can find applications in aerospace, automotive, and other industries. The development of scandium-aluminum alloys can contribute to advancements in manufacturing and technology." << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
         cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
@@ -854,7 +854,7 @@ void TextElement()
         cout << "Positive aspects:" << endl << endl;
         cout << "1. Semiconductor Industry: Gallium is used in the production of gallium arsenide (GaAs) and gallium nitride (GaN) semiconductors. These materials are essential for certain high-frequency and high-power electronic devices, such as microwave transistors and LEDs. The growth of the semiconductor industry, especially in the development of 5G technology and power electronics, contributes to economic growth in the technology and telecommunications sectors." << endl << endl;
         cout << "2. Solar Panels: Gallium is used in the production of thin-film solar cells, which are an alternative to traditional silicon-based solar cells. Thin-film solar technology has the potential to contribute to renewable energy generation and reduce the cost of solar power, supporting economic growth in the renewable energy sector." << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "3. Electronics Industry: Gallium is a crucial component in the production of gallium arsenide, a semiconductor material used in various electronic devices, including solar cells, LEDs (light-emitting diodes), and microwave devices. The electronics industry benefits from the use of gallium in the manufacturing of advanced technologies." << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
         cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
@@ -875,7 +875,7 @@ void TextElement()
         cout << "Positive aspects:" << endl << endl;
         cout << "1. Electronics Industry: Germanium is used in the production of certain semiconductor devices, such as photodetectors, infrared detectors, and high-frequency transistors. These devices are used in various electronic applications, including telecommunications, aerospace, and imaging systems. The growth of the electronics industry, especially in the development of advanced sensors and communication technologies, contributes to economic growth in the technology and telecommunications sectors." << endl << endl;
         cout << "2. Fiber Optics: Germanium is used in the production of optical fibers, which are essential for high-speed data transmission in telecommunications and data networking. As demand for high-bandwidth communication and internet services continues to grow, the use of germanium in fiber optics supports economic activity in the telecommunications sector." << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "3. Solar Technology: Germanium is used in certain types of solar cells, especially in multi-junction solar cells used in space applications. These cells are known for their high efficiency in converting sunlight into electricity. As the demand for solar energy technologies increases, the use of germanium in solar applications can positively impact the renewable energy sector." << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
         cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
@@ -894,9 +894,9 @@ void TextElement()
 
         SetConsoleTextAttribute(hc, 2);
         cout << "Positive aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Industrial Applications: Arsenic, in certain compounds, has historically been used in various industrial applications, such as in the production of semiconductors, glass, and wood preservatives. However, due to its toxicity, many of these uses have been phased out or regulated, and alternatives have been sought." << endl << endl;
+        cout << "2. Semiconductor Industry: Arsenic compounds were once used in the semiconductor industry for doping silicon wafers. However, with advancements in technology and concerns about toxicity, alternatives are now more commonly used." << endl << endl;
+        cout << "3. Historical Industrial Uses: Arsenic-based compounds, such as arsenic trioxide, were once used in wood preservatives to protect against decay and insect damage. While this served a purpose in extending the lifespan of wood products, it's crucial to note that the negative impacts, including environmental contamination and health risks, have led to regulatory restrictions and a shift toward safer alternatives." << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
         cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
@@ -917,7 +917,7 @@ void TextElement()
         cout << "Positive aspects:" << endl << endl;
         cout << "1. Agriculture: Selenium is important for plant and animal nutrition. In agriculture, selenium is used as a dietary supplement for livestock to prevent selenium deficiency, which can lead to health issues in animals. Selenium supplementation supports animal health and can contribute to the livestock and agriculture industries." << endl << endl;
         cout << "2. Solar Energy: Selenium is used in the production of certain types of thin-film photovoltaic solar cells, such as cadmium selenide (CdSe) and copper indium gallium selenide (CIGS) solar cells. These solar technologies can help generate renewable energy and reduce greenhouse gas emissions, supporting economic growth in the renewable energy sector." << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "3. Photovoltaic Industry: Selenium is used in the production of thin-film solar cells, contributing to the development of solar energy technologies. The growth of the solar energy sector can positively impact economic activities, providing renewable and sustainable energy sources." << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
         cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
@@ -938,7 +938,7 @@ void TextElement()
         cout << "Positive aspects:" << endl << endl;
         cout << "1. Chemical Industry: Bromine and its compounds have various applications in the chemical industry. They are used in the production of flame retardants, drilling fluids in the oil and gas industry, pharmaceuticals, and agricultural chemicals. These applications contribute to economic activity in the chemical sector." << endl << endl;
         cout << "2. Photography: Bromine compounds were traditionally used in photography, particularly in the production of silver bromide emulsions for photographic film. While digital photography has largely replaced traditional film, there may still be niche applications for bromine in photography." << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "3. Flame Retardants: Bromine compounds are commonly used as flame retardants in various products, including textiles, electronics, and construction materials. This application enhances fire safety, contributing to the prevention and mitigation of fire-related damages. Industries that produce flame-retardant materials benefit from this use of bromine." << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
         cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
@@ -959,7 +959,7 @@ void TextElement()
         cout << "Positive aspects:" << endl << endl;
         cout << "1. Lighting: Krypton is sometimes used in certain types of high-intensity discharge (HID) lamps and fluorescent lamps. It can enhance the efficiency and brightness of these lamps, contributing to improved lighting in various industrial and commercial settings." << endl << endl;
         cout << "2. Laser Technology: Krypton is used in some types of gas lasers, particularly krypton fluoride (KrF) lasers. These lasers have applications in areas like lithography for semiconductor manufacturing and scientific research. The development and use of krypton-based lasers can support advancements in technology and research." << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "3. Scientific Research: Krypton, particularly in its isotope form krypton-85, is used in scientific research, including environmental studies and radiometric dating. Its presence in the atmosphere allows scientists to gain insights into atmospheric circulation and mixing processes. In radiometric dating, krypton-85 can be used to estimate the age of groundwater and ice cores, providing valuable information for various scientific disciplines." << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
         cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
@@ -979,8 +979,8 @@ void TextElement()
         SetConsoleTextAttribute(hc, 2);
         cout << "Positive aspects:" << endl << endl;
         cout << "1. Scientific Research: Rubidium is used in atomic physics and research applications, particularly in the development of atomic clocks and studies of quantum mechanics. These scientific advancements contribute to our understanding of fundamental physics and technology, which can have indirect economic benefits in terms of technological innovation." << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "2. Medical Applications: Rubidium-82, a radioactive isotope of rubidium, is used in positron emission tomography (PET) scans for medical imaging. These scans play a crucial role in diagnosing and monitoring various medical conditions, contributing to advancements in healthcare." << endl << endl;
+        cout << "3. Specialized Technologies: Rubidium has applications in certain specialized technologies, including atomic clocks and certain types of electronic devices. Atomic clocks that use rubidium frequency standards are used in applications such as global navigation systems and telecommunications, contributing to advancements in technology." << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
         cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
@@ -989,7 +989,7 @@ void TextElement()
         cout << "Negative aspects:" << endl << endl;
         cout << "1. Resource Scarcity: Rubidium is relatively rare and expensive compared to more abundant elements. Its limited availability can make it costly for research and specialized technology applications, potentially increasing the cost of equipment that uses rubidium." << endl << endl;
         cout << "2. Niche Applications: Rubidium's applications are highly specialized and limited to scientific research, atomic clocks, and certain technology sectors. Its contribution to the broader economy is minimal compared to other more commonly used materials and resources." << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "3. Environmental Concerns: While rubidium itself is not considered highly toxic, its compounds can have environmental impacts if not managed properly. Mining and extraction processes may result in environmental disruption, and the disposal of waste materials containing rubidium should be done responsibly." << endl << endl;
         SetConsoleTextAttribute(hc, 7);
         break;
 
@@ -1000,8 +1000,8 @@ void TextElement()
         SetConsoleTextAttribute(hc, 2);
         cout << "Positive aspects:" << endl << endl;
         cout << "1. Fireworks and Pyrotechnics: Strontium compounds, particularly strontium nitrate and strontium carbonate, are used to produce red flames in fireworks and pyrotechnics. Strontium-based fireworks create visually appealing displays during celebrations and events, contributing to the entertainment industry." << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "2. Medical Imaging: Strontium isotope, specifically strontium-89, is used in nuclear medicine for the treatment of bone pain associated with certain cancers. This application contributes to the healthcare sector and provides therapeutic options for patients." << endl << endl;
+        cout << "3. Flares and Signal Devices: Strontium compounds are used in the production of flares and signal devices, where their bright red flame enhances visibility. These applications contribute to the defense sector, search and rescue operations, and marine safety." << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
         cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
@@ -1010,7 +1010,7 @@ void TextElement()
         cout << "Negative aspects:" << endl << endl;
         cout << "1. Resource Scarcity: Strontium is not as abundant as some other elements, and its availability can be limited. This scarcity can affect the cost of strontium compounds used in fireworks and other applications, potentially impacting the cost of producing fireworks." << endl << endl;
         cout << "2. Niche Applications: Strontium's applications are specialized and limited to fireworks, pyrotechnics, and some minor roles in the glass and ceramic industries. Its contribution to the broader economy is relatively small compared to more commonly used materials and resources." << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "3. Health Concerns: While stable strontium is not considered highly toxic, excessive intake of strontium can have health implications, particularly if it substitutes for calcium in bones. Efforts to manage strontium exposure are crucial to prevent potential health risks." << endl << endl;
         SetConsoleTextAttribute(hc, 7);
         break;
 
@@ -1022,7 +1022,7 @@ void TextElement()
         cout << "Positive aspects:" << endl << endl;
         cout << "1. High-Tech Manufacturing: Yttrium is used in various high-tech applications, particularly in the manufacturing of phosphors for color television tubes and LEDs. It is essential for producing red phosphors used in display technologies, which contribute to the consumer electronics and entertainment industries." << endl << endl;
         cout << "2. Laser Technology: Yttrium-aluminum-garnet (YAG) crystals are used in solid-state lasers, which have applications in medical devices, industrial cutting and welding, and scientific research. The development and use of YAG lasers support advancements in technology and research." << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "3. Ceramics and Superconductors: Yttrium oxide is used in the production of high-temperature superconductors and certain ceramic materials. These materials have applications in electronics, energy transmission, and other industries, contributing to advancements in technology." << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
         cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
@@ -1105,8 +1105,8 @@ void TextElement()
         SetConsoleTextAttribute(hc, 2);
         cout << "Positive aspects:" << endl << endl;
         cout << "1. Medical Imaging: Technetium-99m, a radioactive isotope of technetium, is used in nuclear medicine for diagnostic imaging procedures, such as single-photon emission computed tomography (SPECT) scans. It plays a crucial role in the field of medical imaging, helping to diagnose and monitor various medical conditions." << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "2. Diagnostic Advancements: Technetium-99m plays a vital role in advancing diagnostic capabilities in medicine. It allows for non-invasive imaging of internal structures and physiological functions, aiding in the early detection and accurate diagnosis of various medical conditions. This can lead to more effective and targeted treatment plans, contributing positively to healthcare outcomes." << endl << endl;
+        cout << "3. Research and Development: The study and development of technetium-based radiopharmaceuticals for medical imaging contribute to ongoing research and innovation in the field of nuclear medicine. This research not only enhances diagnostic techniques but also opens avenues for the development of new radiopharmaceuticals with potential applications in treatment and therapy." << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
         cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
@@ -1209,9 +1209,9 @@ void TextElement()
 
         SetConsoleTextAttribute(hc, 2);
         cout << "Positive aspects:" << endl << endl;
-        cout << "1. " << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "1. Pigments in Art and Ceramics: Cadmium compounds have been historically used as pigments in art and ceramics. Cadmium-based pigments, such as cadmium red and cadmium yellow, were valued for their bright and stable colors. While these pigments were widely used in the past, concerns about toxicity have led to increased use of alternative, safer pigments in contemporary art and manufacturing." << endl << endl;
+        cout << "2. Nickel-Cadmium Batteries (Historical): Historically, nickel-cadmium (NiCd) batteries were widely used in various applications, including portable electronics and power tools. However, their use has decreased due to environmental concerns and the adoption of alternative battery technologies." << endl << endl;
+        cout << "3. Metal Alloys: Cadmium is used as an alloying element in certain metal alloys, such as those used in the production of solder and certain types of corrosion-resistant coatings. These alloys contribute to the manufacturing of various products, including electronics and coatings for steel." << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
         cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
@@ -1337,7 +1337,7 @@ void TextElement()
         cout << "Positive aspects:" << endl << endl;
         cout << "1. Medical Imaging: Xenon is used in medical imaging, particularly in xenon CT (computed tomography) scans. It has applications in imaging the blood flow to the brain, providing valuable information for medical diagnosis." << endl << endl;
         cout << "2. Lighting: While not a primary application, xenon gas is used in certain types of high-intensity discharge lamps, such as xenon arc lamps. These lamps have applications in projection systems, automotive headlights, and other specialized lighting." << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "3. Space Exploration: Xenon is used as a propellant in ion thrusters for spacecraft. The use of xenon in space exploration contributes to advancements in aerospace technology and related industries." << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
         cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
@@ -1358,7 +1358,7 @@ void TextElement()
         cout << "Positive aspects:" << endl << endl;
         cout << "1. Atomic Clocks: Cesium is used in atomic clocks, specifically in devices called cesium atomic clocks. These clocks are highly accurate and are used in various applications, including scientific research, telecommunications, and global positioning systems (GPS). Accurate timekeeping is essential for synchronization in various technological systems." << endl << endl;
         cout << "2. Oil and Gas Exploration: Cesium magnetometers, which measure variations in the Earth's magnetic field, are used in oil and gas exploration. They help identify subsurface structures and can contribute to the discovery of underground resources." << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "3. Medical Imaging: Cesium-137, a radioactive isotope of cesium, is used in nuclear medicine for cancer treatment and certain imaging procedures. The medical applications of cesium contribute to advancements in healthcare and provide therapeutic options for patients." << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
         cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
@@ -1379,7 +1379,7 @@ void TextElement()
         cout << "Positive aspects:" << endl << endl;
         cout << "1. Oil and Gas Industry: Barium sulfate, in the form of barite, is a key component in drilling fluids used in the oil and gas industry. It helps control well pressure, lubricate drill bits, and prevent blowouts during drilling operations. The demand for barite in oil and gas exploration contributes to economic activity in this sector." << endl << endl;
         cout << "2. Medical Imaging: Barium is used in medical imaging procedures, specifically in barium swallow tests and barium enemas. These tests help visualize the gastrointestinal tract, aiding in the diagnosis of various medical conditions. The use of barium in healthcare contributes to the medical and pharmaceutical industries." << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "3. Consumer Products: Barium compounds have applications in the production of consumer products such as fireworks, glass, and ceramics. The use of barium in these products contributes to economic activities in the manufacturing and entertainment industries." << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
         cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
@@ -1483,8 +1483,8 @@ void TextElement()
         SetConsoleTextAttribute(hc, 2);
         cout << "Positive aspects:" << endl << endl;
         cout << "1. Nuclear Batteries: Promethium-147, a radioactive isotope of promethium, has been used in nuclear batteries. These batteries have been employed in situations where a long-lasting and compact power source is needed, such as in spacecraft, pacemakers, and certain remote sensors." << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "2. Thickness Gauges: Promethium has been used in thickness gauges for industrial applications, particularly in the measurement of materials like paper, plastics, and metal. These gauges contribute to quality control processes in manufacturing." << endl << endl;
+        cout << "3. Smoke Detectors: Promethium has historically been used in some types of ionization chamber smoke detectors. The ionization chamber contains a small amount of promethium-147, which emits alpha particles. When smoke particles enter the chamber, they disrupt the flow of the alpha particles, triggering an alarm. This application contributes to fire safety in residential and commercial buildings." << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
         cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
@@ -1610,7 +1610,7 @@ void TextElement()
         cout << "Positive aspects:" << endl << endl;
         cout << "1. Medical Applications: Holmium has medical applications, particularly in the field of nuclear medicine. Holmium-166, a radioactive isotope of holmium, is used in certain cancer treatments, such as brachytherapy, where radioactive sources are placed directly into or near tumors." << endl << endl;
         cout << "2. Lasers: Holmium is used as a dopant in certain types of lasers, such as holmium-doped yttrium aluminum garnet (YAG) lasers. These lasers have applications in medical procedures, laser surgery, and scientific research." << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "3. Research and Development: Holmium, like other rare earth elements, is used in the research and development of advanced technologies. Its unique properties make it valuable for specific applications in materials science, electronics, and telecommunications." << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
         cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
@@ -1652,7 +1652,7 @@ void TextElement()
         cout << "Positive aspects:" << endl << endl;
         cout << "1. Medical Applications: Thulium-170, a radioactive isotope of thulium, has applications in medical imaging and certain cancer treatments. Thulium lasers are also used in medical procedures, such as laser surgery." << endl << endl;
         cout << "2. Scientific Research: Thulium is used in scientific research, particularly in spectroscopy and studies of materials. Its unique properties make it valuable for specific analytical techniques." << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "3. Research and Development: Thulium, like other rare earth elements, is used in the research and development of advanced technologies. Its unique properties make it valuable for specific applications in materials science, electronics, and telecommunications." << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
         cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
@@ -1694,7 +1694,7 @@ void TextElement()
         cout << "Positive aspects:" << endl << endl;
         cout << "1. Medical Applications: Lutetium-177, a radioactive isotope of lutetium, has applications in targeted radionuclide therapy for certain types of cancer. Lutetium compounds are used in radiopharmaceuticals for medical imaging and therapeutic purposes." << endl << endl;
         cout << "2. Scientific Research: Lutetium is used in scientific research, particularly in studies involving the development of new materials, catalysts, and certain high-tech applications." << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "3. Research and Development: Lutetium, like other rare earth elements, is used in the research and development of advanced technologies. Its unique properties make it valuable for specific applications in materials science, electronics, and telecommunications." << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
         cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
@@ -1715,7 +1715,7 @@ void TextElement()
         cout << "Positive aspects:" << endl << endl;
         cout << "1. Nuclear Reactors: Hafnium has applications in nuclear reactors, where it can be used as a neutron absorber in control rods. Hafnium-based control rods are utilized in some reactor designs to regulate the rate of nuclear reactions." << endl << endl;
         cout << "2. Semiconductor Manufacturing: Hafnium compounds, particularly hafnium oxide, are used in the manufacturing of semiconductors. Hafnium-based materials contribute to the development of advanced electronic devices." << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "3. Aerospace Industry: Hafnium alloys have been used in aerospace applications, particularly in high-temperature environments. The unique properties of hafnium make it suitable for certain components in jet engines and spacecraft, contributing to advancements in aerospace technology." << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
         cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
@@ -1799,7 +1799,7 @@ void TextElement()
         cout << "Positive aspects:" << endl << endl;
         cout << "1. Electronics and Technology: Osmium has applications in certain electronic components, particularly in the production of specialized electrical contacts and switches. Its hardness and durability make it suitable for specific technological applications." << endl << endl;
         cout << "2. Catalysis: Osmium compounds are used as catalysts in some chemical processes, contributing to increased efficiency and reduced environmental impact in the chemical industry." << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "3. Alloys: Osmium is alloyed with other metals, such as platinum, to create alloys with desirable properties. These alloys are used in certain specialized applications, including the production of pen tips, electrical contacts, and some medical devices." << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
         cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
@@ -1883,7 +1883,7 @@ void TextElement()
         cout << "Positive aspects:" << endl << endl;
         cout << "1. Electronics and Industrial Applications: Mercury has historically been used in various industrial processes and electronic devices, including switches, thermometers, and certain types of batteries. Its unique properties, such as electrical conductivity and fluidity, made it valuable for specific applications." << endl << endl;
         cout << "2. Artisanal and Small-Scale Gold Mining (ASGM): Mercury has been used in ASGM as a means of extracting gold from ore. The amalgamation process, which involves mixing mercury with gold-containing materials, has been a common method in some regions." << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "3. Medical Devices: Some medical devices, such as thermometers and blood pressure monitors, historically used mercury. While the use of mercury in medical devices has decreased due to environmental and health concerns, it has contributed to the healthcare industry." << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
         cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
@@ -1904,7 +1904,7 @@ void TextElement()
         cout << "Positive aspects:" << endl << endl;
         cout << "1. Electronics and Optics: Thallium compounds have been used in the electronics and optics industries. Thallium-based materials, such as thallium bromide and thallium iodide, have been employed in infrared detectors and certain optical systems." << endl << endl;
         cout << "2. Medical Imaging: Thallium-201, a radioactive isotope of thallium, has been used in nuclear medicine for imaging purposes, particularly in heart imaging studies to assess blood flow to the heart muscle." << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "3. Optics and Glass Manufacturing: Thallium oxide has been used in the manufacturing of special types of glass and lenses for specific optical applications. This contributes to advancements in optics and certain high-tech glass products." << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
         cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
@@ -1925,7 +1925,7 @@ void TextElement()
         cout << "Positive aspects:" << endl << endl;
         cout << "1. Battery Manufacturing: Lead-acid batteries are a significant application of lead and are widely used for various purposes, including automotive batteries for vehicles, backup power supplies, and renewable energy storage. The battery industry contributes to economic activity and provides energy storage solutions." << endl << endl;
         cout << "2. Construction: Lead is used in construction materials, particularly in roofing, pipes, and certain alloys. Its properties, such as corrosion resistance and malleability, make it suitable for certain construction applications." << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "3. Ammunition: Lead has been used in the production of ammunition and bullets due to its density. Lead bullets are still widely used for certain applications." << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
         cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
@@ -1946,7 +1946,7 @@ void TextElement()
         cout << "Positive aspects:" << endl << endl;
         cout << "1. Pharmaceuticals: Bismuth compounds, such as bismuth subsalicylate, have been used in medications to treat gastrointestinal issues, including indigestion and diarrhea. Bismuth-based drugs contribute to the pharmaceutical industry." << endl << endl;
         cout << "2. Alloys: Bismuth is used in certain alloys, such as bismuth-tin alloys, which have low melting points. These alloys find applications in soldering and casting." << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "3. Cosmetics: Bismuth oxychloride, a compound of bismuth, is used in cosmetics, such as face powders. Its properties contribute to the production of cosmetic products with a smooth texture and pearly appearance." << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
         cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
@@ -1966,8 +1966,8 @@ void TextElement()
         SetConsoleTextAttribute(hc, 2);
         cout << "Positive aspects:" << endl << endl;
         cout << "1. Nuclear Industry: Polonium-210 has been used in certain applications within the nuclear industry, particularly in nuclear reactors. It can serve as a neutron initiator in some nuclear weapons designs." << endl << endl;
-        cout << "2. Static Elimination: Polonium-210 has been used in certain industrial applications for static elimination, primarily in the printing industry. Its radioactive properties contribute to its effectiveness in neutralizing static charges on surfaces." << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "2. Static Elimination: Polonium has been used in certain industrial applications for static elimination, primarily in the printing industry. Its radioactive properties contribute to its effectiveness in neutralizing static charges on surfaces." << endl << endl;
+        cout << "3. Scientific Research: Polonium has contributed to scientific research, particularly in the early 20th century when its discovery by Marie and Pierre Curie expanded our understanding of radioactive elements. This scientific knowledge has had broader implications for nuclear physics and chemistry." << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
         cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
@@ -1987,8 +1987,8 @@ void TextElement()
         SetConsoleTextAttribute(hc, 2);
         cout << "Positive aspects:" << endl << endl;
         cout << "1. Research and Scientific Studies: Astatine is primarily used in scientific research, particularly in nuclear physics and medicine. Its radioactivity and unique properties make it valuable for studying fundamental atomic and nuclear processes." << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "2. Scientific Research: Astatine has value in scientific research, particularly in nuclear physics and chemistry. Its properties and behavior contribute to the understanding of the periodic table and the behavior of halogens." << endl << endl;
+        cout << "3. Medical Research: Despite its limitations for practical applications, astatine is of interest in medical research for its potential use in targeted alpha-particle cancer therapy. Research is ongoing to explore the feasibility of using astatine-labeled compounds to selectively deliver radiation to cancer cells." << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
         cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
@@ -2008,8 +2008,8 @@ void TextElement()
         SetConsoleTextAttribute(hc, 2);
         cout << "Positive aspects:" << endl << endl;
         cout << "1. Scientific Research: Radon is used in scientific research, particularly in studies related to radioactive decay and the behavior of radionuclides. Research involving radon can contribute to a better understanding of radioactivity." << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "2. Radon Measurement and Mitigation Industry: The need to address radon issues has led to the development of an industry focused on radon measurement and mitigation. This industry includes professionals who test for radon levels, provide mitigation services, and install radon-resistant construction practices. The growth of this industry contributes to job creation and economic activity." << endl << endl;
+        cout << "3. Public Awareness and Education: Efforts to raise awareness about the dangers of radon and educate the public about mitigation strategies contribute to public health. While not directly economic, these awareness programs can lead to healthier populations, potentially reducing the economic burden of healthcare costs associated with radon-related illnesses." << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
         cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
@@ -2029,8 +2029,8 @@ void TextElement()
         SetConsoleTextAttribute(hc, 2);
         cout << "Positive aspects:" << endl << endl;
         cout << "1. Scientific Research: Francium is used in scientific research, particularly in nuclear physics, as it provides insights into atomic structure and decay processes. However, these applications are limited to laboratory settings." << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "2. Nuclear Physics Advancements: The study of francium can contribute to advancements in nuclear physics, helping scientists understand fundamental properties of atomic structures and contributing to the broader scientific knowledge base." << endl << endl;
+        cout << "3. Educational Value: The study of francium in academic settings provides educational value. It serves as an example in chemistry and physics classrooms to illustrate principles related to radioactivity, atomic structure, and the periodic table. Educating students about rare and exotic elements like francium contributes to a broader understanding of the natural world." << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
         cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
@@ -2051,7 +2051,7 @@ void TextElement()
         cout << "Positive aspects:" << endl << endl;
         cout << "1. Historical Uses: In the early to mid-20th century, radium was used in various consumer products, such as glow-in-the-dark paints, watch dials, and medical treatments. Its luminescent properties made it valuable for these applications." << endl << endl;
         cout << "2. Medical Applications: Historically, radium was used in medicine for cancer treatments and in certain medical devices. However, modern medical practices have largely shifted away from radium due to its radioactive nature and associated health risks." << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "3. Contributions to Scientific Knowledge: Radium's discovery by Marie Curie and Pierre Curie in 1898 played a crucial role in advancing our understanding of radioactivity. Their groundbreaking work on radium and other radioactive elements earned them the Nobel Prize in Physics in 1903. Radium's unique properties contributed to the development of the field of nuclear physics and paved the way for subsequent scientific discoveries. The pursuit of knowledge and the scientific insights gained from the study of radium represent a positive contribution to human understanding of the natural world." << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
         cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
@@ -2071,8 +2071,8 @@ void TextElement()
         SetConsoleTextAttribute(hc, 2);
         cout << "Positive aspects:" << endl << endl;
         cout << "1. Scientific Research: Actinium is used in scientific research, particularly in nuclear physics and the study of radioactive decay. Its properties make it valuable for understanding fundamental atomic and nuclear processes." << endl << endl;
-        cout << "2. eutron Production: Actinium-227, a decay product of uranium-235, can be used as a neutron source in certain applications, such as in neutron radiography and research reactors." << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "2. Neutron Production: Actinium-227, a decay product of uranium-235, can be used as a neutron source in certain applications, such as in neutron radiography and research reactors." << endl << endl;
+        cout << "3. Potential for Medical Applications: While not extensively utilized, actinium-225 is being investigated for potential use in targeted alpha-particle cancer therapy. The unique properties of actinium-225, including its alpha-emitting radiation, make it a candidate for delivering highly localized radiation to cancer cells. Research and development in this area could contribute to advancements in cancer treatment, offering a more targeted and effective approach." << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
         cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
@@ -2114,7 +2114,7 @@ void TextElement()
         cout << "Positive aspects:" << endl << endl;
         cout << "1. Scientific Research: Protactinium is used in scientific research, particularly in nuclear physics and the study of radioactive decay. Its properties make it valuable for understanding fundamental atomic and nuclear processes." << endl << endl;
         cout << "2. Neutron Production: Protactinium-233, a decay product of thorium-232, can be used to produce neutrons. Neutrons have applications in various fields, including scientific research, materials testing, and certain industrial processes." << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "3. Potential Role in Advanced Nuclear Reactors: Protactinium-233 can be bred from thorium-232 in certain nuclear reactor designs. The utilization of thorium as a nuclear fuel, with protactinium-233 as an intermediate step in the thorium fuel cycle, is being explored in advanced nuclear reactor research. The potential use of protactinium in advanced reactor technologies could contribute to the development of more efficient and sustainable nuclear energy solutions." << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
         cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
@@ -2156,7 +2156,7 @@ void TextElement()
         cout << "Positive aspects:" << endl << endl;
         cout << "1. Scientific Research: Neptunium is used in scientific research, particularly in studies related to nuclear physics and the behavior of radioactive elements. Research involving neptunium contributes to a better understanding of fundamental atomic and nuclear processes." << endl << endl;
         cout << "2. Potential Nuclear Fuel: Neptunium-237 can be produced in nuclear reactors, and there is ongoing research into its potential use as a nuclear fuel. In certain reactor designs, neptunium could undergo fission, contributing to energy production." << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "3. Potential for Nuclear Waste Transmutation: Neptunium-237, which is a byproduct of nuclear reactors, can be challenging to manage due to its long half-life. Some advanced nuclear reactor designs explore the possibility of transmuting neptunium and other long-lived transuranic elements into shorter-lived or stable isotopes. This process, known as nuclear waste transmutation, has the potential to reduce the long-term radiotoxicity of nuclear waste and make the management of radioactive materials more sustainable." << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
         cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
@@ -2197,8 +2197,8 @@ void TextElement()
         SetConsoleTextAttribute(hc, 2);
         cout << "Positive aspects:" << endl << endl;
         cout << "1. Smoke Detectors: Americium-241 is used in ionization-type smoke detectors. These detectors are commonly used in residential and commercial buildings to detect the presence of smoke and provide early warning in case of fire." << endl << endl;
-        cout << "2. " << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "2. Industrial Gauging Devices: Americium-241 has been used in certain industrial gauging devices, particularly in the measurement of density and thickness. These devices contribute to quality control processes in industries such as manufacturing, providing accurate measurements for materials." << endl << endl;
+        cout << "3. Potential for Neutron Sources: Americium-241 can serve as a neutron source in certain applications, contributing to scientific research and industrial applications that require controlled neutron radiation. Neutron sources are used in various fields, including materials testing and analysis." << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
         cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
@@ -2219,7 +2219,7 @@ void TextElement()
         cout << "Positive aspects:" << endl << endl;
         cout << "1. Scientific Research: Curium is used in scientific research, particularly in studies related to nuclear physics and the behavior of radioactive elements. Research involving curium contributes to a better understanding of fundamental atomic and nuclear processes." << endl << endl;
         cout << "2. Nuclear Fuel Production: Curium-244 has been considered as a potential fuel for advanced nuclear reactors. Research is ongoing to explore its use in the production of electricity through nuclear fission." << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "3. Potential for Neutron Sources: Certain isotopes of curium, such as curium-244, can serve as neutron sources. These sources are used in scientific research, including experiments that require controlled neutron radiation. Neutron sources also find applications in materials testing and analysis." << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
         cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
@@ -2240,7 +2240,7 @@ void TextElement()
         cout << "Positive aspects:" << endl << endl;
         cout << "1. Scientific Research: Berkelium is used in scientific research, particularly in studies related to nuclear physics and the behavior of radioactive elements. Research involving berkelium contributes to a better understanding of fundamental atomic and nuclear processes." << endl << endl;
         cout << "2. Isotope Production: Certain isotopes of berkelium, such as berkelium-249, can be used in the production of other elements through neutron irradiation. These isotopes may have applications in scientific research and industrial processes." << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "3. Potential for Neutron Sources: Certain isotopes of berkelium, such as berkelium-249, can serve as neutron sources. These sources are used in scientific research, including experiments that require controlled neutron radiation. Neutron sources also find applications in materials testing and analysis." << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
         cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
@@ -2261,7 +2261,7 @@ void TextElement()
         cout << "Positive aspects:" << endl << endl;
         cout << "1. Scientific Research: Californium is used in scientific research, particularly in studies related to nuclear physics and the behavior of radioactive elements. Research involving californium contributes to a better understanding of fundamental atomic and nuclear processes." << endl << endl;
         cout << "2. Neutron Source: Californium-252 is a powerful neutron source and is used in certain industrial and scientific applications, including neutron radiography, moisture gauges, and in the detection of metals." << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "3. Potential for Cancer Treatment: While in the early stages of exploration, some research has investigated the use of californium-252 in cancer treatment. The intense neutron radiation emitted by californium-252 could be utilized in boron neutron capture therapy (BNCT), a technique that targets cancer cells with high precision. The potential application of californium in cancer therapy represents an area of ongoing research with the aim of developing more effective and targeted treatments for certain types of cancer." << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
         cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
@@ -2282,7 +2282,7 @@ void TextElement()
         cout << "Positive aspects:" << endl << endl;
         cout << "1. Scientific Research: Einsteinium is used in scientific research, particularly in studies related to nuclear physics and the behavior of radioactive elements. Research involving einsteinium contributes to a better understanding of fundamental atomic and nuclear processes." << endl << endl;
         cout << "2. Isotope Production: Certain isotopes of einsteinium, such as einsteinium-254, can be used in the production of other elements through neutron irradiation. These isotopes may have applications in scientific research and industrial processes." << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "3. Potential for Neutron Sources: Einsteinium-254, one of its isotopes, can serve as a neutron source. This isotope has applications in scientific research, including experiments requiring controlled neutron radiation." << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
         cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
@@ -2303,7 +2303,7 @@ void TextElement()
         cout << "Positive aspects:" << endl << endl;
         cout << "1. Scientific Research: Fermium is used in scientific research, particularly in studies related to nuclear physics and the behavior of radioactive elements. Research involving fermium contributes to a better understanding of fundamental atomic and nuclear processes." << endl << endl;
         cout << "2. Isotope Production: Certain isotopes of fermium, such as fermium-255, can be used in the production of other elements through neutron irradiation. These isotopes may have applications in scientific research and industrial processes." << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "3. Contributions to the Periodic Table: The discovery and study of fermium, along with other transuranic elements, have expanded our understanding of the periodic table. Fermium's placement in the actinide series contributes to the overall organization of chemical elements." << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
         cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
@@ -2324,7 +2324,7 @@ void TextElement()
         cout << "Positive aspects:" << endl << endl;
         cout << "1. Scientific Research: Mendelevium is used in scientific research, particularly in studies related to nuclear physics and the behavior of radioactive elements. Research involving mendelevium contributes to a better understanding of fundamental atomic and nuclear processes." << endl << endl;
         cout << "2. Isotope Production: Certain isotopes of mendelevium, such as mendelevium-256, can be used in the production of other elements through neutron irradiation. These isotopes may have applications in scientific research and industrial processes." << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "3. Contributions to the Periodic Table: Mendelevium's discovery and study, along with other transuranic elements, have expanded our understanding of the periodic table. Mendelevium's placement in the actinide series contributes to the overall organization of chemical elements." << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
         cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
@@ -2345,7 +2345,7 @@ void TextElement()
         cout << "Positive aspects:" << endl << endl;
         cout << "1. Scientific Research: Nobelium is used in scientific research, particularly in studies related to nuclear physics and the behavior of radioactive elements. Research involving nobelium contributes to a better understanding of fundamental atomic and nuclear processes." << endl << endl;
         cout << "2. Isotope Production: Certain isotopes of nobelium, such as nobelium-259, can be used in the production of other elements through neutron irradiation. These isotopes may have applications in scientific research and industrial processes." << endl << endl;
-        cout << "3. " << endl << endl;
+        cout << "3. Contributions to the Periodic Table: The discovery and study of nobelium, along with other transuranic elements, have expanded our understanding of the periodic table. Nobelium's placement in the actinide series contributes to the overall organization of chemical elements." << endl << endl;
 
         SetConsoleTextAttribute(hc, 7);
         cout << "------------------------------------------------------------------------------------------------------------------------" << endl << endl;
