@@ -37,6 +37,10 @@ This app is suitable for people who want to get more information about the posit
 - <a href="https://github.com/ATSivkov21"> Alexander Sivkov (Frontend Developer) </a><br>
 - <a href="https://github.com/VBPendashev21"> Valentin Pendashev (Backend developer) </a><br>
 
+## See our documents here
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Microsoft_Word_2013-2019_logo.svg/587px-Microsoft_Word_2013-2019_logo.svg.png?20221202081051" width="15" height="15"> [documentation](https://github.com/VRLazarov21/Challengers/blob/main/documentation/Team%20Challengers%20documentaion.docx)  
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg/640px-Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg.png" width="15" height="15"> [presentaion](https://github.com/VRLazarov21/Challengers/blob/main/documentation/Team%20Challenger%20presentation.pptx)  
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/640px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" width="15" height="15"> [QA documentaion](https://github.com/VRLazarov21/Challengers/blob/main/documentation/Team%20Challengers%20QA%20table.xlsx)
  
 ##
 <h1 align="center" >Enjoy our app</h1>
