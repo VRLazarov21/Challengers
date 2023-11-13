@@ -1,11 +1,10 @@
-#pragma once
-
 #include <iostream>
 #include <iomanip>
 #include <string>
 #include <vector>
 #include <Windows.h>
 #include <conio.h>
+#include <cstdlib>
 
 using namespace std;
 
@@ -221,7 +220,7 @@ void TextElement()
     switch (find_output())
     {
     case 1:SetConsoleTextAttribute(hc, 7);
-        cout << "Hydrogen (H2):" << endl << endl;
+        cout << "Hydrogen (H):" << endl << endl;
 
         SetConsoleTextAttribute(hc, 2);
         cout << "Positive aspects:" << endl << endl;
@@ -2718,4 +2717,10 @@ void TextElement()
             cout << "ERROR. Try again! \n";
         }
     } while (userInput == "Exit" || is_element(userInput));
+}
+int main()
+{
+    table();
+    find();
+    TextElement();
 }
