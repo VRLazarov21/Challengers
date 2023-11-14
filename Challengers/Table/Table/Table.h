@@ -29,6 +29,43 @@ string FindElements[118] = {
       "Rf","Db","Sg","Bh","Hs","Mt","Ds","Rg","Cn","Nh","Fl","Mc","Lv","Ts","Og"
 };
 
+void menu() {
+
+    HANDLE color = GetStdHandle(STD_OUTPUT_HANDLE);
+    SetConsoleTextAttribute(color, 7);
+
+    string MenuArr[7][1]{
+        "___________________",
+        "|                 |",
+        "|       MENU      |",
+        "|                 |",
+        "|     Elements    |",
+        "|       Exit      |",
+        "|_________________|"
+    };
+    SetConsoleTextAttribute(color, 11);
+    for (int i = 0; i < 7; i++) {
+        cout << MenuArr[i][0] << endl;
+    }
+    string InputChouse;
+    SetConsoleTextAttribute(color, 7);
+    cout << "Your chouse : ";
+    SetConsoleTextAttribute(color, 11);
+    cin >> InputChouse;
+    cout << endl;
+    SetConsoleTextAttribute(color, 7);
+    while (InputChouse != "" && InputChouse != "Elements" && InputChouse != "Colors" && InputChouse != "Exit") {
+        SetConsoleTextAttribute(color, 12);
+        cout << "Error" << endl;
+        SetConsoleTextAttribute(color, 7);
+        cout << "Your chouse : ";
+        SetConsoleTextAttribute(color, 11);
+        cin >> InputChouse;
+        cout << endl;
+        SetConsoleTextAttribute(color, 7);
+    }
+}
+
 
 int find_output()
 {
@@ -2726,6 +2763,7 @@ void TextElement()
 }
 int main()
 {
+    menu();
     table();
     find();
     TextElement();

@@ -88,7 +88,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <AdditionalIncludeDirectories>C:\Users\Alex\OneDrive\Работен плот\Challengers_libary;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Users\ATSivkov21\source\repos\Challengers\Challengers\Menu\Menu;C:\Users\ATSivkov21\source\repos\Challengers\Challengers\Find\Find;C:\Users\ATSivkov21\source\repos\Challengers\Challengers\Table\Table;C:\Users\Alex\OneDrive\Работен плот\Challengers_libary;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>

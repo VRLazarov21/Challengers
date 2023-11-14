@@ -1,2 +1,9 @@
 ﻿  Challengers.cpp
-C:\Users\ATSivkov21\source\repos\Challengers\Challengers\Challengers\Challengers\Challengers.cpp(2,10): fatal  error C1083: Cannot open include file: 'Find.h': No such file or directory
+C:\Users\ATSivkov21\source\repos\Challengers\Challengers\Menu\Menu\Menu.h(45,5): error C2084: function 'int main(void)' already has a body
+C:\Users\ATSivkov21\source\repos\Challengers\Challengers\Find\Find\Find.h(49,5): message : see previous definition of 'main'
+C:\Users\ATSivkov21\source\repos\Challengers\Challengers\Table\Table\Table.h(46,6): error C2084: function 'void find(void)' already has a body
+C:\Users\ATSivkov21\source\repos\Challengers\Challengers\Find\Find\Find.h(9,6): message : see previous definition of 'find'
+C:\Users\ATSivkov21\source\repos\Challengers\Challengers\Table\Table\Table.h(61,18): error C2264: 'find': error in function definition or declaration; function not called
+C:\Users\ATSivkov21\source\repos\Challengers\Challengers\Table\Table\Table.h(2712,18): error C2264: 'find': error in function definition or declaration; function not called
+C:\Users\ATSivkov21\source\repos\Challengers\Challengers\Table\Table\Table.h(2730,10): error C2264: 'find': error in function definition or declaration; function not called
+C:\Users\ATSivkov21\source\repos\Challengers\Challengers\Challengers\Challengers\Challengers.cpp(10,7): error C2264: 'find': error in function definition or declaration; function not called
