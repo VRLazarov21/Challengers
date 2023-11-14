@@ -46,7 +46,9 @@ int find_output()
 void find()
 {
     bool T = false;
-    cout << "Enter the element: ";
+    cout << "Enter the element: "; 
+    HANDLE color = GetStdHandle(STD_OUTPUT_HANDLE);
+    SetConsoleTextAttribute(color, 11);
     cin >> element;
     cout << endl;
     for (int i = 0; i < 118; i++) {
@@ -2700,8 +2702,10 @@ void TextElement()
 
     do {
         cout << "Input: ";
+        HANDLE color1 = GetStdHandle(STD_OUTPUT_HANDLE);
+        SetConsoleTextAttribute(color1, 11);
         cin >> userInput;
-
+        SetConsoleTextAttribute(color1, 7);
         if (userInput == "Exit") {
             system("cls");
             table();
@@ -2714,7 +2718,9 @@ void TextElement()
             TextElement();
         }
         else {
+            SetConsoleTextAttribute(color1, 4);
             cout << "ERROR. Try again! \n";
+            SetConsoleTextAttribute(color1, 7);
         }
     } while (userInput == "Exit" || is_element(userInput));
 }

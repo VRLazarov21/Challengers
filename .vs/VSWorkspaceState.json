@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Challengers",
+    "\\Challengers\\Challengers",
+    "\\Challengers\\Challengers\\Challengers"
   ],
-  "SelectedNode": "\\ConsoleApplication5.sln",
+  "SelectedNode": "\\Challengers\\Challengers\\Challengers\\Challengers.cpp",
   "PreviewInSolutionExplorer": false
 }
